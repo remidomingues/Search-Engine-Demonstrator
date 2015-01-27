@@ -103,7 +103,11 @@ public class HashedIndex implements src.Index {
 
         // Postings retrieval
         for(String t : tokens) {
-            docsIterators.add(getPostings(t).listIterator());
+            src.PostingsList postings = getPostings(t);
+            if(postings == null) {
+                return null;
+            }
+            docsIterators.add(postings.listIterator());
         }
 
         // While none of the lists have been completely explored
