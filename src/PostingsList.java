@@ -80,7 +80,7 @@ public class PostingsList implements Serializable, Comparable {
     @Override
     public int compareTo(Object o) {
         if(o instanceof PostingsList) {
-            return Integer.compare(((PostingsList) o).size(), size());
+            return Integer.compare(size(), ((PostingsList) o).size());
         }
         return 0;
     }

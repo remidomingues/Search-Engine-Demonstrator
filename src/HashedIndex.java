@@ -99,6 +99,7 @@ public class HashedIndex implements src.Index {
         src.PostingsList result = new src.PostingsList();
         // For each token, a list of documents (a document is a PostingsEntry containing a list of offsets)
         LinkedList<ListIterator<src.PostingsEntry>> docsIterators = new LinkedList<ListIterator<src.PostingsEntry>>();
+        LinkedList<src.PostingsList> tokensPostings = new LinkedList<src.PostingsList>();
         int maxDocID, nlists = 0, tmp;
 
         // Postings retrieval
@@ -107,7 +108,17 @@ public class HashedIndex implements src.Index {
             if(postings == null) {
                 return null;
             }
+            tokensPostings.add(postings);
             docsIterators.add(postings.listIterator());
+        }
+
+        // We start with the smallest list (heuristic)
+        if(queryType == src.Index.INTERSECTION_QUERY) {
+            Collections.sort(tokensPostings);
+            docsIterators.clear();
+            for(src.PostingsList postings : tokensPostings) {
+                docsIterators.add(postings.listIterator());
+            }
         }
 
         // While none of the lists have been completely explored
@@ -147,9 +158,10 @@ public class HashedIndex implements src.Index {
                     // Retrieve for the given document the starting position of the sentences
                     List<Integer> positions = getSentencePositions(offsetIterators);
                     // If the document contains at least one sentence (//TODO ASSIGNMENT 2 => RANKING)
-                    if(!positions.isEmpty())
+                    if(!positions.isEmpty()) {
                         // It is a result
                         result.addToken(maxDocID, -1);
+                    }
                 }
             } else {
                 // For every other list
@@ -158,7 +170,9 @@ public class HashedIndex implements src.Index {
                         iter.next();
                         // We iterate until we reach a docID higher or equal, or the end of the list
                         while(iter.hasNext() && iter.next().docID < maxDocID);
-                        iter.previous();
+                        if(iter.previous().docID < maxDocID) {
+                            return result;
+                        }
                     }
                 }
             }
