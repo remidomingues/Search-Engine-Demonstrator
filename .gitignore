@@ -16,3 +16,7 @@ davisWiki
 out
 .idea
 *.iml
+*fuse_hidden*
+
+cache/*
+test/*

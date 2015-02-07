@@ -337,11 +337,16 @@ public class SearchGUI extends JFrame {
      */
     private void index() {
 	synchronized ( indexLock ) {
-	    resultWindow.setText( "\n  Indexing, please wait..." );
-	    for ( int i=0; i<dirNames.size(); i++ ) {
-		File dokDir = new File( dirNames.get( i ));
-		indexer.processFiles( dokDir );
-	    }
+        resultWindow.setText( "\n  Importing index, please wait..." );
+        if(!indexer.index.importIndex()) {
+            resultWindow.setText( "\n  Indexing, please wait..." );
+            for ( int i=0; i<dirNames.size(); i++ ) {
+                File dokDir = new File( dirNames.get( i ));
+                indexer.processFiles( dokDir );
+            }
+            resultWindow.setText( "\n  Saving popular entries, please wait..." );
+            indexer.index.indexingOver();
+        }
 	    resultWindow.setText( "\n  Done!" );
 	}
     };

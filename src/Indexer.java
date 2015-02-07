@@ -28,7 +28,6 @@ public class Indexer {
     /** The next docID to be generated. */
     private int lastDocID = 0;
 
-
     /* ----------------------------------------------- */
 
 
@@ -105,6 +104,7 @@ public class Indexer {
     			insertIntoIndex( docID, token, offset++ );
     		    }
     		    index.docLengths.put( "" + docID, offset );
+                index.nextDoc();
     		    reader.close();
     		}
     		catch ( IOException e ) {
@@ -116,8 +116,6 @@ public class Indexer {
 
 
     /* ----------------------------------------------- */
-
-
     /**
      *  Extracts the textual contents from a PDF file as one long string.
      */
@@ -133,15 +131,11 @@ public class Indexer {
     	return result;
     }
 
-
-    /* ----------------------------------------------- */
-
-
     /**
      *  Indexes one token.
      */
     public void insertIntoIndex( int docID, String token, int offset ) {
-	   index.insert( token, docID, offset );
+        index.insert( token, docID, offset );
     }
 }
 

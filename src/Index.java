@@ -12,7 +12,7 @@ package src;
 import java.util.HashMap;
 import java.util.Iterator;
 
-public interface Index {
+public abstract class Index {
 
     /* Index types */
     public static final int HASHED_INDEX = 0;
@@ -35,11 +35,13 @@ public interface Index {
     public HashMap<String, String> docIDs = new HashMap<String,String>();
     public HashMap<String,Integer> docLengths = new HashMap<String,Integer>();
 
-    public void insert( String token, int docID, int offset );
-    public Iterator<String> getDictionary();
-    public src.PostingsList getPostings( String token );
-    public src.PostingsList search( src.Query query, int queryType, int rankingType, int structureType );
-    public void cleanup();
-
+    abstract public void insert( String token, int docID, int offset );
+    abstract public Iterator<String> getDictionary();
+    abstract public src.PostingsList getPostings( String token );
+    abstract public src.PostingsList search( src.Query query, int queryType, int rankingType, int structureType );
+    abstract public void cleanup();
+    abstract public void indexingOver();
+    abstract public void nextDoc();
+    abstract public boolean importIndex();
 }
 

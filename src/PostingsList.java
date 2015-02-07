@@ -8,49 +8,81 @@
 
 package src;
 
-import java.io.Serializable;
+import java.io.*;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.ListIterator;
 
 /**
- *   A list of postings for a given word.
+ *   A postingsEntries of postings for a given word.
  */
 public class PostingsList implements Serializable, Comparable {
 
-    /** The postings list as a linked list sorted by ascending docID */
-    private LinkedList<src.PostingsEntry> list = new LinkedList<src.PostingsEntry>();
+    /** The postings postingsEntries as a linked postingsEntries sorted by ascending docID */
+    public transient LinkedList<src.PostingsEntry> postingsEntries = new LinkedList<src.PostingsEntry>();
 
-    /**  Number of postings in this list  */
+    public String token;
+
+    private int popularity = 0;
+
+    public PostingsList() {
+        this.token = null;
+    }
+
+    public PostingsList(String token) {
+        this.token = token;
+    }
+
+    /**  Number of postings in this postingsEntries  */
     public int size() {
-	   return list.size();
+	   return postingsEntries.size();
     }
 
     public boolean isEmpty() {
-        return list.isEmpty();
+        return postingsEntries.isEmpty();
+    }
+
+    public void increasePopularity() {
+        ++popularity;
+    }
+
+    public void setPopularity(int popularity) {
+        this.popularity = popularity;
+    }
+
+    public int getPopularity() {
+        return popularity;
+    }
+
+    public void clear() {
+        postingsEntries.clear();
     }
 
     /**  Returns the ith posting */
     public src.PostingsEntry get( int i ) {
-	   return list.get( i );
+	   return postingsEntries.get( i );
     }
 
-    public void addToken(int docID, int offset) {
+    public void addToken(int docID, int offset, src.PostingsEntry fullEntry) {
         src.PostingsEntry pe = null;
 
         // If it is a new document (higher ID)
-        if(list.isEmpty() || list.getLast().docID < docID) {
-            pe = new src.PostingsEntry(docID);
-            list.add(pe);
+        if(postingsEntries.isEmpty() || postingsEntries.getLast().docID < docID) {
+            if(fullEntry == null) {
+                pe = new src.PostingsEntry(docID);
+            } else {
+                pe = fullEntry;
+            }
+            postingsEntries.add(pe);
 
         // If it belongs to the current working document (last one inserted)
-        } else if(list.getLast().docID == docID) {
-            pe = list.getLast();
+        } else if(postingsEntries.getLast().docID == docID) {
+            pe = postingsEntries.getLast();
 
         // Otherwise, we must check if the document exists
         } else {
             src.PostingsEntry tmp;
-            ListIterator<src.PostingsEntry> iter = list.listIterator(list.size());
+            ListIterator<src.PostingsEntry> iter = postingsEntries.listIterator();
             while(iter.hasPrevious() && pe == null) {
                 tmp = iter.previous();
                 if(tmp.docID == docID) {
@@ -65,22 +97,28 @@ public class PostingsList implements Serializable, Comparable {
             // The document does not exist
             if(pe == null) {
                 pe = new src.PostingsEntry(docID);
-                list.add(pe);
+                postingsEntries.add(pe);
             }
         }
 
-        // Offset insertion
-        pe.addOffset(offset);
+        if(fullEntry == null) {
+            // Offset insertion
+            pe.addOffset(offset);
+        }
     }
 
-    public ListIterator<src.PostingsEntry> listIterator() {
-        return list.listIterator();
+    public ListIterator<src.PostingsEntry> postingsEntriesIterator() {
+        return postingsEntries.listIterator();
     }
 
     @Override
     public int compareTo(Object o) {
         if(o instanceof PostingsList) {
-            return Integer.compare(size(), ((PostingsList) o).size());
+            int r = Integer.compare(getPopularity(), ((PostingsList) o).getPopularity());
+            if(r == 0) {
+                return token.compareTo(((PostingsList) o).token);
+            }
+            return r;
         }
         return 0;
     }

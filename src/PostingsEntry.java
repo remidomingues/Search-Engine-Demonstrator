@@ -18,10 +18,15 @@ public class PostingsEntry implements Comparable<PostingsEntry>, Serializable {
     public int docID;
     public double score;
     /** Tokens positions sorted by ascending order */
-    private LinkedList<Integer> offsets = new LinkedList<Integer>();
+    public LinkedList<Integer> offsets = new LinkedList<Integer>();
 
     public PostingsEntry(int docID) {
         this.docID = docID;
+    }
+
+    public PostingsEntry(int docID, LinkedList<Integer> offsets) {
+        this.docID = docID;
+        this.offsets = offsets;
     }
 
     public void addOffset(int offset) {
