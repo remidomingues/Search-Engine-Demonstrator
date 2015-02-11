@@ -28,18 +28,20 @@ public class HashedIndex extends src.Index {
     private int docElapsed = 0;
     private int doc_counter = 0;
     private int requests_counter = 0;
-    private static final String CACHE_PATH = "./cache/";
     private static final String POPULARITY_FILE_NAME = "tree_set";
     private static final String DOCUMENT_ID_FILE_NAME = "doc_id_map";
-    private static final boolean CACHE = true;
     private int word_threshold;
 
+    private static final boolean CACHE = true;
+    private static final boolean CLEAN_CACHE = false;
+    private static final String CACHE_PATH = "./cache/";
+
     /** Each X documents, words below popularity threshold (Y %) are removed from memory */
-    private  static final int DOC_ELAPSED_THRESHOLD = 1000;
+    private  static final int DOC_ELAPSED_THRESHOLD = 10; //1000 docs
     /** Percentage of words kept in memory */
-    private static final int WORD_MEMORY_THRESHOLD = 10;
+    private static final int WORD_MEMORY_THRESHOLD = 0; //1%
     /** Minimum number of words always in memory (used while indexing until the percentage above gets higher) */
-    private static final int MIN_WORD_MEMORY = 15000;
+    private static final int MIN_WORD_MEMORY = 10; //1000
     /** The unpopular tokens (after the word threshold) are removed every N queries */
     private static final int REQUESTS_BEFORE_CLEANING = 3;
 
@@ -237,7 +239,7 @@ public class HashedIndex extends src.Index {
         ++requests_counter;
 
         // Cleaning unpopular entries
-        if(requests_counter == REQUESTS_BEFORE_CLEANING) {
+        if(CACHE && requests_counter == REQUESTS_BEFORE_CLEANING) {
             requests_counter = 0;
 
             Iterator<src.PostingsList> iter = popularitySet.descendingIterator();
@@ -378,21 +380,35 @@ public class HashedIndex extends src.Index {
 
     private void cleanCache() {
         File dir = new File(CACHE_PATH);
-        for(File file: dir.listFiles()) file.delete();
+        File[] files = dir.listFiles();
+        if(files != null) {
+            for (File file : files) file.delete();
+        }
         System.out.println("Cache cleaned");
     }
 
     public boolean importIndex() {
-        if(!CACHE || !existCache()) {
+        if(CLEAN_CACHE) {
             cleanCache();
+        }
+        if(!CACHE || !existCache()) {
+            if(!CLEAN_CACHE) {
+                cleanCache();
+            }
             return false;
         }
 
         importDocumentIDs();
         importPopularitySet();
 
-        Iterator<src.PostingsList> iter = popularitySet.descendingIterator();
+        Iterator<src.PostingsList> iter;
         int i = 0;
+
+        if(popularitySet.descendingIterator().next().getPopularity() == 0) {
+            iter = popularitySet.iterator();
+        } else {
+            iter = popularitySet.descendingIterator();
+        }
 
         // Import the postings list of the most popular words
         while(i < word_threshold && iter.hasNext()) {
@@ -417,6 +433,9 @@ public class HashedIndex extends src.Index {
             index.put(ps.token, ps);
         }
 
+        popularitySet.clear();
+        popularitySet.addAll(index.values());
+
         System.out.println("Index imported");
 
         return true;
@@ -436,7 +455,7 @@ public class HashedIndex extends src.Index {
     }
 
     private void updateWordThreshold() {
-        word_threshold = Math.max(popularitySet.size() / WORD_MEMORY_THRESHOLD, MIN_WORD_MEMORY);
+        word_threshold = Math.max((int)(popularitySet.size() * WORD_MEMORY_THRESHOLD / 100.0), MIN_WORD_MEMORY);
     }
 
     private void importDocumentIDs() {
@@ -454,8 +473,7 @@ public class HashedIndex extends src.Index {
         if(!CACHE) {
             return;
         }
-        System.out.println(String.format("%d documents indexed\nIndexing over. Saving entries...",
-                doc_counter*DOC_ELAPSED_THRESHOLD+docElapsed));
+        System.out.println(String.format("%d documents indexed\nIndexing over. Saving entries...", doc_counter*DOC_ELAPSED_THRESHOLD+docElapsed));
         Iterator<src.PostingsList> iter = popularitySet.descendingIterator();
         int i = 1;
         updateWordThreshold();
@@ -482,6 +500,10 @@ public class HashedIndex extends src.Index {
 
         exportPopularitySet();
         exportDocumentIDs();
+
+        popularitySet.clear();
+        popularitySet.addAll(index.values());
+
         System.out.println("Done");
     }
 

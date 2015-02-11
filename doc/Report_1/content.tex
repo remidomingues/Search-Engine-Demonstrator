@@ -237,10 +237,15 @@ Various queries have been tried:
 \begin{itemize}
 \item history monument (Davis): $ p = \frac{2}{5}, r = \frac{2}{1000} $
 \item historic monument (Davis): $ p = \frac{1}{3}, r = \frac{1}{1000} $
-\item historical monument: No result
+\item historical monument: $ p = \frac{0}{1}, r = \frac{0}{1000} $
 \item monument: $ p = \frac{4}{15}, r = \frac{4}{1000} $
 \item monument Davis: $ p = \frac{3}{13}, r = \frac{3}{1000} $
+\item historic: 181 documents
+\item historcal: 296 documents
+\item history: 1418 documents
 \end{itemize}
+
+Considering that only 15 documents contain the word document, it is very likely that the 3 last requests have a very very bad precision, bad enough so that those cannot be compensated by a higher recall.
 
 'monument' has the best recall, since it contains very few constraints, but 'history monument' has the best precision.
 However, 'monument' has a F1 score of 0,0078 whereas 'history monument' barely reaches 0,0039. Therefore, 'monument' is the optimal query.

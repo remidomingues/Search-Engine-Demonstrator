@@ -116,7 +116,10 @@ public class PostingsList implements Serializable, Comparable {
         if(o instanceof PostingsList) {
             int r = Integer.compare(getPopularity(), ((PostingsList) o).getPopularity());
             if(r == 0) {
-                return token.compareTo(((PostingsList) o).token);
+                r = Integer.compare(postingsEntries.size(), ((PostingsList) o).postingsEntries.size());
+                if(r == 0) {
+                    return token.compareTo(((PostingsList) o).token);
+                }
             }
             return r;
         }
