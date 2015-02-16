@@ -1,0 +1,2 @@
+The Greay wiki:wikipedia:Scurvy Scurvy Race of 2003 was between Rob Roy and his then Pirate Ship housemate Chris Clair. The opponents had to avoid wiki:wikipedia:Vitamin_C Vitamin C in an attempt to come down with scurvy. Roy was declared the winer on the basis that his teeth hurt more. Clair was hampered by his penchant for wiki:wikipedia:Screwdriver_%28cocktail%29 screwdrivers which he would lapse into after several drinks.
+

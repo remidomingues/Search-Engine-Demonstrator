@@ -1,0 +1,7 @@
+William Henry Scott (18611951) was a writer, judge, real estate developer, printer, and insurance salesman who lived to see Davis rise up from its humble origins to become a promising university town.  Perhaps most notably, he was the primary writer and publisher of the Davis Enterprise during the long stretch from 1899 to 1935.  He bought the newspaper from Louis Eichler on September 15, 1899, less than two years from the date of its creation.   From this point on, the publication became just as much a personal soapbox for Scotts political beliefs as it was actual news.  Because of his power to almost singlehandedly shape public perception through heavily editorialized news, he had an enormous impact on many local issues.  For example, he was largely responsible for the increasingly popular usage of the name Davis as opposed to the original Davisville.  On April 14, 1906, he suddenly changed his newspapers name from Davisville Enterprise to Davis Enterprise and, in that issue, wrote a persuasive article explaining why the rest of the townspeople should follow suit.
+
+William and his wife, Kathryn King Scott, were children of Yolo County pioneer farmers.
+
+Scott was one of Davis first justices of the peace; he served from 1888 until 1942.  He used a G Street Main Street barbershop as his courtroom.
+
+From 1922 until his death, Scott lived in the building which now houses the Ciocolat business.

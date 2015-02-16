@@ -1,0 +1,2 @@
+Describe Users/cheresepeterson here.
+Welcome to the Wiki, Cherese!  Its always great to see a local business rep providing a friendly response to customers on the wiki.  When you have a moment, check out the Welcome to the Wiki/Business Owner business owner/rep welcome page.  Its a great resource, although you clearly already grasp the important concepts about how to interact with the wiki and with complaints on the business page.  If you have any questions, dont hesitate to ask!  Users/TomGarberson

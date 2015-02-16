@@ -1,0 +1,2 @@
+
+20110716 09:46:20 nbsp I see that http://daviswiki.org/Jim_Provenza?actiondiff&version223&version118 you removed some information from the Jim Provenza page. Another editor http://daviswiki.org/Jim_Provenza?actiondiff&version224&version123 undid your edits and restored the information you deleted. Is there any reason why you removed this information, such as it being inaccurate? Users/WilliamLewis

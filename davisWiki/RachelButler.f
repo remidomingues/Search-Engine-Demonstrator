@@ -1,0 +1,2 @@
+
+24 years old, want to go to UCD for my Masters in Forensic Science and my PHD in comparative pathology, Married for 3 years, have a  4year old daughter named Lillian and a 4 month old daughter named Isabella. I grew up in Davis, moved to Santa Cruz when I was sixteen and now live in Hollister. My husband Justin is a Deputy sheriff and i stay at home with my kids right now. I miss Davis very much and we are thinking about moving back there in about 35 years, who knows.

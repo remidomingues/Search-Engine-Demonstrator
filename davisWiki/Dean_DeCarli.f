@@ -1,0 +1,3 @@
+
+
+Dean DeCarli was in the UC Davis class of 1928.  As a student he was very active in campus life, editor of the student newspaper and a member of the boxing team.  He went on to serve as the Director, VicePresident, and then from 1950 to 1952, President of the Cal Aggie Alumni Association.  He and other alumni helped found the campus fundraising oversight board, the UC Davis Foundation (originally named the Cal Aggie Foundation).  Due to his many years in service to the university, including raising funds for the Memorial Union, he was recognized with a University Service Award in 1967, the Jerry W. Fielder Memorial Award for alumnus of the year in 1974, and has the DeCarli Room named in his honor.

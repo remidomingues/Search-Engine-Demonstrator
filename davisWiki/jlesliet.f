@@ -1,0 +1,10 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+Welcome to the Wiki Howdy, Mr. or Ms. Liet (?), and Welcome to the Wiki!   You might want to check out the importance of using your RealName, just so we can get to know you (or not: its your choice, but people were pretty friendly here).  My names Evan, pleased to meet you!  Thanks for updating the Americana Arms Apartments last month, but Im a bit concerned about your deleting some of Users/CatStarrs photos.  Did you receive permission from her, or did she ask you to do so?  Traditionally, editors personal profiles tend to be edited by the editor themself. Users/JabberWokky Evan JabberWokky Edwards
+
+20100728 13:30:14 nbsp Hey, one little note on Americana arms: business pages are typically written in the third person.  Its intended to represent the communitys viewpoint, rather than the business owner/representatives.  If you havent read it yet, have a look around the Welcome to the Wiki/Business Owner page.  I made a couple more minor adjustments, like changing we to they.   Users/TomGarberson
+
+20100929 16:44:55 nbsp Hello! I restored the warnings that you deleted. I did this because I had a look back over the edit history of the page, and I couldnt help but notice that there were quite a few negative comments, from people who purportedly were living at the Americana at the time, that did not have the same IP address. This makes me very suspicious, especially given that all the reviews in question were so positive. Beyond that, the warnings only state that they share IP addresses, and not that they are necessarily the same person.  Users/JoePomidor
+
+The Americana Arms office is located in the 1124 F Street building and uses the same network as the 40+ residents of that building, hence the IP conflict. If a comment is made by a resident in this building it will share the IP address with the office.  If it is made from one of our other networks, the IP addresses will be different from the office building.  If someone off site makes a comment to our page they would not share our IP address.   Americana Arms Staff

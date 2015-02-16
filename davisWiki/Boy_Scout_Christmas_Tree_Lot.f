@@ -1,0 +1,3 @@
+All Boy Scouts Boy Scout Troops and Venture Crews in Davis cooperate every year to run the Boy Scout Christmas Tree Lot http://davischristmastrees.com/. For decades the lot was downtown at the Boy Scout Cabin, but after leaving in 2002 they moved the lot to Madson Place next to Center City Automotive Inc who also donated electricity to the lot. In 2003, the lot moved to the Pole Line Road Baptist Church.  Since 2010, the lot has been on the vacant lot on the corner of Mace Blvd. & Cowell Blvd., South of I80.
+
+Map link:  http://maps.google.com/maps?fq&sources_q&hlen&geocode&q480+Mace+Blvd,+Davis,+CA+95618&sll37.0625,95.677068&sspn47.838189,93.076172&ieUTF8&hq&hnear480+Mace+Blvd,+Davis,+Yolo,+California+95618&z16

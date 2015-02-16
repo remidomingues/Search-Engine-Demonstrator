@@ -1,0 +1,3 @@
+
+
+20100308 14:10:40 nbsp Hi Umallhairnails, and Welcome to the Wiki!  As a community of individuals, its important that folks here use their real name.  Doing so allows you to establish an identity and interact with the community in a real way.  Please have a look at the welcome page (which I linked just above), as well as the Welcome To The Wiki/Business Owner Business Owner Welcome.  Then, everyone here would be much obliged if youd disable this account (via the settings link in the upper right corner) and start a new one using YourName.  Thanks so much, and again, welcome!  If you have any questions, feel free to ask.  Were here to help. Users/TomGarberson

@@ -1,0 +1,7 @@
+In early spring, the California Foothill Section is at its most glorious, filled with the blue flowers and heady fragrance of California wild lilac, Ceanothus, the brilliant yellow of flannel bush, Fremontodendron, and the creamy silken tassels of Garrya.  This collection is located west of the Mrak Hall Arboretum Bridges and features a selection of the woody plants and trees that occur on the low to midelevation slopes of the Sierra Nevada, the Coast Ranges and the Transverse Ranges of California.  Some shrubby representatives from the California Islands and the coastal mountains are also planted here.
+
+A popular teaching collection, many of the species planted here show a variety of strategies to adapt to the hot dry conditions characteristic of the long rainless summers of the California foothills; others show special adaptations to the frequent fires that periodically rage through these dryland habitats.  An extensive collection of native currants and gooseberries, including Catalina currant, redflowering currant, chaparral currant, Sierra gooseberry, and golden currant, among others, is planted at the east end of the California Foothill Section.  With their flowers in colors ranging through golden yellow, pink, scarlet, maroon, and white, their spiny bright berries in the summer, and the fall color of some of the species, these plants add yearround interest to the collection.  A line of huge old valley oaks, native to the site and estimated to be more than 400 years old, forms a magnificent backdrop for the collection. bridge.
+
+
+
+

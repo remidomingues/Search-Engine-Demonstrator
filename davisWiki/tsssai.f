@@ -1,0 +1,6 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+20101209 19:30:08 nbsp Welcome to the Wiki, tsssai! Please be aware that is generally considered rude to make edits of other peoples comments. You can add your own individual comment in the comments box on any page. Thanks for your attention. Users/PeterBoulay
+
+20101210 07:42:01 nbsp When I read something from you on Hanlees Toyota/Scion and Triple A Automotive, I had the impression that you were a female, but someone else thought that you were a male?  You seemed to think that Triple A is all good and Hanlees all bad.  I dont think that is realistic, even in the abstract. I have personally dealt with both of these companies.   very good experience with Triple A, but I found them to be subject to human error, including that theyre not 100% firsttimefixit crack mechanics. With Hanlees I found a willingness to help and a satisfaction in helping.  In life in general, ones good intentions dont necessarily bring competence, but I would say that they are very valuable.  Hanlees is a very established business and I doubt that they set out to be jerks as you seemed to state.  Youre entitled to your opinion, but you should express your opinion in a way that doesnt hijack the whole page. Users/BruceHansen

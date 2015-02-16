@@ -1,0 +1,12 @@
+
+Davis is home to a highly regarded agricultural and resource economics program.  The http://www.agecon.ucdavis.edu/ Department of Agricultural and Resource Economics (ARE) offers both an M.S. and a Ph.D. degree, and also administers the undergraduate program in managerial economics.  ARE specializes in the microeconomic analysis of agriculture (food security, commodity markets, migrant labor), the environment (pollution abatement, nonmarket valuation), natural resources, and international development.  Unlike many economics programs, the ARE graduate curriculum emphasizes empirical work and policy analysis, as opposed to pure economic theory. Some students (and http://www.agecon.ucdavis.edu/people/faculty/ ARE professors!) do Social Science Experiments economic experiments.
+
+ARE graduate students and faculty share academic interests with Department of Environmental Science and Policy environmental science and policy, Geography Graduate Group geography, ecology, Civil and Environmental Engineering civil and environmental engineering, and Economics economics students, among others.  Profiles of selected ARE grad students can be seen http://www.agecon.ucdavis.edu/people/grad_students/job_market_candidates.php here.
+
+The Department receives much of its funding from the http://giannini.ucop.edu/ Giannini Foundation, which also funds the ARE Departments at UC Berkeley and UC Riverside. The bimonthly newsletter http://www.agecon.ucdavis.edu/extension/update/ ARE Update showcases research on the economics of agriculture, development and the environment.
+
+All five members of a current (2007) trivia group, Canadian Softwood are graduate students in ARE.  You can find them competing weekly at Sophias Trivia Nights.  The departments graduate students also have an UCD Intramural Sports & Sport Clubs IM soccer team called the Master Breeders.  As of 2007, ARE graduates also hold the Samuelson Cup, which they won from the http://www.econ.ucdavis.edu/ Economics Department after beating them at Softball softball.
+
+As a point of trivia, the department was once home to Professor Tom Hazlett, who wiki:wikipedia:Rush_Limbaugh Rush Limbaugh credited with the creation of the term feminazi. Hazlett left ARE in 2000 and took a professorship at wiki:wikipedia:George_Mason_University George Mason University in 2005.
+
+The department is located in the Social Sciences and Humanities Building SS&H building, in the wing of the building pictured to the left. They have a Agricultural and Resource Economics Library library on the fourth floor.

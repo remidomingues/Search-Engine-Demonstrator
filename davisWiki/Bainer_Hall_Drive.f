@@ -1,0 +1,1 @@
+Address(Bainer Hall Drive) is an access road on campus that allows cars to reach the rear of Bainer Hall. Kemper Hall and the Campus Data Center are also along this road. Residence of Tercero would use this if biking east toward Mrak Hall. There is a round about near Bainer Hall.

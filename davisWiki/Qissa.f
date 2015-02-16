@@ -1,0 +1,4 @@
+Describe Users/Qissa here.
+
+
+20130603 23:48:41 nbsp Hi to the person(s) behind this account, and welcome to the wiki. You may not be aware that the wiki community has decided that Wiki Community/Organizational accounts organizational accounts like Qissa  that is, accounts that are tied to a specific organization rather than tied to a specific person  have created problems on the wiki. Thus, we ask that you close this account and open a new name with your real name or a nickname. To do that, click settings in the upper right hand corner, change your email address from username@host to username+disabled@host and then press Save. Then scroll down to the bottom and use the Disable Forever option. That will allow you to use the same email address to signup again under your name or nickname. If you have questions, you can ask for http://daviswiki.org/Wiki_Community/Organizational_accounts/Help help.  Users/CovertProfessor

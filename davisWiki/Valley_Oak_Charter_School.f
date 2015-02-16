@@ -1,0 +1,1 @@
+A group of parents and teachers is planning on turning Valley Oak Elementary School into a http://www.cde.ca.gov/sp/cs/ charter school in order to preserve and improve the school as a resource for the neighborhood. Their website is http://www.vocharter.org/. There will be a public informational meeting on September 24th from 7:008:30PM in the Valley Oak Multipurpose Room.

@@ -1,0 +1,5 @@
+Binh Nguyen graduated from UC davis in 2003 with a degree in political science and a minor in English. Ms. Nguyen was a member of ASUCDs Gender and Sexuality Commission, an ASUCD Senator (UNITE), an Arts writer for the California Aggie, and 2003s Picnic Day publicity Director. She is also the recipient of UC Davis Outstanding Senior Award in 2003.
+
+Ms. Nguyen spearheaded multiple projects as an ASUCD Senate ASUCD Senator, such as working with the Women Center to host a lecture by wiki:WikiPedia:Medea_Benjamin Medea Benjamin, cofounder of wiki:WikiPedia:Global_Exchange Global Exchange, on campus to discuss the plight of women in post taliban Afghanistan, Coordinating a concert with ASUCDs entertainment council on the Quad featuring local bands, and raising awareness for racial issues, such as Abercrombie and Fitch Tshirt slogans incident.
+
+As Publicity Director for Picnic day, Ms. Nguyen raised widespread awareness such as generating media interest in the band audition process, and coordinating interviews with TV news stations. http://picnicday.ucdavis.edu/2003/board/

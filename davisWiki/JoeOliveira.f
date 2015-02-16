@@ -1,0 +1,4 @@
+Users/JoeOliveira is a thirdyear Linguistics/History major at UC Davis. He is the treasurer of DRAGON, publicrelationsofficertobe of the Linguistics Club UC Davis Linguistics Club, and a regular attendee of the Davis Anime Club. His postgraduation plans consist of either traveling to East Asia to teach English, or going somewhere in the Englishspeaking world to work for an NGO. When he isnt scrambling to finish a homework assignment or watching a yearsold anime he shouldve seen already, he can probably be found playing a game with friends, conquering the world in a strategy game, or trying to brainstorm ideas for whatever story has come into his head.
+
+
+20091108 17:06:09 nbsp Please remember to preview. It took 23 edits to make http://daviswiki.org/DRAGON?actiondiff&version2214&version1190 these changes when the same changes could have been done with 13 edits. Users/WilliamLewis

@@ -1,0 +1,13 @@
+Describe Users/dandysgirl here.
+
+
+20071212 17:54:00 nbsp Welcome to the Wiki. Maybe you can create a page with some information about hair donation? Are there several organizations that accept the hair, or just one? The page could be linked from the Beauty Salons and Barber Shops page. Users/JasonAller
+
+20090217 21:25:09 nbsp A charitable donation is something that you, yourself, do for your own reasons. You should not expect hair stylists to share in your decision to make a donation. Some corporate salons give free haircuts when you are donating the hair. Those stylists make the same hourly wage whether you are paying for your haircut, or not. Some independent stylists will give a discount, but you shouldnt expect a free haircut, or discount just because you are doing something nice. Many nice people give charitable donations without expecting to be paid back in any way.
+For those of you who would like to know how to go about donating hair, one of the orginizations are Locks Of Love. www.locksoflove.org  Users/glowingredheart
+
+20090724 22:12:15 nbsp What I was angry about was his snotty response to my simple inquiry if they did give a free haircut in exchange for a donation. A no, we dont participate in that program would have been sufficient and I wouldnt have posted a comment because I didnt for any of the other salons who did answer my inquiry that way. I certainly understand that a charitable donation is a personal thing; I didnt ask the waitress when I had lunch after donating my hair for a free meal, I was simply asking if their salon participated in the program.  I also wasnt asking to be paid back for my donation, I was hoping to find a salon who did participate in this great program and my way of paying them back for doing so would be to come back in the future for trims and other styling and a recommendation to others looking for a stylist.  A repeat, paying, customer is worth comping a haircut for the one time every three years they have enough to donate.  As a consumer, I like my dollar to go to businesses who give back in some way and Im more likely to frequent any establishment, and pay more for a comparable good or service, where they show a commitment to do so. Hair stylists are a dime a dozen, anything they can do to set themselves apart is a good business practice.   Users/dandysgirl
+
+20101011 18:22:49 nbsp Congratulations!  May you have a wonderful wedding day! Users/JabberWokky Evan JabberWokky Edwards
+
+20110523 19:56:40 nbsp Several of the discount salon chains will do a discounted/free hair cut with a donation.  I ended up going to Supercuts as their Wiki entree states, Greatclips might as well.  Users/dandysgirl

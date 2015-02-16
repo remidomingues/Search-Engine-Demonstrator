@@ -1,0 +1,1 @@
+Formerly an exclusive sexy dance party house on Sunset Court, the Gay PD housed a founder of daviswiki.org, two members of ChoadBot, a high ranking staffer of the ASUCD Entertainment Council Entertainment Council and Unitrans Unitrans coolest bus driver.

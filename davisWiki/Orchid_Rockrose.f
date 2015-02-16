@@ -1,0 +1,7 @@
+
+
+Orchid Rockrose (Cistus x purpureus)  is a fragrant hybrid of two Mediterranean Cistus species (Cistus ladanifer x Cistus creticus).  This hybrid blooms locally in weather late spring and continues through summer. The rich papery pink blooms are about threeinches across and beautifully marked with a deep magenta eye at the base of each petal contrasted by a dense cluster of deep yellow stamens in the center. The buds sit quietly for several days, but as each flower opens for the day it flattens out before gently dropping each petal in the afternoon heat or curling in slightly by evening.
+
+This relatively fast growing evergreen shrub clothed in narrow dark green foliage grows up to 5 feet tall and roots along its stem  perfect for hillsides. Some well placed specimens can be found spilling onto walkways at the eastern end of the Arboretum, near Solano Park. Ideally suited to Davis, these hardy plants grow in all types of soil, prefer full sun and are drought tolerant. The dry, woody perfume of the rockrose leaves comes from its parent plants, which have been used for centuries in perfumery. Because of its tendency to layer along its stems, Orchid Rockrose is easily propagated by layering or from cuttings. Though it roots easily, this particular hybrid is selected for its compact habit, so its easily tamed for backyard settings.
+
+For a listing of other plants found in Davis, visit our Town Flora.

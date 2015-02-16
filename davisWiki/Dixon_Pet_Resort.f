@@ -1,0 +1,5 @@
+
+Dixon Pet Resort is a  fantastic, inexpensive pet Pet Sitting boarding facility located just outside Davis and close to 80. It isnt fancy, but its very clean and they give your pet lots of attention. Pricing ranges from $16 for cats to $21$26 for dogs. Dixon Pet Resort is adjacent to the Aggie Animal Clinic in Dixon, so immediate care is available should anything go wrong. 15 years experience, with a separate cattery and little dog room, heated/air conditioned indoor rooms, free play times and 4 walks per day (for dogs). Quality food/bedtime snacks are free, or you can bring your own. Baths, grooming, and administration of medication and injections available as needed. Military and Senior discount.
+
+
+20130628 09:29:28 nbsp Ive never boarded a pet here, but Ive met the folks who operate the place several times and theyre great people.  The vet clinic thats next door, Aggie Animal Clinic, is also excellent, so if any vet care is required while youre away your pet will be in good hands. Users/TomGarberson

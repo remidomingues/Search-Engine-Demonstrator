@@ -1,0 +1,10 @@
+http://www.davischineseschool.org/DCS/enterpriseorig.jpg
+
+The Davis Chinese School  was founded in 1981 by a group of parents who wanted their children to learn the Chinese Languages language(Mandarin) and to become more familiar with Chinese culture.  The school was registered as a nonprofit organization in 1982 and began with two small classes that meet weekly at the Davis Senior High School campus.
+
+The school began growing rapidly via word of mouth.  Since we were one of the first Chinese schools established in Northern California, we attracted students from neighboring communities including wiki:Sacramento, wiki:Vacaville, wiki:Fairfield, Winters, wiki:Woodland and wiki:Chico.  Over the years we were instrumental in helping Sacramento, Vacaville, Fairfield and Chico establish their own Chinese Schools.  Today the Davis Chinese School has an average of 130 students with six different levels, each with a traditional and conversational tract. The conversation tract was created in 1987 to address the needs of students coming from nonChinese speaking families.  The Davis Chinese School is the only regional Chinese school that offers such a tract.  Nearly twentyfive percent of our students are from nonChinese speaking families.
+
+With time, our program expanded to include Arts and Crafts, Folk Dancing, Basketball and a 500 article and growing library.  Our major annual activities include Chinese New Year and Holiday Season celebrations, Academic Showcase, Parent Seminar series, as well as annual field trip and camping trip.  In addition, we perform annually at the UC Davis Asian Pacific Cultural Night, Davis Heritage Day Celebration and marching in the UC Davis Picnic Day parade.
+
+We are truly grateful for the support we have received from the Davis community and most of all from the Davis Joint Unified School District.  Most importantly, we wish to thank all the parents and teachers for making the Davis Chinese School flourish for the last twenty years.  Finally, with your continued support we look forward to the years to come.
+

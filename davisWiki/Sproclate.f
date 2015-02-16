@@ -1,0 +1,5 @@
+Sproclate is one of those things where you wonder, how the hell did they come up with this crap? Sproclate was born when Users/taylorclark Taylor Clark and Users/IsaacHamlenGomez Isaac HamlenGomez were up all night at Users/danielgonzales Danny Gonzales house. It was three AM and they were drinking a lot of chocolate milk.  All of a sudden, they ran out of milk!  This may have been a crisis, but it was quickly solved when Taylor, the master of really stupid ideas, suggested sprite instead of milk.  And there you go.  Sproclate is characterized by its flavor, which is something like chocolate syrup and sprite mixed together, and its color (brown), and its strange, brown foam coming from when you mix it.  It is also known as Chite. Try asking for it in restaurants. Say Do you have sproclate? and they say ???? and you say oh excuse me.. you might know it as chite? See what kind of responses you get.
+
+
+
+Hey guys, get a picture of actual Sproclate. Make a little photo story board of how to make it. We cant do google images. Sorry. :( Users/MichelleAccurso

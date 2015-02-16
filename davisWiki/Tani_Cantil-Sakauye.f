@@ -1,0 +1,2 @@
+Justice Tani CantilSakauye is a UC Davis and King Hall alum who was nominated by Arnold Schwarzenegger to be Chief Justice of the California Supreme Court on July 21, 2010 and was unanimously confirmed by the threemember Commission on Judicial Appointments on August 25, 2010.  She is currently a Justice on the Third District Court of Appeal.  If she is confirmed by the the voters in November 2010, she will be the first AsianAmerican to hold the position.
+

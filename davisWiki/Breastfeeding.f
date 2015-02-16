@@ -1,0 +1,4 @@
+
+Breastfeeding is the traditional and preferred method of feeding infants and babies.  It can be tricky, so there are support groups.  The La Leche League is an open group that meets regularly and has leadership composed of women who have breastfed in the past.  Women affiliated with UC Davis can seek support through the Breastfeeding Support Program.  If they are on campus, there are nineteen  lactation locations scattered around.  In addition a 2002 California bill and matching http://directives.ucdavis.edu/2002/02060.cfm university directive mandates that nursing students and employees have space and time to breastfeed or express milk.
+
+Women with infants or who are Pregnancy pregnant and anticipating breastfeeding can also visit the Mother & Baby Source for supplies or look into the WIC Program for support.

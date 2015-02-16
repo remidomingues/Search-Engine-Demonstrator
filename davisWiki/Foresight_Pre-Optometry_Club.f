@@ -1,0 +1,4 @@
+
+The Foresight PreOptometry Club is a preoptometry Student Organizations club that encourages participants to become more active in the community by doing vision screenings, finding internships and volunteering. The preoptometry club is sometimes offered trips to go to Panama/Costa Rica to help at clinics there. Additionally, it helps you interact with people that have the same interests as you and build connections that may be useful later on in life. Sometimes we can invite alumni to come back to our club and share their experiences of getting into optometry school. This is a fantastic opportunity to learn more about the field of medicine that you wish to pursue.
+
+For more information, send an email to davisforesight@yahoo.com or check us out on the web at http://ucdavisforesight.weebly.com.

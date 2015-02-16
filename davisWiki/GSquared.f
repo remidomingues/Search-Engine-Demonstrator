@@ -1,0 +1,1 @@
+Image(IMG_0559.JPG, thumbnail, 300, left, G2 playing at Delta of Venus in January 2007.) GSquared, also know as G2, was a wiki:wikipedia Shoegazing shoegaze outfit comprised of Gonzalo Eyzaguirre accompanied by TeddyBriggs of Chief Briggum fame. G2 was active in the 2006ish to 2007ish era of the Davis music scene.

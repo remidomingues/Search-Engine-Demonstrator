@@ -1,0 +1,3 @@
+Mary McDonald was an early Townies Davisite who owned a decent chunk of land in the southwestern corner of the fledgling town. She lived in a Victorian cottage, built in 1894; now listed as a historic places City Merit Resource, its located at 337 B Street. Along with her daughter, Alice Haines, Mary owned all the property ranging from what is now A street to B Street between 3rd Street and 4th street.  Apparently they operated a small farm and also rented out a few buildings to tenants. Their land was subdivided into various parcels in the late 1920s or early 30s, and Rice Lane was built at one of the boundaries.
+
+Marys father was the local pioneer, John Caulfield, proprietor of the Ranchers Saloon.

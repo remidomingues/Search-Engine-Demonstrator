@@ -1,0 +1,1 @@
+#redirect All Pages

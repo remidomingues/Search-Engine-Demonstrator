@@ -1,0 +1,2 @@
+
+The Piccola Musica curriculum introduces the basics of musicianship to a beginning student from 4 1/2yrsold to 7yrsold. The curriculum is given in three 8 week sessions and covers rhythm, ear training, music theory using fun games, an introduction to the piano (session 1), violin and guitar (session 2), and flute and recorder (session 3). The students are also introduced to 22 songs they will learn on either the penny whistle or ocarina.

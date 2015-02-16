@@ -1,0 +1,4 @@
+
+Aggie Bucks are little notes you get for going to and supporting UCD Athletics UCD home games.  They may be redeemed for discounts on UC Davis apparel and merchandise sold at the Aggie Pride Outlet (APO) during select games, or possibly also a free item.  You need to swipe your reg card, or an Aggie Fanatics membership card at the entrance, and youre usually given $10 Aggie Bucks.  Theyre smaller than a dollar bill, and feature Gunrock in the middle, UCDs Mustang Mascot. More information could be found at http://www.ucdavisaggies.com UCDavisAggies.com.
+
+Unfortunately, you can only use one coupon per item.  The free item is from the cookie jar.  The APO is located near the main entrance to most sports games, letting you easily redeem your Aggie Bucks on UCD Apparel and Merchandise. Go team, go.

@@ -1,0 +1,14 @@
+
+
+
+The Central Park Gardens are located in Davis awardwinning Central Park Central Park, home of the Davis Farmers Market Davis Farmers Market.  The gardens were established on the western side of the park along B Street in the early 1990s as part of a major park renovation and expansion project.  Planted by volunteers at that time with roses, herbs, and drought tolerant perennials and shrubs, the gardens subsequently declined from lack of maintenance.
+
+A volunteer effort has been underway since spring of 2006 to bring new life to the gardens.  Volunteers from the Cooperative Extension UC Cooperative Extension Master Gardeners and the http://www.davisfarmtoschool.org Davis Farm to School Connection are partnering with the City of Davis City of Davis to coordinate the renovation of the gardens and improve their longterm maintenance.  The goal of the project is to create beautiful demonstration gardens and engaging educational programs that will motivate home gardeners in the region to adopt more sustainable gardening practices.  The gardens will also serve as a place for gardenbased childrens activities and family programs.
+
+Explore our website to find out more about our exciting vision for making the Central Park Gardens a more beautiful and meaningful community resource.  Please consider helping us renovate the gardens by volunteering or making a donation.
+
+One of the most prominent elements you can see while visiting the garden is a 68 feet tall pinnaclelike shrub embroided with redpurple flowers that bloom around MayJune. Its scientific name is Echium wildpretti, and is and endemic plant from a tiny group of subtropical islands right off the Morocco coast, in the eastern Atlantic Ocean. The archipelagos name is Canary Islands and their rich endemic fauna and flora make them a very interesting spot for Natural History lovers.
+
+The common name for the shrub is tajinaste picante (pronounced Taheenaste peekante) and grows naturally in the highest lands of one of the islands and nowhere else. It is near the huge volcano of El Teide (3,718 m asl), in the surrounding plateau called Las Cañadas, where in May you can experience the brief and intense bloom with thousands of plants and dozens of species flowering at the same time, very much as a manmade garden.
+
+Several pictures from the 2014 flowering season can be seen at right and in http://daviswiki.org/Central_Park_Gardens?actionFiles&doview&targettajinaste_echium_wildpretti_2.jpg this, http://daviswiki.org/Central_Park_Gardens?actionFiles&doview&targettajinaste_echium_wildpretti_3.jpg this and http://daviswiki.org/Central_Park_Gardens?actionFiles&doview&targettajinaste_echium_wildpretti_4.jpg this pictures (courtesy and copyrights by José Andrés Sevilla Hernández (JASH), who lived in Davis during 2009 and most of 2010).

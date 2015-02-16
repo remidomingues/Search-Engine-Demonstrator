@@ -1,0 +1,3 @@
+Live and hopefully will work in Davis, transplant from Sacramento/Midwest.
+
+RE: Just Kidding  Folks, I removed my comment. I am really hoping that the store is going to change their policy (or at least makes it clear). It is a valuable store in town after all for parents that dont want to go through the trouble of ebay and stuff, and if having all positive comments on their page gives them a better chance to strive, so be it. Im all about second chances...

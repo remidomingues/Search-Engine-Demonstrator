@@ -1,0 +1,6 @@
+Describe Users/MeganCleary here.
+
+
+Hey, I posted a response to your comment on Yolo County SPCA about fostering, but I wanted to leave a longer message and make sure you saw it :) The YCSPCA may not be the most organized group, but it really is worth it to keep at it; they need volunteers and its such a fun thing to do. We fostered kittens for a year and I absolutely loved it. We moved away from Davis and are waiting to foster again until we have a bigger place, but I think about fostering almost every day. Since you already emailed them, I would go follow up at PetCo  theyre there Saturday afternoons, 12 to 4 but show up before 3:30 because they start packing up and get busy  and tell them that you emailed whoever it was about fostering (last I heard, Shelley was in charge of cats, Stacey was in charge of dogs). Theyll probably have you fill out an application and interview you then; thats what worked for us. Good luck! Users/ElleWeber
+
+20100930 17:58:28 nbsp Hi Megan, and a belated Welcome to the Wiki.  Concierge looks like a good service.  When you have a moment, be sure to look over the Welcome to the Wiki/Business Owner Business Owner Welcome page.  Its got a lot of good information on the role of wiki pages about businesses, the tone, the informational (versus promotional) nature, and so on.  Good luck with the business! Users/TomGarberson

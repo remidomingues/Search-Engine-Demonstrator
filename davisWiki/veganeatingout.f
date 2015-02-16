@@ -1,0 +1,1 @@
+Hello, and Welcome to the Wiki. Your recent comment on the Vegan page does not appear to be particularly Davisrelevant. If you do feel it is relevant, please feel free to expand on your comment to explain. Also, please see the Importance of using your RealName page. Users/JessicaLuedtke

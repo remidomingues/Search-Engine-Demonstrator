@@ -1,0 +1,3 @@
+Davis First Elementary School was built near the beginning of the 20th century. It was a public school located in the southern half of what is now Central Park; the northern half was a residential block separated by 4th Street historic 3rd street at the time. The maps Sanborn map of 1907 reveals that the schoolhouse was composed of one main classroom; it was about 50 feet wide and 100 feet long. A hot air furnace was installed near the middle of the room to keep the children warm.
+
+The original building was destroyed by a fire in 1918. Classes were held in the basement of University Motel until a replacement school was built; this building was removed at some point around 1953.

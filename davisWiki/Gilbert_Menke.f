@@ -1,0 +1,5 @@
+Image(IMG_3906.JPG, thumbnail, right, 400, Gilbert and a plaster dust portrait of himself created by artist Ryan Bulis.) Gilbert Menke is a UC Davis alumnus and the shop tech/Sculpture Yard master at the Art Building. He can be recognized by the work goggles he wears on his signature shaved head, black Tshirts, combat boots, metal jewelry (made by the man himself), and khaki cargo pants.
+
+He is skilled in metalwork, woodwork, and general handiwork, and is always willing to guide students in using the tools and machinery necessary to accomplish what they envision. He is the creator of Tree Daviss leaf emblem sculpture located on the southeast corner of http://daviswiki.org/2nd_Street?actionshow&redirectSecond+Street Second and http://daviswiki.org/D_Street D streets in downtown Davis. The sculpture and the Tree Davis Treewalk of which it is a part received an award from the California Urban Forests Council at the CAUFC 2007 Conference in San Francisco.
+
+In days of yore, Gilbert worked for a treecutting service and sported a mohawk, though not necessarily both at once.

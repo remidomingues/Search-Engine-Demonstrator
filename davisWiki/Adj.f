@@ -1,0 +1,23 @@
+  Roman Catholic Catholic
+  Calvinist
+  Chilean
+  Cochlear
+  California
+  Celtic
+  Carolina
+  Caucasian
+  Charitable
+  Covert
+  Campus
+  Cupertino
+  Chinese
+  Cosmic
+  Congressional
+  Checkered
+  Cerebral
+  Central
+  Cavalier
+  Carnivorous
+  Caring
+  Chromatic
+  Clarion

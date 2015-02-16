@@ -1,0 +1,10 @@
+
+According to http://www.sushimasters.com/topspotstoprestaurants.htm SushiMasters.com, Miyagi is one of the top 10 best Sushi places in the Sacramento region. Its located at the corner of Fair Oaks and Munroe, close to the Pavillion Shops of the Arden Arcade area of Sacramento.
+
+Miyagi Bar and Sushi is traditional Japanese cuisine, with a large variety of sushi and sashimi.  Its slightly upscale, but keeps a relaxed friendly atmosphere.  The sushi chefs and owner/manager talk and joke with regulars, making it an enjoyable experience.  Upon being seated, youre given a bowl of edamame while you look over the menu.  Most of the rolls range from 12 to 16 dollars, and the dinner combination entrees are $16.  It has a full bar connected to the main dining area, and patio seating.
+
+The SacBee had a http://www.sacbee.com/154/story/120114.html piece about a Battle of the Bartenders at the Sacramento Hard Rock Cafe, in February of 2007, where Miyagi won the award for the MostCreative Drink, its signature Lycheetini, which was also the crowd favorite.
+
+  See also the wiki:sacramento:Miyagi Bar & Sushi SacWiki entry
+
+20070217 00:03:14 nbsp My girlfriend and I were looking for a great sushi place in Sac, and Miyagi was http://www.yelp.com/search?find_locSacramento%2C+CA&radius10.0&sortbyrating&cfltjapanese top rated on Yelp and elsewhere.  This is an amazing place to take a date!  We went on Valentines Day, and one regular gave a Sushi Chef a pair of Valentines Day Boxers, which was hilarious.  The food was delicious, it was definitely the best sushi weve had in the area.  The fish was fresh, the unagi melted in my mouth, and there were interesting flavor profiles on some rolls.  And just as important, its finally a place with great presentation.  Our rolls were presented on the same platter/plate beautifully, and it was a fun experience.   Overall its pricey, especially with drinks or wine, but very reasonable and well worth it for what you receive.  Their drinks are high quality; the Lycheetini was delicious, and was made with Grey Goose.  Users/EdWins ES

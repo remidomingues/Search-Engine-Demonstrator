@@ -1,0 +1,5 @@
+
+On a cool, autumn morning in 1992, Steve Walter and Lucas Taber were riding their bikes to school along the Old Davis Highway bike path.  During their journey, they discovered that during the night someone had severely vandalized the Murder Burger billboard that stood along Interstate 80.  The evidence suggested that an animal rights activist group had taken a chain saw to the structure, leaving little more than a wooden pile of debris and graffiti that read: Meat is Murder.  Beneath the carnage , Taber noticed what looked like lettuce and tomato, barely visible in the rubble.  Taber and Walter probed further, eventually uncovering the wooden hamburger that had previously adorned the billboard.  In effort to preserve this valuable piece of Davis history, the two boys took the burger with them to Davis High School, where they proudly hung the relic on the wall of the The Hub office, to be enjoyed by future generations.  This is a True South Davis Tales true story.
+
+
+Hey, does anyone know if this is still there? what happened to it? updates to historical oddities is necessary for awesomeness ~Users/DavidPoole

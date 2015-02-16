@@ -1,0 +1,1 @@
+#redirect Academic Standing

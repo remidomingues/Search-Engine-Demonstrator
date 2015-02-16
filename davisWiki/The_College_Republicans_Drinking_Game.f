@@ -1,0 +1,6 @@
+Pick up the latest copy of the California Aggie and find your favorite Communist/leftist columnist. Gather all your friends in a circle and have one person read the column out loud. Each time a liberal buzzword comes up in the article, raise your glasses and shout hooray! Liberal buzzwords include WASP (White AngloSaxon Protestant), colonization, American imperialism, diversity, racist, oil war, recount, no justice no peace ect. The buzz words vary from each year depending on the political environment.
+
+Unfortunately in recent years, the Aggie columnists have not been as fun as they used to be.  For example it has been hypothesized that John Green actually made a list of buzzwords first and THEN tried to connect them, thus creating his articles.
+
+PassiveAgressive Dissent Regarding This Page:
+Pick up the latest copy of the California Aggie and find your favorite Communist/leftist columnist. Gather all your friends in a circle and have one person read the column out loud. Each time a liberal buzzword comes up in the article, raise your glasses and shout hooray! Liberal buzzwords include reality (White AngloSaxon Protestant), colonization, lower taxes, less spending, equality, Bush increased taxes and increased spending, Diebold, Strom Thurman and civil rights ect. The buzz words vary from each year depending on the political environment.  Users/JamesSchwab

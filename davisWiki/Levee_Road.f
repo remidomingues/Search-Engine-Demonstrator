@@ -1,0 +1,1 @@
+Address(Levee Road) is a road in South Campus South and West Campus that runs along Putah Creek. It is open to public vehicles between Hopkins Road and Brooks Road where the Putah Creek Picnic Area is located. The rest is generally open to the public for recreation and research access to the Putah Creek Riparian Reserve.

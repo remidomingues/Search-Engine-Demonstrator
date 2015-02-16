@@ -1,0 +1,9 @@
+
+http://cee.engr.ucdavis.edu/ The Department of Civil & Environmental Engineering is part of the College of Engineering. Five major courses of study are offered: 1) Geotechnical, 2) Structural, 3) Water Resources 4) Transportation 5) Environmental. The department is based out of EU III with laboratories in Bainer Hall and EU III, while grad student offices are located in Academic Surge, Bainer Hall and EU III. A fouryear undergraduate course of study leads to a Bachelor of Science degree. 
+
+Freshmen are required to take a course titled, Introduction to Civil and Environmental Engineering Systems (otherwise known as ECI 3) during their fall quarter. Course instructors will vary from year to year, but the course basically remains the same: expect a greater emphasis on homework than tests. In fact, your grade may literally depend more on homework rather than tests, with grading based upon a 40%/30%/30% breakdown (homework/tests/lab work).
+
+The Departments Mission Statement is:
+   The CEE Department integrates research, education and professional service in areas related to civil infrastructure and the environment. We provide the profession and academia with outstanding graduates who advance both engineering practice and fundamental knowledge. 
+
+UC Davis civil engineering curriculum is accredited by the Engineering Accreditation Commission of the Accreditation Board for Engineering & Technology, (ABET) and many professors within the department are members of the http://asce.ucdavis.edu/ American Society of Civil Engineers. Nine other programs within the Engineering Department are accredited by ABET: Aeronautical Science and Engineering, Biological Systems Engineering, Chemical Engineering, Computer Engineering, Computer Science and Engineering, Electrical Engineering, Electrical Engineering/Materials Science and Engineering, Materials Science and Engineering, and Mechanical Engineering.

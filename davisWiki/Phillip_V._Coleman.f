@@ -1,0 +1,1 @@
+Phillip V. Coleman became Police Chief in 1989. He retired in 1996 after being accused of sexual harassment for the second time.   The sixth Chief, he was preceded by Victor W. Mentink and succeeded by Jerry A. Gonzales.

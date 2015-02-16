@@ -1,0 +1,4 @@
+Describe Users/UVDRocks here.
+Welcome to the Wiki!  Please consider closing this account and opening one using your Importance of using your RealName RealName.  Take a moment and read over the Identity page to see exactly what youre telling other users and readers of the wiki by remaining anonymous.  Particularly when you attack someone who appeared to leave an honest review (even if you disagree with their conclusions), it makes you look bad.  Rather than attacking other users, why not tell readers about your experiences with University Village so they can come to their own conclusions?  Responding with what amounts to repeating your username over and over again doesnt really help your case. Users/TomGarberson
+
+20101116 21:23:06 nbsp Beyond that, you sound like a pretty obvious shill for the company. Users/JoePomidor

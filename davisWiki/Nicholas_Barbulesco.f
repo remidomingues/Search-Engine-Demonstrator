@@ -1,0 +1,1 @@
+Users/NicholasBarbulesco Nicholas Barbulesco attended UC Davis and graduated from Davis in 2002 with a double major in Music and Managerial Economics. According to rumors, in his home studio, he makes loud sounds with his theremin and an analogue delay.

@@ -1,0 +1,7 @@
+>Image(skyy1.jpg, 400, thumbnail) Image(skyy2.jpg, 400, thumbnail)<
+
+Skyy is owned by Users/AriLevy Ari Levy and lives in West Davis. Make no mistake, her name is different from other common spelling such as Sky or Skye. She is a lovely husky/shepard mix, with one blue eye, and one brown eye. As you may notice, she sometimes looks like a dingo, which has earned her the nickname Dingus among close ones. Some of her hobbies include watching Ari do the dishes (as pictured), tearing apart stuffed animals, swimming in her kiddie pool, licking people, chasing Users/AbbyLawson Abbys small roommate Ana, going on walks with Ari and Users/AbbyLawson Abby, begging for food, and jumping on furniture. Skyy is often described as the sweetest and smartest dog in the world.
+
+She originates originally from San Diego and has one sister.  As a puppy, she was brought up in Jenn Harringtons car by Users/AriLevy Aris roommate Users/KimNguyen Kim when they were still living at 1593 Drake Drive.  Even though dogs were not allowed on the lease, she lived there anyways, tearing up the carpet and destroying and already slumlevel townhouse.  She was often used as a wakeup calling device by Ari and Kim, who would throw her on unsuspecting roommates while they were asleep.  She was also used by Users/AriLevy Ari as a game dog, successfully one might add.
+
+She is happy to be part of the Wiki Animals Wiki Animal Community.

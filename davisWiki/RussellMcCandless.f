@@ -1,0 +1,1 @@
+Russell McCandless (thats me) can often be found working as a bored (not board, although occasionally he does that too) consultant in Sacramento or enjoying the exquisite combinations of pizza and beer at Woodstocks Pizza Woodstocks.

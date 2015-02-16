@@ -1,0 +1,2 @@
+The 1840s saw European settlers claim land in the area.  In 1842, William Wolfskill received a huge land grant from Mexico that made up an area ranging from Vacaville nearly to South Davis. With this land he established his Rancho Rio de los Putos,  In 1843, J.M. Vaca and J.F. Peña were mistakenly granted much of the same land.  Being that there was plenty of space for everyone, they established a Rancho Los Putos of their own. The mess of who owned exactly what was not cleared up until many years later.
+

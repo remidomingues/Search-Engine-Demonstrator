@@ -1,0 +1,1 @@
+#redirect Chicana/Chicano Studies

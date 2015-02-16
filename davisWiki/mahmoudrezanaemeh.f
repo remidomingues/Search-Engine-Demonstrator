@@ -1,0 +1,10 @@
+Mahmoudrezanaemeh can edit this entry to tell the wiki about themselves.
+
+
+Hey, Mahmoud.  Im all in support of your opposition to Occupy Davis, but please dont just delete the Featured Page.  The front page looks odd without it, and youre damaging the wiki by doing so, not the Occupy people.  Is there any group or movement opposed to Occupy in Davis?  If so, Id love to see a writeup about it on the wiki.  Thats what the wiki is for: to document all viewpoints in Davis. Users/JabberWokky Evan JabberWokky Edwards, jw.dw@timewarp.org
+
+20111101 18:51:54 nbsp Im going to offer a less patient perspective than JabberWokky. Your OBNOXIOUS AND AGGRESSIVE ALL CAPS COMMENT (see what I mean?) on the featured page and your subsequent deletion of the whole page are considered vandalism. It might make some people think twice about frequenting your Fara (Threading and Hair) place of business. If you dont want to damage your reputation I would suggest you conduct yourself in a more mature manner from now on. Users/MeggoWaffle
+
+20111207 22:15:04 nbsp Looking back at your edits to the page, I see that you added the slogan, Threading Better Than Waxing.  Threading started by Persians, Get it done by a Persian. You then noted that she has 15 years of experience and told people To make an appointment please call this number only.  You then deleted the price list.  You then updated the hours of the salon and gave its new address.  You clarified that a special was for first time customers only.  You then added a cell phone number.  You then deleted a discount.  The edits continue, but Ill stop there.  Clearly, you are either associated with the business or a personal friend of the owner.  So, that means you should not leave a comment like you are just another client.  If your comment at least indicated what your relationship is to the owner/business, then the reader could judge for themselves how to take your comment.
+
+(By the way, if youre wondering where I got all of that info, the wiki records every edit made:  http://daviswiki.org/Fara_%28Threading_and_Hair%29?actioninfo ). Users/CovertProfessor

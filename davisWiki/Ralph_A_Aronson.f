@@ -1,0 +1,1 @@
+Ralph A. Aronson served on the City Council from 4/20/1964 to 4/20/1972.  Served as Mayor from 1968 to 1969. Aronson owned and operated the Departed Businesses Star Pharmacy, on the northwest corner of 2nd Street 2nd and D Street D streets. 

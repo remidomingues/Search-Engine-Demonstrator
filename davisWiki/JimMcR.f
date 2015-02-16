@@ -1,0 +1,7 @@
+Jim McRitchie is a publisher and consultant on corporate governance and maintains a website at http://www.corpgov.net. As Bob Monks and Nell Minow have noted, with the slight exaggeration suitable for book covers, Corporations determine far more than any other institution the air we breathe, the quality of the water we drink, even where we live. Yet they are not accountable to anyone. More democratic corporate structures are likely to result in more accountable and sustainable corporate actions.
+
+In 2002 I petitioned the SEC to amend their rules to allow shareowners to place their director nominees on the corporate proxy. I have not only pushed for greater democracy in corporate elections, Ive also been active in reforming funds, such as CalPERS, which have so much influence over corporations. For example, I obtained amendments at CalPERS to require directors to be elected by a majority of those voting. (One director had been elected with 5.5% of the vote.) See http://www.perswatch.net
+
+Currently, one of my projects involves devising a system of “proxy assignments,” which would allow retail shareowners to assign their voting rights to a trusted “brand.”  Sixty to seventy percent of retail shareowners don’t vote. With “eproxy” that has fallen as low as 4%...so disenfranchisement is real. If you’re also working in these areas, let’s coordinate. email me: jm at corpgov.net
+
+(I also live next to Celeste Rose, the famous former UCD Vice Chancellor and her husband Vincent Harris... a couple of interesting characters Celeste Rose)

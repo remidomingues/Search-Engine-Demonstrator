@@ -1,0 +1,1 @@
+George Covell, son of Calvin and Eliza Jane (England) Covell, remarried after losing his first wife, Laura. He owned 27 acres two miles north of town in 1909 at the time of his second marriage (January 2^nd^ 1909).

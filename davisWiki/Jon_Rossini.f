@@ -1,0 +1,5 @@
+Image(rossini.jpg, thumbnail, left, 300, Jon after some of his drama students decorated him in whatever they pleased, including an eyepatch fashioned from an orange peel.) Jon Rossini is a widely liked assistant professor in the Dept. of Theatre and Dance. According to the Theatre and Dance website, he:
+
+joined the faculty of UC Davis in 2003 as a scholar of performance studies, dramatic theory and criticism, and dramatic literature. He received his B.A. in 1993 from the University of Cincinnati and his Ph.D. from Duke University in 1999. Before coming to UC Davis he taught in the Drama Program at Duke University and in the English Department at Texas Tech University. His primary research is in the intersections of ethnicity and performance, especially in contemporary Chicana/o and Latina/o Theater. The rest of his bio can be found http://theatredance.ucdavis.edu/people/facultybios/biorossini.htm here.
+
+Jon currently teaches Drama 1Theatre, Performance and Culture; Drama 156C20th Century Theatre and Dance; Drama 155 Representing Race in Performance; and Drama 159Contemporary Experimental Theatre and Drama.

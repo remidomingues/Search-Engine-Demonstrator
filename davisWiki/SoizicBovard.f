@@ -1,0 +1,1 @@
+A third year plant biology student.  Many times seen strolling through the arboretum or gardening at various peoples homes.  Always willing to cook a vegan meal for a crowd, and often handing out plantlets, all you have to do is smile and be nice to her Dogs dog, Bandit.

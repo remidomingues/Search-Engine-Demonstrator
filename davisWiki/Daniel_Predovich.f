@@ -1,0 +1,5 @@
+Daniel L. Predovich (born 21 Oct. 1925, Sacramento, California; died 10 Feb. 1987, Yolo Co., California) was Superintendents of the Davis Joint Unified School District superintendent of the Davis Joint Unified School District from 1975 to 1979.  He Veterans served in the Air Force during WWII, remained active in the Air Force reserves after the war, and retired with the rank of lieutenant colonel.  He received his bachelor degree from California State University, Sacramento and his doctorate in human behavior from http://en.wikipedia.org/wiki/U.S._International_University U.S. International University in San Diego.  He served as a school administrator in some capacity from 1950 until his retirement from DJUSD in 1979, and was superintendent of several school districts in California, including http://en.wikipedia.org/wiki/Poway_Unified_School_District Poway Unified School District in San Diego County, http://en.wikipedia.org/wiki/Mountain_ViewLos_Altos_Union_High_School_District Los AltosMountainview Union High School, and Davis Joint Unified.
+
+Source:
+
+1987 Feb. 11, Predovich services set for Thursday, Davis Enterprise.

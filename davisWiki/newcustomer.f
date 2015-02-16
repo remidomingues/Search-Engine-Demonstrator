@@ -1,0 +1,8 @@
+Describe Users/newcustomer here.
+
+
+20100507 00:20:36 nbsp Hi Mr. or Mrs. Customer!  Welcome to the Wiki.  Im sorry you had a bad experience with the management of Saratoga West Apartments.  As I noted there, Im curious why you think race was a factor.
+
+If you have a moment, please read up on the importance of using your RealName.  You can easily close this account using the settings link in the upper right corner of the screen, and open a new one in your own name to begin to establish an identity.  Doing so will lend weight to your input here.  Alternately, you could just introduce yourself at the top of this page! Users/TomGarberson
+
+20100507 14:32:59 nbsp Hello. As the Director of Residential Property Management for Yolo Property Management who oversees operations at the Saratoga West Apartments, I would like to extend my sincerest apologies if you were in any way treated unfairly by our on site resident manager.  We have been in the residential property management business for over 20 years and I want you to know that we take customer comments very seriously.  If you feel you were mistreated my an employee of ours, I would strongly encourage you to contact me personally at (530)7537730 or dana@yackzangroup.com to file an official complaint.  We are always looking to better our apartments and I would appreciate a better understanding of the unfortunate event that has taken place.  Please know that Saratoga West is an extremely diverse community and that we strive to accommodate all cultures and work to overcome all languages barriers that we encounter.  My appologies again, I hope to hear from you on the matter. Users/YoloPropertyManagement

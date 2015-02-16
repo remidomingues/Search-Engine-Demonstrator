@@ -1,0 +1,1 @@
+Address(Carob Place) is a Culdesacs culdesac, if not just a fragmented circle. It is, however, a pleasant little residential cubby off West 14th Street West 14th/Villanova Drive in the Central/North Davis district, and seems quite conducive to inline skating sans traffic obstruction.

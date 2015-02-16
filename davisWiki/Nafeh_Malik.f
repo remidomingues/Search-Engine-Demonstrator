@@ -1,0 +1,1 @@
+Nafeh Malik was a candidate for ASUCD Senate during the Fall 2004 ASUCD election with Student Focus. He won the election and was sworn into office. However, he resigned shortly after for his part in the Fall 2004 Election/Campaigning in Dorms Controversy Dorm Campaigning Controversy.

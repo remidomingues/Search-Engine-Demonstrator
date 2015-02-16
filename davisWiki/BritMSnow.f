@@ -1,0 +1,3 @@
+BritMSnow is a recent graduate of UC Davis. She is currently enrolled in Early Childhood Education classes at the Davis center of Sacramento City College. She has worked at Alphabet Moon for over three years. She goes to the Unitarian Universalist Church of Davis and works in the Bridgehouse doing childcare, as well as is an organizer of Soulful Sundowns on the third Sunday of every month. She has also been a member of the Unitarian Universalist Campus Ministry Group. She is a vegan currently living in the Americana Arms Apartments with her boyfriend. She enjoys biking and her favorite places in Davis include the Davis Food Coop, The Hotdogger, Armadillo Music and the Farmers Market.
+
+

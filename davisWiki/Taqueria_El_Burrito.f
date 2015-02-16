@@ -1,0 +1,45 @@
+
+Taqueria El Burrito is an authentic Mexican food restaurant. It set up shop where the legendary Great Wall of China II buffet used to be.
+As of #Vegetarian? June 23rd, 2013, their rice is prepared vegetarian, but the refried beans are not. There has been the exact opposite claim reported in #Vegetarian? February of 2013, so more corroborating reports are welcome.
+
+
+20121127 06:02:00 nbsp I was pretty excited to find out that Davis was going to get another mexican place, but its not as great as I expected. The service was excellent, the food is sort of pricey (1.95 for a basic taco, $9 average on plates), there were 4 televisions playing football, and a salsa bar. If youre looking for a place thats going to taste just like moms cooking, its probably not going to meet your expectations. They do have some latin beer and vegetarian options. Overall, its a decent place.  Users/jennypadilla
+
+20121127 06:14:02 nbsp This sounds good. Users/AshleyHamidi
+
+20121127 14:09:49 nbsp So delicious! Affordable pricing and excellent service to top it off. I will definitely be coming back for more! Davis needed a good, traditional taqueria downtown and now we have it.  Users/JacquieWhite
+
+20121127 15:29:48 nbsp Great place.  Prices are similar to other Mexican restaurants in Davis.  Ive only been here once for a CA burrito, but it was really big.  They have a wide variety of meats as well, including cabeza or lengua if you enjoy the atypical parts.  They have multiple widescreen tvs if you want to come here and watch the game, so thats a bonus!  I will definitely be coming back.   Users/BenLee
+
+20121127 19:47:20 nbsp Central downtown taqueria, clean, fast service.  Ordered three tacos for lunch, the order came out fast but was incorrect in the meat selection, so they insisted I take home the mistake and served me the correct order within minutes.  Good location, fair prices, tasty tacos.  Chips were nothing special and Salsas were just okay but its likely given the TVs, the bar, and the location Ill be coming back.  Users/loneshark
+
+20121129 23:41:26 nbsp Dont let the silly name fool you.  Dont let the interior fool you either.  Both made me expect something not very authentic and without great food.  But this place is the real deal.  A taqueria should be measured, first and foremost, by its tacos.  These are great.  The tacos al pastor almost made me think I was back in Mexico City.  Their other food options are impressive too  how often does the salsa bar include nopales?  And the softdrink fountain include agua de melon that tastes homemade?  To top it off, the prices are reasonable and the staff is uniformly fast, efficient, and friendly.  I will be coming back, and often.  What a find. Users/MaunderingGadabout
+
+
+20121130 21:39:03 nbsp My drives to Woodland are finally over!! It’s about time I can finally enjoy authentic Mexican cuisine within blocks of my home. I’m very demanding when it comes to food, but Taqueria El Burrito is phenomenal! They actually  surpassed my expectations. I’m absolutely in love with this place. Not only is their food amazing, but they also serve delicious “aguas frescas.”  The service is great and the widescreens are definitely a plus. The place just opened, but I can already call myself loyal customer. I absolutely encourage everyone to come in and see for themselves just how great this place is; you won’t be disappointed!   Users/Mirthah
+
+20121201 15:49:11 nbsp  So excited for a Mexican place open past 10! The carnitas are very good! Theyre crispy and I liked the texture. Plus the carne asada fries are generous portions and lots of meat, which was grilled very well. It is pricey but I dig the carne asada fries enough that ill be going back often I think! Users/HannahToru
+
+20121201 23:21:59 nbsp I was a little let down with the crispy tacos and California Burrito. The crispy tacos used the same kind of shell you buy at a grocery store (I was told they were fried in house) and the California Burrito was overwhelmed by huge chunks of potatoes, it probably had 3:1:1 ration of potatoes, meat, and avocado. Im still not sure why its called the California Burrito, as I dont associate potatoes with CA. It was about the same price as the other Mexican food in town. The restaurant itself was spacious, clean, and had a lot of big screens TVs. I can see it being a good place to drink beer and watch futbol.  Users/MikeyCrews
+
+20121213 23:06:38 nbsp I often crave taqueria type food late at night, and Im so glad this place is around!  Users/Babhari
+
+20130107 21:43:43 nbsp I´ve been to El Burrito about four times already and tried different dishes each time...and I´ve loved it every time. Their lunch menu is delicious and affordable (5.756.75). The aguas frescas are sooooo good, try the cantaloupe one! Overall, I find the flavor of their food to be superior to most taquerias in Davis (and more authentic), more like something you would find in WOodland where they have excellent Mexican food. The place is nice and clean and the staff is friendly and courteous. I highly recommend this place! Try their carne con chile verde, it is GOOD!  Users/Awiwi
+
+20130213 15:11:59 nbsp Price: Great for the quality and quantity you get. Good service.
+Request: Have free wifi. Users/DavisSite
+
+20130213 20:00:09 nbsp Best taqueria in Davis! The food here is very authentic, has lots of flavor (Ive found taquerias in Davis tend to be fairly bland), and is reasonably priced. Ive had nachos, burritoes, carnitas, sopes...theyre all delicious! Bonus points for sopes, theyre hard to find and this place makes them good! Users/KianaFreitas
+
+Anchor(Vegetarian?)20130227 13:02:08 nbsp After coming here when they first opened, I must admit that I had high hopes for this place.  However, I found myself sorely disappointed:  Though they advertise some of their dishes as VEGETARIAN, their rice is cooked with CHICKEN.  This makes it of course unsuitable for nonmeateaters like myself.  If I recall correctly, their refried beans were okay, but I suppose the name of the game is to ask.  If I could have eaten the rice, Im positive I would have enjoyed the food alot more.  As it is, though, mexican food just isnt mexican food to me without a helping of rice and beans. Users/Michi
+  20130624 19:21:00 nbsp Yesterday, I asked for a vegetarian taco salad. I asked what kind of beans they had, and the lady taking my order said Oh you want vegetarian, right? We have pinto and black. I asked, The refried isnt vegetarian? Nope. Is the rice vegetarian? Yes, it is. Unfortunately I was craving some refried beans, so I didnt eat here, but I am grateful for their honesty. But since my experience was the opposite of yours, Michi, it would help if others inquired, too. For now, Ill put my information up in the main body. Users/TheShah
+
+20130623 15:27:18 nbsp Terrible. I could tell it was a bad sign when we passed the time waiting for our food trying to decide which of the salsas was worse. We tried the carne asada, chile verde, and carnitas regular tacos, chicken hard taco, and tostada de ceviche. The only edible taco was the carnitas. The chicken was less bad than the other ones, but they were all bad. I didnt even try the ceviche  the avocado was brown and it looked like they put sour cream under the fish, which was not mentioned on the menu. Who puts sour cream on ceviche??  Users/AliaT
+
+20130707 02:54:46 nbsp Not half bad. Not half good. Taco bell is more authentic. Looks like a taco shop. Smells like a taco shop. Tastes... half way like a taco shop.  Users/SarahMD
+
+20130710 00:31:38 nbsp I love this place very authentic Mexican.  It fills you up, there salsa bar is absolutely incredible try the white sauce and the chips are super fresh. Good hours. There punch card is nice feature but they allow one punch per transaction not per burrito.  Please change this. Great food wonderful service 5 stars Users/bcartoscelli
+
+20130819 04:43:39 nbsp I take back everything I said up above. The owner is an absolute jerk I go in there pretty much 5 to 6 days a week I get a bowl Im basically just meat it comes to 4.51 some of the other employees charge me 3.89 so the other night he charges me 5.89 and said thats what he always charge me I was quick to whip out my receipts. He was dumbfounded and said exactly this Im sorry man in broken English. Hes extremely tight very rude to his loyal customers I will never go there again youre very pompous you just lost a loyal customer. Best of luck to you you will always make it and make good money because of one thing the students not people like me Users/bcartoscelli
+
+20140110 12:27:16 nbsp Since the tragic closing of El Mariachi at the end of last month, Ive been hoping to find a new place downtown to get a good burritoand this appears to be it! I stopped by yesterday for a California Burrito and it was like an explosion in my mouth of everything that is good about potatoes. Good chips and salsa too. Looking forward to trying out more of their menu. Users/BarnabasTruman

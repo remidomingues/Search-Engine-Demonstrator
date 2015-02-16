@@ -1,0 +1,7 @@
+Scott Henry was born April 29th, 1977. Although he plays in LARP LARPs in Davis he is from Roseville. He was the one who originally scouted out the Davis LARPs and told Users/ErinManley, his now sister in law, to come to the awesome games. Characters he has played in Davis LARPs include: Daniel the Brujah, Eji the Tremere, Stephon Von Ritter the Infernalist/Nazi Tremere (though Scott has no inclinations towards ethier of those things.), Solomon the Gargoyle, Gern the Gargoyle AKA Stone Chicken, Sergei Petrovich the Shadowlord Werewolf, Sarge the Get of Fenris Ragabash with a close resemblance to wiki:WikiPedia:R._Lee_Ermey R. Lee Ermey, and most recently Rast, the Nosferatu Carthian in the now canceled Memento Mori LARP.
+
+Scott can usually be found in Roseville with not much to do as sadly he is not in any current LARPs at the moment since the one he was in recently, Memento Mori, was canceled due to real life issues. He is however very interested in tabletop games of just about any sort but he mostly loves the Eberron setting for D&D 3.5.
+
+Scott is also a avid lover of Japanese culture and history with the feudal period being his primary interest. That being said he is also a ninja/samurai/martial arts nut and he also loves animae but has some particular tastes concerning animae, and no they dont involve naughty tentacles.
+
+Scott currently works as a security guard at various sites around Roseville and loves his job. Its far less stressfull than other jobs hes done before.

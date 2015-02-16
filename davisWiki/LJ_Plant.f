@@ -1,0 +1,3 @@
+Lewis J. Plant (?–1897) was an Alabama native who settled in Davis in Davis Timeline/1850 1859.  Before settling in California, Plant had generated considerable wealth by opening eateries that catered to Central Pacific railroad workers.  Once in Davis, he owned a liquor store, grocery store, and a restaurant that was located in the railroad depot.  He also helped launch Davis first newspaper, the Davisville Advertiser.  Plant maintained an active role in his business pursuits until the time of his death.  He was married to Sarah Lanman, a native Kentuckian, and they had a total of five children.
+
+One of his sons, AJ Plant, was active in local affairs and politics as an adult.

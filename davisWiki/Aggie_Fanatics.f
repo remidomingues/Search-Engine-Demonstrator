@@ -1,0 +1,3 @@
+http://www.aggiefanatics.com/ Aggie Fanatics is a FUNfilled cheering section which supports our UC Davis  studentathletes. Aggie Fanatics members receive free stuff throughout the Aggie Athletic season for registering. They also get a membership card, allowing them to earn Aggie Bucks and buy stuff at the Aggie Pride Outlet, such as apparel and merchandise to support the team!  There is also a chance to win stuff for attending games.  There is an http://www.aggiefanatics.com/HowtoJoin/fanaticsapp.pdf application to fill out and turn in to join.  Its completely free to join!
+
+Aggie Fanatics is part of the UCD Athletics Department, and is sponsored in part by Wells Fargo.

@@ -1,0 +1,4 @@
+
+Art for Africa is a nonprofit organization under Wisdom Spring Inc. started here in Davis by teens for teens. Our mission is to (ultimately) make education a world wide affair. Alas, we are small and growing so we are forced to limit ourselves to one country Burkina Faso, West Africa. http://maps.google.com/maps?tabwl Burkina Faso has one of the lowest literacy rates in the world, a little over 15%. Art for Africa raises money through selling teeshirts, indigenous arts and crafts, henna tattoos, our yearly art auction, and much much more. 100% of the proceeds go to building more schools, buying supplies, hiring teachers, and sending children of all ages to school in Burkina Faso. So far we have sponsored more than 200 children and we are just getting started! Come visit us at the Davis Farmers Market every Saturday or visit our website for more information.
+
+

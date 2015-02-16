@@ -1,0 +1,6 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+Im moving your comment from Steves Pizza here for now. I did this because your account name has the appearance of being a pseudonym and your edit has a questionable feel to it. We are on a roll tonight with reverting what appear to be attack comments. If yours got caught up with the rest and doesnt deserve to be please leave a note here with some explanation. It might also help to make a few positive edits prior to making a comment such as the one you made. Users/JasonAller
+
+I ate at their salad bar a week ago and got terrible food poisonong...SO did my coworker. I think from the old Ranch Dressing. I was buckled over in bed all weekend. On Monday I stopped by to talk with the manager out of concern that this wont happen to anyone else, and was totally blown off. I then wrote to their web site, not asking for anything except an assurance that they will be careful in the future, and never received a response. I was always very polite, and concerned. The next step is the Health Department, and calling the owner (who I hear is a nice guy from City staff...I have my doubts) personally. All because they couldnt give me a courtesy response of thanks, well be more aware in the future. Dont eat the food here if you care about youtr health.

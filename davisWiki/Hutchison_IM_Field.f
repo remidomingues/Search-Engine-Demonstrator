@@ -1,0 +1,2 @@
+
+Hutchison Intramural Fields IM Field is that big green thingy south of the old Rec Hall on campus. It is bordered by La Rue Road on the western side and Hutchison Drive on the southern. It is primarily used by intramural sports but also host special events, like trick dog competitions on Picnic Day. East of the Field are the West Entry Parking Structure, the TAPS building, and the UC Davis Fire Department Fire Dept./UC Davis Police Department Police Station.

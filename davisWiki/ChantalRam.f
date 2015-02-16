@@ -1,0 +1,4 @@
+Describe Users/ChantalRam here.
+
+
+20110220 00:19:11 nbsp Hello. The Davis Judo Team is technically a Sports Club, so it is basically affiliated with the university. Most of the tournaments they go to however are not limited to college students, like the tournaments that the UC Davis Fencing Club attends, so one would be able to go compete and train with the club even after graduating. You might be able to borrow the top part of a gi for one day if they happen to have your size, but go in with a heavy sweater (no zippers and you might want to pull any strings out) that you do not care about ruining just in case. You do not have to pay to try it out for a day (especially if you go the first week of a quarter). I would suggest going near the beginning of the quarter though as training will be slightly less intense, although they are preparing for a huge tournament this year, so it might be a little different this year. Users/hankim

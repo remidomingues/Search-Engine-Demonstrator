@@ -1,0 +1,2 @@
+Describe Users/JoshGould here.
+he be who he be. look for him hanging out around the bike church, the design building or the sculpture yard, hes probably up to no good. depending on who you are you may be able to talk him into doing something gloriously stupid. He wishes he had a camera so he could post mystery photos. has been here since 2000 and grew up in wiki:sacramento Sacramento, so have been to most every restaurant in Davis existent during that time, and knows all the good climbing trees.

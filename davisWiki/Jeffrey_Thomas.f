@@ -1,0 +1,3 @@
+Professor Jeffrey Thomas is a member of the faculty at the UC Davis Department of Music.  He is probably best known as the conductor of the University Chorus, Alumni Chorus and University Chamber Singers.   Members of his first crop of students back in 1996 have formed the alumni choral group Sethsingers.
+
+Since joining faculty, he has received a Chancellors Fellowship from 2001 to 2006, was the first recipient of the Barbara K. Jackson Chair in Choral Conducting, was given a Bellagio Residency to work on his manuscript, Handels Messiah: A Grand Musical Entertainment, by the Rockefeller Foundation.

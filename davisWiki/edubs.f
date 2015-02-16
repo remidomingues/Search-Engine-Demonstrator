@@ -1,0 +1,7 @@
+I am a Graduate Students graduate student at UC Davis. I mainly use Davis Wiki for learning about and reviewing restaurants in town.
+
+Recommended Restaurants
+ Sushi Buffets
+ One of the most unique characteristics of the restaurant scene in Davis is the unusually high density of sushi buffets. In New York I was accustomed to spending $12 on two rolls so the possibility of putting away two dozen rolls for that price rocked my world (to say the least) when I came to Davis. Ive tried every sushi buffet in town, but only two carry my seal of approval.
+  Jusco
+  Jusco has inexplicably low ratings on Davis wiki, but dont let them fool you; this is the favorite of any selfrespecting sushi buffet patron in town. Occasional visitors to the realm of sushi gluttony might be blinded by the apparent novelty of sushi boats at places like Fuji Chef but this method of sushi consumption works against the consumer. Any sushi worth eating gets snatched off the boats immediately leaving little more than plates full of inari and other such nonsense to circulate. The owners aggravate this even further by never putting more expensive or desirable items on the boats (sashimi, for example). You can theoretically ask for anything that you want, but such requests are responded to in an extremely rude fashion and are frequently not met at all. Jusco transcends these problems with the introduction of a laminated list of items that you can... (to be continued)

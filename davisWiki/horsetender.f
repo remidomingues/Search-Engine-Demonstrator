@@ -1,0 +1,4 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+20080725 12:01:51 nbsp Welcome to the Wiki Howdy, Mr. or Ms. Tender, and Welcome to the Wiki!   You might want to check out the importance of using your RealName, just so we can get to know you (or not: its your choice, but people were pretty friendly here).  My names Evan, pleased to meet you!  Thanks for updating the Hoffmann Automotive entry.  I readded some of the information you removed in a new History section  theres room on the wiki for the past history of organizations and businesses in Davis (in fact, businesses that closed down many years ago are added for historical record).  Im not sure what the status of Davis Muffler & Hitch Center, so if you could clarify that in the history section (and/or update the Davis Muffler & Hitch Center entry itself), it would be great!  Once again, welcome to the wiki! Users/JabberWokky Evan JabberWokky Edwards

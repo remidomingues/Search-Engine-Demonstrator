@@ -1,0 +1,12 @@
+Davis Organization of Parents for Education in the Neighborhoods (Davis OPEN) is a voluntary organization of Davis parents who believe that every elementary school child should have the opportunity to attend a neighborhood school regardless of race, ethnicity, culture, language, or social class.
+
+The immediate goal of Davis OPEN is to keep Davis neighborhood elementary schools open for all, hence its first campaign: Keep Davis OPEN for all!
+
+When Davis OPEN was founded on Martin Luther King Day (Monday, January 15, 2007), Valley Oak Elementary School was the only neighborhood elementary school in Davis facing the danger of closure. That is why the online petition statement, which Davis OPEN started circulating on Thursday, January 18, read that Valley Oak should remain open like every other neighborhood school in Davis. As of Friday, January 19, Korematsu School was facing a similar danger. While Davis OPEN was not able to change the text of its online petition because of the rules set by http://www.thepetitionsite.com, Davis OPEN revised the hard copy of its petition statement on Saturday, January 20, which from then on read that Korematsu and Valley Oak should remain open like every other neighborhood school in Davis. By March 15, 2007, Davis OPEN had more than 1,600 signatures. You can find out more about Davis OPEN at http://www.davisopen.org.  You may reach Davis OPEN at davis.open@gmail.com.
+
+Davis OPEN believes that the residents of Davis can find creative solutions and Keep Davis OPEN for all! This is Davis  where people do amazing things!
+
+
+  Having followed the Board of Education meetings, I doubt some of the information above.  For a short time, there was some concern about Korematsu, but after the recent meetings and comments by school board members, it seems like that fear was unfounded.  The board appears committed to fully opening Korematsu for the 2008/2009 school year, and it doesnt appear to me that Korematsu is even on the drawing board for closure at this point.  I believe it was Tim Taylor who made some comments to the effect that Korematsu has one of the highest number of kids in the local neighborhood out of all of the schools, so it is obvious that Korematsu should be opened fully and remain opened.  Users/DavidGrundler
+
+  Mr. Grundler, you are correct; Korematsu is in no danger as of March 20, 2007. But its closure was one of the options studied by the Best Uses of Schools Advisory Task Force.  Baki Tezcan

@@ -1,0 +1,1 @@
+Currently a 4th year Political Science major and Communications minor and UCD.  Originially transferred from UCSC after freshman year.  Also involved with the student run, nonprofit, community service group Help and Education Leading to Prevention H.E.L.P.

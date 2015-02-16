@@ -1,0 +1,1 @@
+Anneka Euser is campus organizer for the ASUCD State and National Affairs Office as well as the student representative to the UC Regents http://www.universityofcalifornia.edu/senate/committees/ucie/ Committee on International Education.

@@ -1,0 +1,5 @@
+In Christianity, the Stations of the Cross traditionally refer to a set of 14 pictures or sculptures that sequentially depict the end of Jesus Christs life on earth.  In some churches, a 15th station has been added to represent Christs resurrection.  Although the artistic representations of the Stations are usually located within the church itself, they can sometimes be found outside as well.  Stations of the Cross can also refer to the meditational activity in which one reflects upon the image of each Station while saying a prayer.  Although this activity can be performed by an individual anytime throughout the year, it is most common during the season of Lent.  Stations of the Cross are commonly associated with Roman Catholicism, but there are other Christian groups that have held on to the tradition as well.  There are at least a few churches in Davis that have the Stations.
+
+Stations of the Cross in Davis
+ The Episcopal Church of St. Martin
+ St. James Catholic Church has an indoor set and outdoor set

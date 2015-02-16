@@ -1,0 +1,5 @@
+
+
+Bacopa (Sutera cordata) is in the Scrophulariaceae family, and is a tender perennial requiring dappled shade and consistently moist soil  not the best plant in our Davis weather climate unless planted near a water feature or daily water is provided. Its evergreen foliage ranges from green to chartreuse. Native from southeastern US to Central America, bacopa has a trailing habit and grows up to 6 high with small white or lavender flowers; bacopa thins and drops its flowers when stressed such as with underwatering. Ideally, bacopa should be planted in a pond or bog area to maintain adequate moisture. This plant blooms from late spring through early fall and propagates fairly easily from cuttings. Bacopa is a slow grower compared to other plants such as bellflowers, dead nettle or confederate violet, so youll need quite a few plugs to establish it as a ground cover, but it also isnt nearly as invasive as the latter two plants.
+
+To learn more about plants found growing in Davis, visit our Town Flora.

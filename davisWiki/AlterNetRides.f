@@ -1,0 +1,9 @@
+http://www.alternetrides.com AlterNetRides is a service that helps anyone find rides. It is ugly as sin. For some reason, http://www.californiaaggie.com/news/2005/07/28/FrontPage/TapsProvides.New.RideShare.Program1320968.shtml this the california aggie aggie article leads the reader to believe that TAPS was somehow involved in the site becoming available to students, but anyone who visits the website will notice that the website says free to anyone. The TAPS website even has a link to the alternet website that requires a Kerberos Login. It is unclear why this exists. Maybe im missing something.
+   Only glanced at it, but if you log in with Kerberos, youll find 13 rides.  If you go straight through the website, youll only find one to Davis.  Its free to everyone, but it seems that like the other universities the article mentions, we have our own exclusive access. Maybe they consider it a safety feature.  Or else make it seem more appealing to students.  Ride with a complete stranger vs Ride with a completebutuniversityaffiliated stranger. Same thing with people offering rides.  Probably more likely to give another student a lift then some random person around town.
+
+The service doesnt appear to list UC Davis/Davis any longer. (20060512)
+
+
+20050803 23:12:13 nbsp I registered with it.  I agree it is ugly as sin.  I tried it out after an article in a July issue of the Cal Aggie.  My sentiments exactly...how could this company market itself to Universities, and more importantly, how could they accept, when the site is so brutally unappealing and illogically designed and executed? Users/AnnieSirrah
+
+20051220 20:06:27 nbsp I highly recommend the http://sacramento.craigslist.org/rid/ Craigslist rideshare. Ive used it many times and had all positive experiences. Users/SteveDavison

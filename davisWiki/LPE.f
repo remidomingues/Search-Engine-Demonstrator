@@ -1,0 +1,1 @@
+The account LPE was solely used to make several racial attacks on various users and Vent Magazine.  This account has been banned.  If you are the person behind LPE, I urge you to sleep on it and return when youre a bit more calm.

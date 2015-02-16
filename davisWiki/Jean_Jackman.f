@@ -1,0 +1,2 @@
+
+Jean Jackman is a storyteller in the oral tradition, a writer, producer, environmental  and social justice activist.   She writes the nature column, At the Pond for the Davis Enterprise.  She is the author of Down Home Tales of Davis a history of Davis integrating the oral history of long time Davis residents and pioneer descendants.  She is the coproducer for Performers Circle Davis Performers Circle which meets the 4th Monday of each month except December at Village Homes with sign up performers followed by a featured performer concert.

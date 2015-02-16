@@ -1,0 +1,12 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+Welcome to the Wiki Howdy, Mr. or Ms. ARC, and Welcome to the Wiki!   You might want to check out the importance of using your RealName, just so we can get to know you (or not: its your choice, but people were pretty friendly here).  Are you the only person who can speak for the group?  Are you only ever going to speak for the group?  Its generally better in the long term to just use your name and then mention your affiliation when speaking for the organization rather than equating yourself (I am only the group, the group is only me) with the organization.  At the very least itll look odd when you want to review a restaurant as the group.  ;)  My names Evan, pleased to meet you!  Thanks for adding the info to the Church of the Divide... I linked the URL to the website for people to follow.  Users/JabberWokky Evan JabberWokky Edwards
+
+20080524 23:34:19 nbsp It is nice to meet you Evan.  My apologies for not getting back to you until now; I am a student at ARC :)  I will be the only person to speak for our small group;  I am the webmistress.  Most of us working on this project would prefer our opposition not know exactly who we are, (though by now they probably have a pretty good idea).  Several of us have been followed and have had our pictures taken, so safety is a concern.  My apologies for remaining anonymous; I do not intend to appear rude.
+What a sociological experience this has been!  If you have not checked www.savearc.com recently you are missing out. The last round of elections has brought high drama.
+I want to thank you, as well, for providing a forum that gave me the idea to find out about who these people were connected with.  The students at ARC owe you a thanks whether they realize it or not.  And, thank you for linking the site.  We at SaveARC are kind of proud of it.
+I saw on the news that the UC Davis campus had a great deal of GLBTQ literature ripped down a few weeks ago.  This is how it started a few years back at ARC.  It is important we all remain connected on these issues so that we may keep the community aware of what is going on.  I fear this culture clash is still to get worse before it gets better.
+I have been accepted to and will be attending UC Davis shortly. Users/saveARC
+
+20080524 23:55:31 nbsp Wow, if any of you tried to email me (it was all so new at the time), the email address was wrong :(  It has been corrected. Users/saveARC

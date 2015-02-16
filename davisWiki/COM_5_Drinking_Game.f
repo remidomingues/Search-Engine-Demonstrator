@@ -1,0 +1,1 @@
+The COM 5 Drinking Games drinking game takes place after the final of Comparative Literature 5, Fairy Tales and Fables. Watch the movie Shrek, and every character you recognize from text required and read in the class, take a drink. Enjoy.

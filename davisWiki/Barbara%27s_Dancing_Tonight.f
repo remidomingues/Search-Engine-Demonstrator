@@ -1,0 +1,5 @@
+
+Barbaras Dancing Tonight! offers lessons in a variety of Learn to dance dance styles including ballroom, Latin, hiphop and swing. Group and private lessons are available, and though classes are held weekly, a Learn to dance dance card can be purchased that allows the bearer to drop in on any class, or just purchase a single session whenever you can squeeze it into your schedule. The studio is divided into two spaces, with a parquet dance floor and full floor to ceiling mirrors. Both Barbara and her husband Nicoli work hard to ensure that students are comfortable, get the attention they need and have opportunities to practice their dance skills with a variety of partners through their Friday night Learn to dance dance parties. Barbaras courses are taught by a variety of instructors and class sizes are small and taught in a relaxed atmosphere. Classes are held afternoons and evenings or by appointment, and no partner is ever needed!
+
+
+20051228 01:54:40 nbsp My time in the Davis Swing Kids (~19941996) was incredibly valuable.  I learned to be nimble on my feet and confident in social situations, thanks largely to this experience.  Rock on. Users/GrahamFreeman

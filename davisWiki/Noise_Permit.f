@@ -1,0 +1,9 @@
+Noise permits allow you to have a temporary exception to the noise ordinance. You can download a noise permit http://www.cityofdavis.org/police/pdfs/forms/Noise_Permit_Application_and_Instructions.pdf from the City website. Permits cost $25 even if you are denied the permit. You can also pick up a noise permit application from the Davis Police Department.  You must turn in your application to the Police Department. The permits allow you to have noise above the noise ordinance until midnight on weekends at 10pm during weekdays. You cannot receive a noise permit if you have been cited with a noise violation. You cannot also receive a noise permit if one has been given to you or a property within 200 yards in the past 3 months. Noise permits are not needed on campus as there is no noise ordinance, although excessive loud noise will probably bring the UC police.
+
+The police do not need to verify the intensity of the sound to cite you with a violation of the noise ordinance, all they need is a complaint. The majority of the time, Community Service Officers are the ones giving out the violations while a the real police stand by as backup.
+
+If you are served 3 or more noise violations it is considered a misdeamnor and you may be arrested.
+
+Receiving a noise violation does not give the police permission to enter your residence unless they cannot immediately find a resident or if a resident or partygoer gives them permission. Howevere, the police may use other reasons for entry, such as seeing underage drinkers or the smell of illegal substances. Police may also enter a residence without permission to break up a fight or to stop a crime in progress.
+
+You do not have to, but it is always smart to be courteous to the police as it may make the difference between a $160+ fine and a warning.

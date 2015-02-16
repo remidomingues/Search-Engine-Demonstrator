@@ -1,0 +1,2 @@
+
+20110104 10:30:37 nbsp Nobody is going to take you seriously if you continue to edit with this account. You should close this account and create a new one using your own name. Please read the Importance of using your RealName for more details. As for your comments about bias, you probably want to read Neutral Point of View. In short, bias is ok and even encouraged here. Let me know if you have any questions. Users/WilliamLewis

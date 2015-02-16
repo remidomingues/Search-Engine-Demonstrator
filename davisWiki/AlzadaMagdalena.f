@@ -1,0 +1,7 @@
+Describe Users/AlzadaMagdalena here.
+
+20120516 17:27:05 nbsp Hi Alzada. Ive never worked really with boxes so I dont know the answer to your question. But I will forward your question to somebody who has more wiki knowledge than I do. Users/ScottMeehleib
+
+20120517 01:45:36 nbsp After playing around for a while, I was able to figure out how to put a box around the San Francisco text. Hopefully thats what you had in mind. Users/ScottMeehleib
+
+Im glad you like the way the tables turned out. I dont have much experience with raw HTML, but my guess would be that the wiki uses a simplified or modified version of HTML for certain tasks such as creating tables. These are the guides I used to make the boxeffect with the table function: http://wikispot.org/Help_with_Tables and http://wikispot.org/Help_with_Colors. To answer your other question, there is currently no way to make the most recent comments appear at the top. I feel this is a flaw in the wiki software. The workaround that most of us use is to archive the comments by creating another page that acts as a subpage, and then all the old comments are simply copied and pasted onto the new page; then we create a link from the original page to the subpage and delete all the comments on the original page. This is usually done every year or so with businesses and organizations, or whenever an excessive amount of comments starts to make the page unwieldy. As an example, check out Friendly Cab and Friendly Cab/Comments 2009 & 2010.  SM

@@ -1,0 +1,5 @@
+Describe Users/anonymous.87 here.
+
+20100502 19:01:58 nbsp Hi Anonyperson, and Welcome to the Wiki.  Please consider closing this account and making a new one under your Importance of using your RealName Real Name so you can establish an identity here.  As I commented on the Bistro page, presenting an obviously biased, anonymous review does not sway me one way or the other with regards to an establishment.  I do have to wonder how you know the employees full name, though  that tidbit just screams previous drama. Users/BrettHall
+
+20100502 19:17:01 nbsp Hey anonymous... ditto to what Brett said.  The story you tell over on the Bistro page makes very little sense.  Why not close this account (via the settings link in the upper right corner) and create a new account in your own name?  Itll lend a lot more weight to your comments.  Whats more, if the folks at Bistro already know who you are and have banned you, its not like you have to worry about retaliation.  As is, it just seems like a rather suspicious comment. Users/TomGarberson

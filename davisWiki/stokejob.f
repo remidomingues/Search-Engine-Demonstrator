@@ -1,0 +1,1 @@
+I am a recent graduate from UCDs Chemical Engineering and Materials Science Chemical Engineering department. I play in a Music Scene band, Living In Disguise. We just released a new CD, Sometimes They Come Back, recorded and produced entirely by us. Please listen and leave comments http://www.myspace.com/livingindisguise.

@@ -1,0 +1,2 @@
+Describe Users/KristinApril here.
+Thanks for letting us know about your moving from Lucis Salon to Vita Dolce Salon and Barbershop. You can make links in your writing on the wiki like {{{Lucis Salon}}}. Feel free to add a note about your moving to both of the pages (just click edit next to the title of the page), or any other useful information. Its always helpful for the wiki to have more links showing the relationships between things in Davis. Thanks!  Users/NickSchmalenberger

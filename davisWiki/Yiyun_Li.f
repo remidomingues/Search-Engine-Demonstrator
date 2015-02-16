@@ -1,0 +1,3 @@
+Yiyun Li is a professor in the UC Davis English Department; she joined the department in 2008.  Her first novel, The Vagrants, was published in February 2009 and led Li to be selected as one of the nation’s top 20 writers under age 40 by editors of The New Yorker magazine.
+
+In 2010 she was awarded the prestigious MacArthur Foundation fellowship (commonly known as the Genius Award).  She is only the 3rd UCD professor to receive the award.  (The other two are Leah Krubitzer and Geerat Vermeij).  This UC Davis News & Information http://www.news.ucdavis.edu/search/news_detail.lasso?id9629 article has more details.

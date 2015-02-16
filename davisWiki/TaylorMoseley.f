@@ -1,0 +1,1 @@
+Image(tdog.jpg, Taylor Punching a cougar in the FACE!!!!!1, left, thumbnail)Taylor Moseley lives with Users/SamSellers Sam and Tiger and punches cougars faces. To aviod confusion with Users/TaylorStreet, some call him Taylor 2.0.

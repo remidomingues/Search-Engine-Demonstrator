@@ -1,0 +1,5 @@
+
+Founded in 2012, Heavy Dirt Farm is home to a brand new residential community, a few sheep and pigs, lots of chickens, an orchard, herb gardens, and a small vegetable farm. They plant, grow, and harvest food by hand without the using chemical sprays or heavy machinery, and offer a highquality produce CSA at an affordable price.  The Heavy Dirt farmers are interested in exploring the interaction between farm and community, to reduce waste, educate, and cultivate healthy soils while growing healthy food.
+
+Weekly CSA boxes are delivered Tuesday and Friday to Davis and downtown Sacramento. Two box sizes are available to accommodate your needs. You may sign up weekly, but discounts are offered for subscribing for 3+ months and subscriptions are highly encouraged! Meat and eggs can be added to your CSA delivery when available. Heavy Dirt is a very small operation and the farmers would love to meet potential customers as well as those who might be otherwise interested in life in rural Davis!
+

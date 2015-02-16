@@ -1,0 +1,8 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+Howdy Luna, and Welcome to the Wiki!   You might want to check out the importance of using your RealName, just so we can get to know you.  Or not: its your choice, but people were pretty friendly here.  Pardon if the actual name you go by is Luna Electonique... Im only guessing youre assuming this is like most internet sites rather than a community site, so no offense intended (hey, my wife calls me Wokky after my theater nickname of JabberWokky, so Im familiar with unusual names).  My names Evan, pleased to meet you!  Thanks for adding the info about Orchard Park, but Im a little confused.  Are you saying that there are no one bedroom apartment at Orchard Park, or that there are merely none that are available? Users/JabberWokky Evan JabberWokky Edwards
+
+20110521 16:55:12 nbsp Hi Evan, I hope this is how to respond to messages here. Thanks for the welcome. I dont in fact feel comfortable using my real name. Some are friendly here and some are not. And, the name is just Lunits French :)
+
+My entry about Orchard Park was meant to imply that there are no one bedroom apartments at OP. Its also stated in the paragraph just below, Only two bedroom apartments are available but I thought it would be nice to have it in the quick info section, partially because I was myself confused as to why only two bedroom prices were there until I looked it up, partially because it seems to help consistency with the Solano Park page which does list one and twobedrooms. If you can think of a clearer way to write it please let me know! Users/lunelectronique

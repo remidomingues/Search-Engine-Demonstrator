@@ -1,0 +1,5 @@
+The AMSA Heartbeat Run, hosted by the American Medical Student Association, benefitted UC Davis studentrun medical clinics and the Bayanihan Clinic, all providing free primary health care to underserved populations of Sacramento. The HeartBeat consisted of a 10 kilometer run, a 10 kilometer or 5 kilometer team run/walk, a kids’ 1K run and a health fair at UC Davis School of Medicine. The event emphasized family participation and courses all started and finished at the School of Medicine on the campus. The 5K course took runners, walkers, strollerpushers, and Dogs petpullers through UC Davis arboretum while the 10K course extended through flat farmland and tree lined roads west of campus. Timing and finish line operations were professionally managed.
+
+Clinics benefiting from this event are staffed by volunteer UC Davis medical students, undergraduates, and area physicians. 2006 was the 16th annual running of this volunteerorganized event and sponsors included Ink Monkey Graphics; Tandem Properties; Sherwood, Wilson & Kyo; Fleet Feet; Road ID; Ace Hardware; and Sweet Briar Books.
+
+The 2007 event was held in Sacramento at the UC Davis Medical Center campus.

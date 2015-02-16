@@ -1,0 +1,2 @@
+
+Delta Delta Rho is a Fraternities fraternity established at the University of California Davis in 2005. Although relatively small and new, the fraternity is making history as one of the first independent service brotherhoods dedicated to helping create socioeconomic change in policy through grassroots activism. They also serve as an establishment that unites all who share in the values of integrity, loyalty and hyphyness.

@@ -1,0 +1,1 @@
+#redirect ASUCD Entertainment Council

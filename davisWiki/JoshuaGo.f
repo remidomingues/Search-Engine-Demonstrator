@@ -1,0 +1,1 @@
+I am entering my fourth year as a Computer Science and Engineering major at UC Davis. I have a http://www.livejournal.com/users/joshuago/ Live Journal as well. I find satisfaction in creating whatever may be useful to people.

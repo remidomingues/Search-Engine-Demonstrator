@@ -1,0 +1,2 @@
+
+Welcome to the Wiki/Business Owner Welcome to the Wiki!  It looks like youre probably the same person as AssistantManager.  Please see the Importance of using your RealName and Identity.  The community has decided that organizational account names are inappropriate because they run so contrary to building community on the Wiki.  As youve discovered, its easy to create a new account, so please make one using your own name.  You can easily identify on your user page that youre part of the Alder Ridge management. Users/TomGarberson

@@ -1,0 +1,6 @@
+
+The Seminars Project is an archive of recorded lectures and seminars from the various University of California UC campuses collected and made available to the public by UCTV.  The project is the brain child of UC Davis entomology professor James R. Carey, who encouraged the recording, broadcast, and archival of many of the hundreds of seminars that take place on a weekly basis throughout the UC System.
+
+The Enterprise http://wwwnew.davisenterprise.com/localnews/ucd/ucseminarsonlinefromecologytoevolutiontoelectronicteaching/ reported that an initial pilot program local to UC Davis made 49 seminars available to the public and met with a great deal of approval.  As of May 2011, seminars are available from the UC campuses at Berkeley, Davis, Los Angeles, San Diego, San Francisco, Santa Barbara, and the Washington, D.C. extension.
+
+The Projects seminars are available at http://seminars.uctv.tv/ where they can be browsed by campus, by conference, by host (department, group, or organization, apparently), by speaker, or by subject matter.  Broad subjects include Arts & Humanities, Engineering, Life Sciences and Health, Physical Sciences & Mathematics, and Social & Behavioral Sciences, with subcategories in each.

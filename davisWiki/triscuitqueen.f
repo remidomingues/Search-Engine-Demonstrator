@@ -1,0 +1,6 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+20081001 18:48:30 nbsp  Welcome to the Wiki. Please consider the importance of using your RealName. It may help to know that people can look at your http://daviswiki.org/Users/triscuitqueen?actionuserinfo user info and see all of your reviews. Users/JasonAller
+
+20081001 21:51:50 nbsp Welcome to the Wiki Howdy Mr. or Ms. Queen, and Welcome to the Wiki!   You might want to check out the importance of using your RealName, just so we can get to know you (or not: its your choice, but people were pretty friendly here).  My names Evan, pleased to meet you!  Wow, youre sure full of vinegar for some of your fellow neighbors!  Your comment placed on the  Tercero Dining Commons entry mentioned that you couldnt figure out how to add a comment if there is no comment box... you can edit any entry you wish and add a comment by clicking the Edit button at the top of any page.  The comment macro just makes it easy, since it automatically signs and dates your comment. You can edit pretty much everything on the wiki, just like all your fellow editors.  Once again, welcome to the wiki!  Users/JabberWokky Evan JabberWokky Edwards

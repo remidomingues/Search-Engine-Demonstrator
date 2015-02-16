@@ -1,0 +1,2 @@
+
+At Reentry Student Services, reentry students can signin, grab a free lollipop, and hop onto a computer to do some online browsing or finish a paper for class.  The unit also will help with academic planning and connect students with campus resources.  They also offer the Osher Reentry Scholarship to reentry students 2550 years of age (see http://reentry.ucdavis.edu/reentry/scholarships/osherscholarshipprogram.html website).

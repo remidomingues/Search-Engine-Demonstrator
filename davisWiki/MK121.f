@@ -1,0 +1,6 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+20090426 20:46:59 nbsp Welcome to the Wiki. If the links you added are really relevant to Davis and Davis Wiki and are not spam please readd them. They appeared to be not directly related and were removed. Users/JasonAller
+
+20090427 12:07:54 nbsp Im an editor on wiki:chico Chico Wiki.  It can be difficult to know when a website is specific to a locality that a wiki services.  Editors sometimes dont have time to run the unix command host on a domain to better understand if a website is local or not.  It is especially difficult when a website makes absolutely no claim to servicing specific localities.  So its a rather gray area and not all editors see relatedness in the same way.  Ive been known to remove websites that seem to have no relatedness to Chico but always ask the poster to clarify if he is intent on putting it back up.  If such standards did not exist then every website in the world could be listed and the usefulness of such pages would be zero.  Sites like Facebook intrinsically service  myriads of specific communities so they usually pass muster as a social website related to Davis.  Hope this explains things.  Cheers. Users/RyanMikulovsky

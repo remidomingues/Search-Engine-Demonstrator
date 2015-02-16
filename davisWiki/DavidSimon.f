@@ -1,0 +1,1 @@
+David Simon is a new resident of Davis.  He is graduate student in economics at UCD.  His hobbies include reading, playing with his cat shoggoth, role playing games, obsessing over politics, and going out with Users/DanaSullivan Dana Sullivan.

@@ -1,0 +1,6 @@
+Founder and Davis resident Matt Blake is forming the Afghan Pepper Company (http://www.afghanpeppercompany.com/ website here) to give Afghani farmers a chance to grow a legal trade crop, hot sauce, which will be processed in Afghanistan and sold around the world.  Here is what he hopes will happen: Farmers grow produce other than opium poppy, demand for barrels and bottles and safe transportation rises, food processing expands, jobs are created, stability ensues, governments are supported by the governed, troops come home. All that and the world has a new, very delicious hot sauce to enjoy.  This http://www.davisenterprise.com/localnews/changingtheworldwithhotsauce/ Davis Enterprise article has further details.
+
+Blake sought a total of $25,000 of http://www.kickstarter.com/projects/matthewpblake/theafghanpeppercompany Kickstarter money for his project and was able to secure enough funding by the deadline (Feb 1, 2:59am EST).  The total amount pledged was $27,344.  As those of you who contributed money to LocalWiki know, Kickstarter funding is an allornothing prospect.
+
+The Afghan Pepper Company was also featured on http://gooddaysacramento.cbslocal.com/video/6686049afghanpeppercompany/ Good Day Sacramento.
+

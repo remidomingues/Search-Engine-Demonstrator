@@ -1,0 +1,3 @@
+Image(briggs 4.jpg, right, thumbnail, Delta, 2007.) Image(briggs 2.jpg, thumbnail, left, At Delta after a solo performance.)Image(briggs 3.jpg, thumbnail, right, Performing at Delta of Venus in 2007.) Image(briggs.JPG, left, thumbnail, 200, Teddy performing at Delta of Venus with Users/JoeFinkel and Users/AndyPastalaniec on July 14, 2007 (not under his Chief moniker.)) Chief Briggum is the stage name of Users/TeddyBriggs when he performs solo. The Chief has performed at Delta of Venus, Operation Restore Maximum Freedom, and at other venues in Davis and Sacramento. The Chief plays drums and sings in Boss the Big Bit when not venturing out on his own. He is/was also a KDVS DJ.
+
+More information on Chief Briggum may be found http://www.myspace.com/chiefbriggum here.

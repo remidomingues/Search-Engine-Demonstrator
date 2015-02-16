@@ -1,0 +1,4 @@
+In most locations, Davisites must wait for the trains to cross over Train Tracks. However, trains are often parked on the tracks near Covell Boulevard which would block traffic. Solution: Overpass! This is one of the few hills in Davis. On the south side of the east embankment right before the beginning of the railing is a break in the trees and this is one of the only places in Davis for downhill mountain biking. One side of the overpass is on J Street, the other is on F Street. H Street ends under this overpass. This also marks the location where Covell is split into East Covell Boulevard and West Covell Boulevard.
+
+
+Under the overpass is a Bike Paths bike path that connects the The Greenbelt north davis greenbelt to the H Street bike tunnel. Students of Holmes Junior High School Holmes who lived in North Davis likely are quite familiar with this path.

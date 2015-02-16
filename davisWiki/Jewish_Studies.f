@@ -1,0 +1,2 @@
+
+The Jewish Studies program is a minors minor offered at UC Davis with about 25 courses being taught every year.  Most classes in the program focus on the lifestyles and modern social concerns of the Jewish people, but there are also some that discuss the core religious beliefs and historical foundations of Judaism.  As part of the program, students have the option to study the Hebrew language for up to two years.

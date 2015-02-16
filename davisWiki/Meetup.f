@@ -1,0 +1,1 @@
+Meetup is a social websites social website that helps people with common interests form and maintain local real life meatspace groups/clubs. As of January 2011, there are 26 Meetup groups in Davis. Click http://www.meetup.com/cities/us/ca/davis/ here to see the over 600 Meetup groups located in and around Davis, sorted by distance.

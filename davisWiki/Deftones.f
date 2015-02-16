@@ -1,0 +1,3 @@
+While technically not a Significant Davis Bands Davis band, the Deftones bassist, Chi Cheng, was born in Davis and spent the first couple years of his life here. As a young adult, Chi attended California State University, Sacramento; it was around this time that he met the other founding members of the band who hailed from Sacramento. Sacramento is therefore generally considered to be the bands hometown.
+
+In the late 1990s and early 2000s, the Deftones garnered nationwide attention and critical acclaim for their unique style of metal music. In 2001, they won a Grammy for their song Elite in the category of best metal performance.

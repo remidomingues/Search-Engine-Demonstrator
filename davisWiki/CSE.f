@@ -1,0 +1,1 @@
+You are probably looking for either UC Davis Computer Science or UC Davis Computational Science and Engineering.  Due to an unfortunate naming conflict Computer Sciences engineering program has nothing to do with Computational Science and engineering.

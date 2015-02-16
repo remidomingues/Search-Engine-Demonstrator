@@ -1,0 +1,3 @@
+Student Action Ticket is one of the slates that ran for ASUCD positions in the past.  One candidate who was a ASUCD Senate senator on this ticket was Lamar Heystek, who has since gotten onto the Davis City Council. During his run for City Council, it is not believed that Heystek was actively promoting himself as a member of Student Action, despite how amusing it would be for a student political party to make the leap into being the real thing.
+
+The name might have been stolen from a party for Berkeleys http://www.asuc.org/ ASUC.  The Berkeley slate still has this name, as shown in http://www.ocf.berkeley.edu/~election/senate2004.html election results from 2004.  Student Action currently holds a plurality of the ASUC Senate, but lost the Executive Offices in 2007.

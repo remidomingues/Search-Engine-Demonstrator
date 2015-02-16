@@ -1,0 +1,1 @@
+#redirect Alpha Kappa Psi

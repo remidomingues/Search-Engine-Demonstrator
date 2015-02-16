@@ -1,0 +1,5 @@
+
+
+Dead Nettle (Lamium maculatum) has its origin in Europe and north America, and is a shady matforming perennial from the mints mint family, up to 6 inches tall. The plant needs moist, well drained soil, and can be easily propagated from cuttings. Dead Nettle, or Spotted Nettle, can spread rapidly given proper conditions, and can be invasive though easily removed. This is an excellent plant for shady gardens, as its silvery white leaves brighten and reflect light in dark corners; add to this its beautiful spikes of pink to lavender flowers, and most shade gardeners would be more than willing to put up with its rapid growth habits. Its clusters of small flowers occur at each node and stem terminals with characteristic mint flora: prominent hooded upper petals and lipped lower petals. weather Davis winters, as well as deficient soils, poorly drained/compacted soils, heat/drought, and sunny spots, leave this semievergreen looking fairly shabby, so interplanting with winter foliage or early spring blooming plants can provide a needed foil during these difficult few months.
+
+For a listing of other plants found growing in Davis, visit our Town Flora.

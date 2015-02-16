@@ -1,0 +1,1 @@
+Environmental Biology and Management was a major offered by the Department of Environmental Science and Policy, but discontinued as of Fall 2008 and folded into the Environmental Science and Management major.

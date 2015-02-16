@@ -1,0 +1,2 @@
+
+Im mailto:lwalkera@nospam.ece.ucdavis.edu Laine. Thats Laine with an e, and pronounced with only one syllable. Im a fourth year Electrical and Computer Engineering Electrical Engineering Undergraduate Students Undergrad here at UCD, copresident of the Rocket Club, and president in the local IEEE. I work at the Chemistry Chemistry Department computer shop as a student assistant doing web pages, fighting the virus hordes, wrangling computational clusters, and various other computer type tasks. I also happen to be roommates with Users/BryceFitzsimons this weird guy.

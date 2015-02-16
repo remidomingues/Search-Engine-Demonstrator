@@ -1,0 +1,4 @@
+JJ Charlesworth was a Davis City Council candidate in the 2004 City Council Election.  He received 1,349 votes or 2.8% of the total votes casted. On February 2, 2004 Charlesworth suggested cuting the Davis Police Departments budget citing Davis low crime rate and city budget deficit.  On March 3, 2004, a day after the election, Charlesworth stated his support of campaign finance laws and also stated that he accepted only $20 in donations for his campaign. His main focus was growth from within to stop the sprawling outward expanse that so many rural suburban communities succumb to.
+
+JJ Charlesworth was also a Davis City Council candidate in the 2002 City Council Election.  He received 865 votes or 3.2% of the total votes casted. JJ Charlesworth is an actor and (former student/gradudate) of Sacramento State University.
+

@@ -1,0 +1,4 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+Hey there!  Could you elaborate on what you mean by students being able to qualify for affordable housing.  When you say students can qualify for affordable housing it makes it seem like the project will accommodate student housing, which it will not (as far as I know).  Ive been seeing this line on a few procovell adverts, and I was hoping you could explain what is meant by it.  My guess is that students can qualify for affordable housing means that students can qualify to purchase the homes marked as affordable.  But, regardless of that fact, it does not seem reasonable to expect a student to be able to purchase a home?  I also commented about this toward the bottom of the Covell Village page. Users/PhilipNeustrom

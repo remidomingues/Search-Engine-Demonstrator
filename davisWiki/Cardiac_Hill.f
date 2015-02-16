@@ -1,0 +1,1 @@
+Cardiac Hill is located on State Route 128 west of Winters. The bottom of the hill is just west of Markley Cove Resort. It is 1.9 miles to the top and the average grade is 6%.  Check out Bicycle Rides for other rides in the area.

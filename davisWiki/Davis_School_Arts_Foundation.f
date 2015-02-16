@@ -1,0 +1,3 @@
+
+
+The Davis School Arts Foundation, also DSAF, is an allvolunteer, nonprofit organization whose mission it is to raise money for art education in the Davis public schools.  It is a 501c3 entity that has been in existence since 1982.  It disperses most of its money through a grant program to Davis school teachers and administrators.  It is affiliated with the annual Home for the Holidays Concert in December, and the Harmony in Our Lives Concert held in late October or November, both fundraising concerts for the foundation.  At the latter concert, the recipient of the Harmony in Our Lives Award is presented.

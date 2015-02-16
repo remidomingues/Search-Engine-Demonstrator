@@ -1,0 +1,1 @@
+Nina is a 24 year old senior majoring in Psychology and minoring in Linguistics. Shes a transfer student that spent her freshman and sophomore years with crazy Oregon hippies. She never has time for the internet anymore. 

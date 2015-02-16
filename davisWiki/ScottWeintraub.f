@@ -1,0 +1,5 @@
+Scott is the Assistant General Manager in charge of Operations for Unitrans. He lives in Davis with is wife and two kids.
+
+
+20081112 12:06:51 nbsp Hey, just out of curiosity, where did you get the info re: Guad being nonvegetarian?  The reason I ask is because somebody in the last week said that they heard from the North Davis Guad that they are vegetarian friendly (no chicken broth or lard).  There have been a few assertions back and forth, and Im curious as to the sources for all the conflicting information.  Personally, I eat meat, so I have no steak{{{sic}}} in the issue, but am curious as to where everybody is getting all their information. Users/JabberWokky
+ Apparently my information is old. I just called and spoke with the manager who informed me that they changed their recipe to accommodate the Davis clientele. They no longer use chorizo in their beans and they use a vegetable stock in the rice. I guess now we have to change the antiveg Guad bashing propaganda on the wiki. Users/ScottWeintraub

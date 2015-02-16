@@ -1,0 +1,3 @@
+Student Judicial Affairs (SJA) generally places students on disciplinary Probation for your first violation, especially if its an academic matter.  SJA Housing violations result in Probation after a few Incident Reports (IRs).  If your first offense in Housing was particulary lame, and/or your meeting with the Area Conduct Coordinator didnt go too well, you will likely be referred to an Assistant Director in Housing or the main SJA office in Dutton Hall.  If you are referred to SJA again after being placed on Probation, there is a good chance you will face Suspension (a period of time away from UC Davis, usually one quarter to one year in length).
+
+If you have been referred to SJA you may want to look at the http://sja.ucdavis.edu/faq.html SJA FAQ.

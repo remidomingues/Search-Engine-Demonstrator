@@ -1,0 +1,3 @@
+For those who want to play floor hockey and who cannot enter the pearly gates of the ARC, well, so what?  A number of parking lots and basketball courts have decently smooth pavement for air pucks and balls, and you just have to find out when these lots are sans cars and hoopsters.
+
+There is also the rink at West Manor Park West Manor Park, which is open to both roller and street hockey pickup games.  Only goals are provided, so youll need to bring your own stick and puck/ball.  Some student and local fanatics play or practice on regular times in the evenings or weekends.  But most of the time, the rink is unpopulated, and remains a nice little gem for hockey fans in Davis to enjoy their favorite sport.

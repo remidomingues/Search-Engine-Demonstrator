@@ -1,0 +1,4 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+Welcome to the Wiki Howdy, Mr. or Ms. Elvyl, and Welcome to the Wiki!   You might want to check out the importance of using your RealName, just so we can get to know you (or not: its your choice, but people were pretty friendly here).  My names Evan, pleased to meet you!  Thanks for adding the link to Davis Bridge... there is an already existing entry Davis Bridge Educational Foundation here under the full name Davis Bridge Educational Foundation, but the information is pretty sparse about it  probably because nobody has yet edited it who knows much about it.  It would be great if you could edit Davis Bridge Educational Foundation that entry and add what you know about the organization.  They sound like they are doing good work.  Thanks again for adding the link!  Users/JabberWokky Evan JabberWokky Edwards

@@ -1,0 +1,1 @@
+Eric Lin was the photography editor at The California Aggie during both the 20062007 and 20072008 school years. Prior to this, he worked as an independent contractor for the paper. Hes an Electrical Engineering (formerly Mechanical and Aeronautical Engineering Aeronautical Engineering) major in the class of 2009 and an alumni of Tercero K Building.

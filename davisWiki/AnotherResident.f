@@ -1,0 +1,5 @@
+
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+20101217 09:50:28 nbsp Howdy, Mr. or Ms. Resident, and Welcome to the Wiki!   You might want to check out the importance of using your RealName, just so we can get to know you.  Or not: its your choice, but people were pretty friendly here.  My names Evan, pleased to meet you!  You made the (rather important) observation, When Manna started offering Korean BBQ, I guess they changed their name.  Someone declared the business Departed/Closed rather than rename/redirect the entry.  Someone needs to make the restaurant page under the new name and redirect this listing.  You may not be aware, but you can do that, you know.  Every editor can rename and/or redirect any entry, although its probably one of the more difficult things to do for a new editor just learning how to use the tools. Otherwise, you need to tell somebody the new name so that they can do it.  Either way, its a good thing to note.  Also, once again, welcome to the wiki! Users/JabberWokky Evan JabberWokky Edwards

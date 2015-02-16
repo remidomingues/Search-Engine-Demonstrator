@@ -1,0 +1,1 @@
+Im Leslie.  Im a PhD candidate in the Genetics Graduate Group at UC Davis.  I live in Slatters Court with two cats and one housemate.  More interesting (and more informative) pages about me are http://skyfire1228.livejournal.com/ my LiveJournal and http://profile.myspace.com/index.cfm?fuseactionuser.viewprofile&friendid85011805 my MySpace.

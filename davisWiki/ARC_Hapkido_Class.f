@@ -1,0 +1,5 @@
+The ARC Hapkido Class welcomes anyone who is interested to come and participate with us. We practice on Tuesdays and Thursdays in the ARC Martial Arts room from 5:00 pm to 6:30 pm, under the expert guidance of Robert Sarason Robert Sarason Sabunim. Early registration is $35, dropin classes are $2.50, and late registration is $45. Please see the ARC front desk for more information signing up for the class.
+
+A uniform is not required for the first three classes, but members will need to eventually purchase one. Uniforms can be purchased through the Pro Shop at the ARC, located on the first floor to the right of the ARC main entrance. Prices will range between a single weave dobok (heavier, recommended for class) or a Karate uniform (cheaper of the 2). If you are thinking about learning a martial art, come and see us!  Even if you do not want to participate immediately, you are more than welcome to come and observe our practices.
+
+More information can be found at http://sportclubs.ucdavis.edu/hapkido

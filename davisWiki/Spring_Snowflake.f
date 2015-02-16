@@ -1,0 +1,5 @@
+Spring Snowflakes (Leucojum vernum) are flowering perennial bulbs that typically produce white, bellshaped flowers that dangle on low stems amidst swordlike leaves. The flowers nodding white bell has an emeraldbright dot at the point and base of each petal. These members of the lily family and are native to western & central Europe and grow from 812. Other species include Summer (L. aestivum)and Autumn (L. autumnale) Snowflakes, which differ only very slightly in relative size and blooming conditions.
+
+Spring Snowflakes like bright dappled shade but are adaptable if kept in persistently moist soil; in ideal conditions, this plant naturalizes easily and can be propagated by division in the fall. Snowflakes can bloom as early as Weather midJanuary in the Davis area, and persist until April. Though too low to the ground to provide much in the way of perfume for the passerby, these plants offer a pleasing violet scent. All parts of plant are poisonous if ingested.
+
+For a listing of other plants found growing in Davis, visit our Town Flora.

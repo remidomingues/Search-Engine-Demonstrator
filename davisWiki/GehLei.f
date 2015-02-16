@@ -1,0 +1,1 @@
+Really picky, and happy to be in such a great town! Davis, CA is beautiful. I am originally from Oregon, so its like close, and down to earth, and organic till the end. UCD makes Davis a great community!

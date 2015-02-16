@@ -1,0 +1,7 @@
+
+ Overview 
+Lavender (Lavandula) is thought to be a Mediterranean native, but some botanists think India may have also been part of its native range. With its Mediterraneanlike weather climate, Davis is very favorable to the cultivation of lavender. Several different species can be found in the UC Davis Arboretum. A perennial shrub, lavender is in the same family as mints yet is extremely drought tolerant. Lavender blossoms are different shades of purple depending upon the variety. New shoots are a bright green and become graygreen as they mature. Each spring, prune and shape plants to encourage new growth and prevent overly woody, gnarled stems.
+
+The botanical name, Lavandula, comes from the Latin word for to wash; in fact, the Romans used it to disinfect their baths. The leaves, stems, buds, and flowers all contain essential oils and all are valuable for different purposes. It is one of the only essential oils mild enough to apply directly to the skin without first diluting it. Combined with southernwood or wormwood, it is an effective moth repellent. It can be a fine air freshener dried or simmered on a stove, and will keep its smell for years. Medicinally, its aroma is said to have soothing properties that relieve stress and aid in sleep. Lavender can also be used in cooking or as a tea, but should never be ingested during pregnancy. If you have a Dogs dog, send him running through a lavender field to improve his scent!
+
+Be sure to visit our Town Flora page to learn more about plants that grow in Davis.

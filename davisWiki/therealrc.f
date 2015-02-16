@@ -1,0 +1,5 @@
+
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+20090330 nbsp Welcome to the Wiki Howdy Mr. or Ms. RC, and Welcome to the Wiki!   You might want to check out the importance of using your RealName, just so we can get to know you (or not: its your choice, but people were pretty friendly here).  My names Evan, pleased to meet you!  I undid your deletion of the negative reviews and would respectfully ask you to please respect your neighbors and allow them to voice their opinions, even if you disagree.  I would hope that they equally respect your right to have your say regarding any given topic.  Deleting peoples reviews is not neighborly, and kind of rude... like shouting over somebody calming talking at the Farmers Market.  You added a wonderfully insightful comment and deleted it... if you look at the top of the reviews, I tried to capture the key points of that response in a recap summary.  People do want to hear what you have to say, but please give them the same respect.  Were all in this together.   Users/JabberWokky Evan JabberWokky Edwards

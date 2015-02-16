@@ -1,0 +1,1 @@
+EvoDiva is a female Graduate Students grad student at UC Davis in her early thirties. She is (in no particular order) a foodie, an oenophile, a roadtripper, a scientist, a smartypants, a smartass, and a sweetheart.

@@ -1,0 +1,2 @@
+
+The Perimeter Greenbelt is the section of the The Greenbelt Davis Greenbelt that connects to Northstar Park and the Senda Nueva Greenbelt.  It is located in North Davis, along the Covell Drainage Channel.  The North Davis Fitness Trail has various exercise stations along the trail.  Near the southwest end of the perimeter, there is an Greenbelt Secret Path unmarked path that connects to the south end of the Senda Nueva Greenbelt Senda Nueva greenbelt.

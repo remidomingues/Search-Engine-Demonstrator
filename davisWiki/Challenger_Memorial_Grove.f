@@ -1,0 +1,6 @@
+The Challenger Memorial Grove is a grove of 7 trees adjacent to the bike circle in front of the ARC. It was dedicated by the student body at UC Davis to the 7 brave astronauts who lost their lives on January 28th, 1986 when a booster rocket malfunctioned and exploded 73 seconds after launch. The wiki:WikiPedia:STS51L Challenger flight was especially famous because it was to carry wiki:WikiPedia:Sharon Christa McAuliffe, the first teacher to fly in space (http://www.hq.nasa.gov/office/pao/History/Biographies/challenger.html Read more about the crew). Nobel physicist wiki:WikiPedia:Richard_Feynman Richard Feynman was appointed to the wiki:WikiPedia:Rogers_Commission_Report Rogers commission to investigate the Challenger disaster and wrote extensively about his findings, http://harvest.lib.ucdavis.edu/F/?funcitemglobal&doc_libraryUCD01&doc_number001431106&type03&year&volume&sub_library&x7&y6 a good read if you are interested.
+
+There are other memorial groves around Campus, such as the one planned for UCD researchers and collegues who died in the wiki:WikiPedia:Sea_of_Cortez Sea of Cortez in 2001 (see http://caes.ucdavis.edu/News/Currents/SingleIssue.cfm?ID20 Memorial Grove to Honor Researchers).
+
+
+

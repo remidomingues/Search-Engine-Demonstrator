@@ -1,0 +1,3 @@
+Old wikier who wants to be able to leave angry reviews for those who have wronged me. Or good reviews for those who please me! Im a roll of the dice.
+
+20140113 22:03:19 nbsp Heh, I like your profile.  Feel free to put anything into any entry on the wiki.  Sometimes when its something other people should know about (like no splitting of checks), it makes sense just to add it at the top of the entry rather than down at the bottom).  The entire wiki was written by people like you and me, and its your wiki too!   Welcome to the wiki! Users/JabberWokky Evan JabberWokky Edwards, (814) 8898845, jw.dw@timewarp.org

@@ -1,0 +1,1 @@
+Anne Hance is a wonderfully talented woman who has worked with Davis Community Network for years. She won the A. G. Brinley Award A. G. Brinley Special Merit Award for service to the Davis Community in 1987.

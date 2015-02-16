@@ -1,0 +1,1 @@
+#redirect Tenant Rights

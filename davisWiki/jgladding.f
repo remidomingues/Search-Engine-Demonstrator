@@ -1,0 +1,4 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+20080628 11:07:04 nbsp Welcome to the Wiki Howdy, Mr. or Ms. Gladding, and Welcome to the Wiki!   You might want to check out the importance of using your RealName, just so we can get to know you (or not: its your choice, but people were pretty friendly here).  My names Evan, pleased to meet you!  Thanks for adding the link to the MyFolsom stuff... I notice another editor removed it because it doesnt cover Davis.  It might make more sense to add it to wiki:wikispot:Wiki Directory one of the other regional wikis, like the wiki:sacramento Sacramento Wiki.  It sounds interesting, but it doesnt quite push over this far.  If thats wrong, and it does cover Davis and/or the Yolo area, put it back up and make it clear... and of course, youre always Welcome to the Wiki welcome here! Users/JabberWokky Evan JabberWokky Edwards

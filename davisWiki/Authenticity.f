@@ -1,0 +1,9 @@
+Ethnic Restaurants in Davis get a lot of flack for being or not being authentic. This page is intended for discussion of general inauthenticies rather than those specific to restaurants, and can be used as a guide for the style of cuisines a Davis newbie should expect upon arriving here. Restaurant specific criticisms are best suited to individual pages.
+
+Some primary reasons why restaurants seem to be inauthentic:
+
+ 1. The original ethnic food might be viewed as undesirable by most Americans and therefore scare away customers. Examples of this include the level of spicyness, use of ingredients not common in American cuisine (e.g.,  Durian fruit, Lutefisk, or Gefilte Fish), organ meats, or meats that resemble the actual animal.
+ 2. The restaurant skimps on the quality of ingredients, assuming that patrons wont know the difference anyway. Example of this include substituting canned ingredients for fresh ones and adding sugar, MSG, or food coloring to replace expensive flavors rather than to enhance them.
+ 3. The restaurant might try to cut corners on the proper methods of cooking, to save time and/or money.  The methods used to prepare both ingredients and the dish itself is often very critical in the authenticity of a dish. Perhaps a broth or soup is meant to be simmered for hours, or certain ingredients need to be slowly cooked to bring the right flavor out.  Perhaps they use a food processor rather then finely cutting or mincing it to bring out the right textures in the food.  Maybe the meal is traditionally meant to be cooked over an open flame rather then on stovetop. 
+ 4. The patrons are either unaware of regional variations in the origin area that produced the food or they assume a particular ethnic type when another is being prepared (for instance Southwest versus Texmex versus Mexican... which are each split into dozens of very different subtypes of cuisine).
+

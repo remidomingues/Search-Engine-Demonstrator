@@ -1,0 +1,23 @@
+Describe Users/ChrisKing here.
+
+20110809 09:28:29 nbsp Hi Chris, and Welcome to the Wiki!  Im sorry for the rough start on the wiki with the A & B Taxi page.  Please take a minute to read over the Welcome to the Wiki/Business Owner Business Owner Welcome Page.  Its got a lot of useful information.  Probably the most relevant point currently is this:
+
+ 1. Business pages belong to the Davis community, not to the business.  Like every other page on the wiki, theyre written collaboratively by many members of the community.  Rather than trying to maintain a neutral, objective point of view, the Wiki tries to represent many different points of view.  You have more knowledge about your business than anyone else out there so your perspective is extremely valuable, but remember that yours is just one among the many voices contributing to the page.  Each editor (including you!) has equal say over the pages form and content.
+
+This means a couple of things.  On the one hand, because the content on the page belongs to the community, you cant just delete it.  Its a resource for the community, and quite a few people here strive to make sure theres information on just about everything we can find in Davis.  That includes all of the businesses.  While a few businesses might not want to be listed, Wiki content is a little bit like a newspaperif the paper decides to publish a story about a business, that story is out there and the business doesnt have much say in the matter.
+
+There are some upsides, though.  First, because the Wiki represents a lot of viewpoints, including yours, you can make sure the information in the entry is accurate.  Secondand probably most important to youbecause people want this to be a valuable informational resource, there are a lot of us who dont want the Wiki to be used as a weapon.  If you look at the A & B Taxi/Talk page, youll see that quite a few people dont want attacks on the company or speculation listed there.  Several of us have tried to moderate the page content to simply list basic information about the company.  What is it, whats distinctive about it, and whos involved?
+
+I dont know what goes on between cab companies in downtown Davis.  I dont really care all that much.  I just dont particularly want it to spill over onto Wiki pages, and I know Im not alone in that.  So, there are quite a few people who are interested in keeping antagonism toward A & B off the wiki; and, by the same token, Id ask that you keep your end off of it as well.  Its not a matter of who started it or who wronged whom; the Wiki just isnt the place for that sort of dispute.
+
+Thanks for your contributions to the Wiki, and good luck with the cab business! Users/TomGarberson
+
+20110927 06:56:29 nbsp Hey Chris.  It would appear that you believe theres somebody connected to a cab company that has some kind of special rights here on the wiki.  That simply isnt the case: youre a moderator here with the same rights as all other people in Davis, including all taxi connected folk.  There is nobody connected to a cab company who can do anything that you cant do, and you have the same rights to content as anybody else.  Im not even sure who youre referring to when you imply some cab owner has some kind of special status.. Users/JabberWokky Evan JabberWokky Edwards, jw.dw@timewarp.org, (814) 8898845
+
+20110927 19:24:16 nbsp Chrisplease be aware that this is a community site. Anyone can edit any page. Users/PeterBoulay
+
+20110927 19:42:33 nbsp Please read the page Welcome to the wiki/business owner, again, if necessary.  It might help you to understand why the your edits were changed, and also, give you guidance for what you should do if you disagree with edits that have been made. Users/CovertProfessor
+
+20110930 09:10:48 nbsp Hey, Chris.  You keep saying that the site as if theres some kind of organization.  There isnt.  If somebody posts or makes an edit, they are doing it as an individual.  Youre railing against an enemy that does not exist, which makes it a bit hard for people who genuinely want to help you.  It also doesnt help that youre not communicating with anybody, even though multiple people have been trying to assist you for nearly two months.  Is there a reason youre ignoring the people reaching out to you? . Users/JabberWokky Evan JabberWokky Edwards, jw.dw@timewarp.org, (814) 8898845
+
+20111001 01:42:02 nbsp Youve made some pretty offensive comments about me, mostly because theyre not true.  I could be called a competitor.  For what its worth, Ive made a couple of comments about A & B Taxi having a business license.  One refers to another:  http://daviswiki.org/Users/WesP?actiondiff&version2279&version1278 Users/BruceHansen  Art

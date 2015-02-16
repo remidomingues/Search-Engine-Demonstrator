@@ -1,0 +1,3 @@
+The Davis Bike Club (http://davisbikeclub.org/ website here) sponsors Foxys Fall Century, a 50K/100K/100 mile fall Bicycling cycling event. An ideal first century ride, it offers challenges for riders of all levels, from families to Mad Cows Racing Team triathletes. Wellmarked routes guide you through the orchards of Solano County and the rolling hills of Napa County. Support includes sag vehicles, rest, water and lunch stops as well as a pasta dinner at the finish. There is a registration limit to ensure adequate support, so register early! This event occurs rain or shine.
+
+See Bicycling Activities and Clubs for other bikerelated events.

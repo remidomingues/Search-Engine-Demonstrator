@@ -1,0 +1,1 @@
+Jesus Peña was the son of Gavino Peña and Ruperta Vaca, and the grandson of early pioneer Juan Felipe Peña. He married Lucy Zuniga and they had one son and four daughters. The family lived in the Peña House. One of the daughters, Narcissa Peña, lived there her whole life until she passed away in 2008.

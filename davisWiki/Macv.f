@@ -1,0 +1,2 @@
+
+20071008 17:33:43 nbsp Howdy, Mr. or Ms. V?  Mac?  Im Evan JabberWokky Edwards.  Welcome to the Wiki!  From the use of the category tag, it seems like youve been on other wikis... you might want to read the Welcome to the Wiki/Wiki Enthusiast wiki enthusiast introduction.  Were friendly neighbors here, so you might want to also consider the importance of using your RealName, although thats just by tradition, not a hard rule.  Weve got a great little community here, and were glad to have you! Users/JabberWokky

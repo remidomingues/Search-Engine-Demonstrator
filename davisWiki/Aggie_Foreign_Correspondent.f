@@ -1,0 +1,3 @@
+During the 20052006 academic year, The Foreign Correspondent was a column in the The California Aggie on page 2, that runs alongside Users/MichaelGiardina Michael Giardina. When Ryan P. Fuller served as editor and chief, this column space was reserved for Guest Columns; after the columnist who used to write there was fired/quit. However, this space was later reserved for students studying abroad when the paper was under the leadership of Daniel Stone.
+
+Under the leadership of 20062007 Editor in Chief Peter Hamilton, the Foreign Correspondent was eliminated on May 26 and likely will not be returning in the fall.

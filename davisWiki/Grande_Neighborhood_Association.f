@@ -1,0 +1,4 @@
+The Grande Neighborhood Association is one of several Neighborhood Associations in Davis.
+
+From their http://www.grandeneighborhood.com/index.cfm website: Over 25 years ago, the Davis Joint  Unified School District acquired the 8acre Grande Avenue School Site site on the south side of Grande to build an elementary school. The school district eventually determined, however, that the site was too small for an elementary school and discontinued pursuing that option. The site is one of the assets of the school district. Over the past few years, the school board has considered developing the site for additional housing or selling the site for housing. In response to repeated instances that school board has placed the site on its closed session agenda, several members decided to organize our neighborhood to stay on top of the issue.
+

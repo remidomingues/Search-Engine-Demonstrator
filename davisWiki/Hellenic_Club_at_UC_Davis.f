@@ -1,0 +1,2 @@
+
+The Hellenic Club is a Greek cultural group on campus. Events include, Greek film screenings, potlucks, parties, Bake sales, bowling, and were trying to start doing field trips.  You do not have to be an ethnic Greek to join, but just have an appreciation for ancient and modern Greek culture.  This is a social organization and a great way to meet fellow Greeks from UC Davis. Check our group out on facebook; search Hellenic Club at UC Davis.

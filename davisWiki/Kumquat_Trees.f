@@ -1,0 +1,12 @@
+
+If youve never eaten a kumquat (Fortunella sp), the fruits are like mini tangerines. The peel is edible landscaping edible and sometimes taste even better than the sour insides. Kumquat trees are rounded and densely branched, rarely exceeding about ten feet in height, making them ideally suited for containers or courtyards. The glossy evergreen leaves are about two inches long and are interspersed with fragrant flowers in late spring. By fall, the blossoms have gone and left bright orange sweet/sour fruits which remain on the tree until the following spring. The trees will often bloom again midsummer, and can set and ripen fruit year around.
+Kumquats are native to China and have been cultivated in the US since about the 1800s. They are common in many Chinese households and they will bear fruit even when in a pot in a small shrubbish looking form. Like most citrus, kumquats do very well in our Davis weather climate. Kumquats are the hardiest citrus, tolerating temperatures into the teens without damage.
+The ovalfruited variety, Nagami, is most commonly planted locally. Meiwa is a roundfruited variety that some say has sweeter flesh.
+Kumquats make wonderful marmalade, and are often candied.
+
+There is a very large kumquat tree growing in front of Haring Hall. Throughout most of winter quarter and much of spring quarter, this tree is covered in a bounty of delicious between class snacks.
+
+To learn about other fruit trees and plants growing in Davis, check out our Town Flora.  Also, visit http://maps.google.com/maps/ms?hlen&glus&ieUTF8&msa0&msid101873520512973484071.0004444583b8984b4b0eb here for a google map of fruit trees in Davis.  The map is public and collaborative, so please add trees if you know of their locations.  (You must have a google signin.)  Use pushpins to mark the locations of trees.  If the tree is on private property, please indicate that in the note, and only mark it after getting permission from the owner first.
+
+
+Growing up, we had 4 of these trees in our front yard.  My siblings and I used to literally pick and fill buckets with hundreds of kumquats.  Wed promptly take up tactical positions at opposite sides of the street, and proceed to chuck them at each other until we ran out.  The neighbors were never happy driving home on an orange street, having their car tires drag kumquat into the garage, and having the storm drains clogged with little citrus projectiles. Users/PeterAnselmo

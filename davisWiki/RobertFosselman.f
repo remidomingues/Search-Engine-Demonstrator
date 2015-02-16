@@ -1,0 +1,5 @@
+Describe RobertFosselman here.
+
+This is my second year living in Davis and I really enjoy it.  My main hobby is running, ultra running to be more specific.  I am not fast so I like to go the distance.  My big race I am currently training for is Western States, it is a 100 mile endurance race in June.  I recently got a car which is kind of cool so now I can go up to Auburn to train.  Although around town I am usually on my old Nishiki Superb, although I did just recently become the owner of a very cool early 90s Specialized Epic so that may become my new ride for awhile.
+
+I am not an environmentalist but I am not a wasteful person.  I get very irritated when people and the city water the streets.  That realllllllllly gets me mad.  I also would appreciate it if people wouldnt put their Green Waste clippings on the street.  I get really irritated when I have to move from the bike lane to the street just so I am not riding my bike over a bunch of clippings or tree branches having to worry about popping my tubes.

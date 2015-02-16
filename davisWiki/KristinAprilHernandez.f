@@ -1,0 +1,4 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+20110115 18:16:17 nbsp Please let me offer you a belated Welcome to the wiki!  I deleted your comment on the Vita Dolce Salon and Barbershop because it seemed inappropriate for you to be soliciting new business in that way on this nonprofit wiki, especially since the stylists who used to work at Vita have gone their separate ways.  And the page already notes, near the top of the page, that you are now at Wilde Hare Salon.  I encourage you to create a page for your salon (you can click on the dotted link and go from there), keeping in mind that the wiki should be used to inform rather than to advertise.  The page Welcome to the wiki/Business Owner explains this in a bit more detail. Users/CovertProfessor

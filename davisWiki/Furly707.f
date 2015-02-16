@@ -1,0 +1,4 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+20080715 12:24:58 nbsp Welcome to the Wiki Howdy, Mr. or Ms. 707, and Welcome to the Wiki!   You might want to check out the importance of using your RealName, just so we can get to know you (or not: its your choice, but people were pretty friendly here).  My names Evan.  Your  http://daviswiki.org/Davis_Swim_and_Fitness_Club?actiondiff&version2122&version1121 recent edit was pretty reprehensible and generally well beyond what most members of the community would consider reasonable.  Thats why it was quickly undone.  Please do not alter other peoples comments, especially as a means to engage in a personal attack on another person within the community.  Stating your opinion about things within Davis is perfectly fine, but do not attack other individuals on the wiki. Users/JabberWokky Evan JabberWokky Edwards

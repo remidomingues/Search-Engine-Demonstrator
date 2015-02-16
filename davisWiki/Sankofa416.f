@@ -1,0 +1,13 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+20080721 19:48:49 nbsp Welcome to the Wiki. Please dont let the commentary on Energy Healing get you down or keep you from further participation with the wiki. After all a wiki about Davis that didnt have a page about Energy Healing would hardly be complete; would it? Users/JasonAller
+
+20080722 08:12:23 nbsp Howdy, Sankofa416.  I agree with Jason that the comments are pretty harsh for a greeting.  Nobody should have to deal with walking into a new room, stating their beliefs and perspective and being immediately mocked.  That said, most people will defend your right to speak... and their right to reply, no matter how tactless the replies are.  I restored the comments you deleted because of that.  At the same time, those two are creating a fairly hostile environment for people in the Davis community to discuss their beliefs (hint hint, should one of those people be reading this and wish to rephrase their replies as less antagonistic and more informational).  Usually people are more warmly welcomed  and different concepts and ideas within the community more accepted when presented.  Welcome to the wiki, and its good to see somebody adding a new slice of Davis to the wiki. Users/JabberWokky Evan JabberWokky Edwards
+ Users/JabberWokky
+
+20080724 14:10:42 nbsp I moved my other comment to the main page, where I had intended to post it before it was deleted. I should add, here, since this is your personal page, that I understand the need for intimate contact, and I imagine from experience that it affords real health benefits, but only indirectly, from the psychological benefit of feeling supported by others, like you see when someone with an optimistic outlook can live longer when facing cancer. I responded to your query about yoga on my page. Cheers. Users/ZacharyNorwood ZN
+
+20080725 10:08:46 nbsp Hey... I removed the stated purpose you wrote so I could rewrite the entry so it is more geared (hopefully) toward accomplishing that purpose.  And who knows  entries tend to grow like plants, not like buildings, so they accumulate multiple purposes over time under a given subject.  A year from now, there might be a handful of groups that meet locally listed there, and the entry has a different focus at that point.  At the very least I did a couple Google searches and found a few people who were at the Whole Earth Festival that list Energy Healing in their bios and a group that meets up in Sacramento. Users/JabberWokky
+
+20110609 09:36:21 nbsp Thanks for adding info on Flanagans! Users/TomGarberson

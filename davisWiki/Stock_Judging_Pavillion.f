@@ -1,0 +1,1 @@
+#redirect Stock Judging Pavilion

@@ -1,0 +1,6 @@
+Hey, I can see youre using the same computer address as Users/LizBennet.  If you are her and attempting to look like multiple people, please note that this is an open site where everybody can look at the connection history.  If youre a different person using the same connection, thats fine, but its not considered honest to engage as sockpuppets, so please dont do that.  Honesty is good, okay?   Users/JabberWokky Evan JabberWokky Edwards, (814) 8898845
+
+
+I would, but I dont have unlimited time.  I do what I can to help add to the wiki.    Users/JabberWokky Evan JabberWokky Edwards, (814) 8898845
+
+Georgia, Im not trying to hurt anybody.  Why doesnt she want the links there?  It appears she is just trying to erase the accident, which does not seem to be a healthy activity.  If shes as distraught as you say, this is a horrible activity youre engaging her in.  Look up at the title  its a tragic event.  Perhaps you should try to comfort her so shes not looking up media coverage of her fathers death on a holiday weekend.  Please, for her sake, guide her off the computer.  The death of a loved one provokes a multitude of emotional responses, and I cant possibly imagine that the two of you trawling the internet is helping her.   My heart goes out to you both.  Users/JabberWokky Evan JabberWokky Edwards, (814) 8898845

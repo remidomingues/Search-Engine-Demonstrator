@@ -1,0 +1,24 @@
+These are reviews of Wheelworks from 2006 and earlier.  For more current reviews, visit Wheelworks the entry.
+
+
+This is the serious road bike place in Davis. Whether you want a good midrange road bike, a serious racing bike, or a hardcore triathlon bike, this is the place. My experience here is mixed. Sometimes the people are quite friendly, and sometimes theyre a bit aloof. If you are new to road biking and want a relaxed environment, this might not be a good first store. If you are more experienced, and know what you want, this place is just the ticket. Users/EricKlein
+
+20050705 01:06:29 nbsp I take it back. Wheelworks is a proshop.What dya expect. Theyre allright. Users/BenTaylor
+
+I found the staff very helpful when I was looking for bikes. Users/JackHaskel
+
+20050906 08:28:11 nbsp My friend got her brakes adjusted here a few years back. Her bike came back so her brakes were pulling right AND Wheelworks wrapped her handlebars backwards! I havent shopped at Wheelworks since. Users/JohnOliver
+
+20060217 20:29:54 nbsp Despite their somewhat snobby reputation among students, I have found the folks here immensely knowledgeable and not pretentious in the least.  I have been helped by several employees over the last few months and every one of them was friendly and did not patronize me despite my obvious newbishness.  And unlike another bike shop around the corner, these guys really know their stuff (I was blatantly and obviously misinformed about a product on two seperate occasions at a nearby shop before I started shopping at Wheelworks).  When you need a shop for recreational or competitive riding (not commuting), and you need someone who really knows their products, I think this is the place. Users/MatthewPearson
+
+20060301 19:51:04 nbsp Ill admit, this shop can be a little intimidating.  But once you talk to one of the staff or take a load off in front of the plasma screen tv, you will realize that Wheelworks is easily one of the best bike shops in the country.  If you are looking to get started into cycling or are an experienced rider, this is the place to be.  Their inventory has to be seen to be believed and their staff is comprised of knowledgeable and experienced people.   The mechanics, who are top notch, will not only fix your bike, but they will explain the problems and fixes with you before you head out the door.  Even in simply passing through on my way through Davis, I was amazed at how far this shop has come since steve larsen owned it several years ago.  If you are at all interested in getting on a road bike, visit Davis Wheelworks and I guarantee that you will walk away with a positive experience and a desire to get into the sport of cycling. Users/AndyJohnson
+
+20060614 17:23:37 nbsp DO NOT buy anything at this store if you have any doubts about it ... they refuse to accept ANY returns ... that being said, after I am forced to respend the $100 I unfortunately spent here, I will never patronize this store again. Users/StaceyEpstein
+
+20060818 11:46:19 nbsp NOT GOOD.  I had a terrible experience with Wheelworks recently.  I had a bike fit and needed some adjustments.  They were late with the alterations and never called to let me know about the delay, then when I got the bike home I noticed a big scratch.  No one at the store mentioned that they had scratched the headstem area (which is where the work was done).  I am in the process of trying to resolve this, but Joe is never available to take my call.  Since this happened, most people who hear the story have said they only hear mixed reviews about Wheelworks.  I would not recommend this store. Users/KirstenSkogerson
+
+20060819 09:42:50 nbsp A few months ago my wife purchased a bike here.  The bike needed several adjustments to fit properly, and we brought the bike in a couple of times to swap out the stem and saddle, and we had them make some adjustments to the bike.  Every time we went in they were more than accomodating (I expected them to get frustrated with us, but they didnt), and they let her take home two different saddles to try out for several days before she settled on a third.  Also, when she bought the bike, they put her through a thorough initial fitting process to make sure that she fit the bike properly.  The other shops we visited just had her stand over the potential bike and eyeballed the fit.  In terms of finding her the right bike, they were head and shoulders above the other local shops.  Users/MatthewPearson
+
+20060927 16:40:31 nbsp The last two times Ive stopped in the shop has really smelled of solvent (the stuff used to clean nasty dirty chins and the like).  I worry for the nice fellows who work there because that stuff is toxic.  Great store though. Users/RobiPochapin
+
+20061201 10:04:37 nbsp Lots of eye candy... Service department is very knowledgable (Kevin, Tim etc) but it is true, they can be aloof at times. Users/ApexBikes

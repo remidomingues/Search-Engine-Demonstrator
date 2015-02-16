@@ -1,0 +1,1 @@
+For Bees bee removal services, check out Davis Bee Wranglers.  Never kill honeybees if you have an alternative.  Humans depend on them for pollinating most of our food crops.  They are also amazing creatures.

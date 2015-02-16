@@ -1,0 +1,1 @@
+Walter Wood shot William Cronin three times on December 17th 1914 to prevent Cronin from killing Fred Nelson at a hobo camp a mile north of Davis. It was the first case in California that dealt with the issue of armed self defense of another. Wood was 21 at the time of the shooting.

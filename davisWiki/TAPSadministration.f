@@ -1,0 +1,3 @@
+
+
+20080318 22:22:18 nbsp Your http://daviswiki.org/Transportation_And_Parking_Services?actiondiff&version264&version163 edit to the Transportation And Parking Services page combined with your choice of importance of using your RealName pseudonym present a problem as you state several incorrect facts. First names are easy to http://taps.ucdavis.edu/admin/Org2008.pdf find with minimal effort from a variety of sources. Secondly, if there were an internal investigation going on no one who was involved in it would comment on it here. Third, your combination of suspension and/or possible arrest in the last line demonstrates a lack of understanding of how the University handles cases like you suggest this is. Please dont play games with the Wiki. Users/JasonAller

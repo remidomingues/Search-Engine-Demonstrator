@@ -1,0 +1,1 @@
+Joemar Clemente was a candidate for the ASUCD Senate with LEAD L.E.A.D. running in Fall 2008 ASUCD election but failed to win an office.  He successfully ran again in the Winter 2009 ASUCD Election as an independent.

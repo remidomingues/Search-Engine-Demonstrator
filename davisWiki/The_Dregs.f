@@ -1,0 +1,3 @@
+George Seamer, selfloathing English major, wrote this cartoon about himself, 2 of his old friends and eventually a couple squirrels.  He certainly wasnt an artist, but he was pretty funny.  The Dregs was one of the Aggie Cartoons, running in the California Aggie 20032004.
+
+All the cartoons the Aggie printed plus two neverbeforeseen censored cartoons were thrown into a book.  You can buy this book at the UCD Bookstore, The Avid Reader, Davis Borders, and probably some other Davis bookstores.  You can read more about it & get all excited http://www.californiaaggie.com/media/storage/paper981/news/2004/06/09/Arts/Aggie.Cartoonist.Publishes.Book1317833.shtml?norewrite200607290132&sourcedomainwww.californiaaggie.com in this article.

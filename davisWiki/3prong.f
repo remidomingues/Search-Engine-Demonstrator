@@ -1,0 +1,2 @@
+
+20100719 19:37:03 nbsp Come by anytime! There are benches outside the office and people come sit on them just to hang out all the time. It cant hurt to step inside the office and introduce yourself (Im there on weekends, Rose is the person there during the week) and we are used to it. If its not too busy you might even get someone to let you look around inside some of the planes! Users/JenniferCook

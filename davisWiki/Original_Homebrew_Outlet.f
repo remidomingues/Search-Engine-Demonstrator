@@ -1,0 +1,10 @@
+
+
+Original Homebrew Outlet offers a full set of brewing equipment for making wine or to brew your own beer.
+
+Ive always found this place to be extremely helpful. If I needed an ingredient, they would weight it out and seal it for me, if I needed advice, they were forthcoming, knowledgeable and never condescending. They also sell http://www.whitelabs.com/ White Labs pitchable yeast, which is nice because shipping from White Labs is $20.
+
+
+20080127 19:18:33 nbsp I have been to the OHO a total of four times now.  They have a pretty decent supply of brewing materials and can accomodate most needs.  The problem with this establishment is with the service/help.  There is one guy, and hes always the one answering the phone or at the cash register, who is the most useless employee; and thats even in brewing standards!  His attitude and demeanor, whether one is requesting assistance or asking advice, or merely trying to discuss methodology, is atrocious.  This guy thinks hes definitely too cool for school.  Relax dude, youre working at a homebrew supply shop!  Some of the other employees have been far more helpful and easygoing, but this one guy is either the owner or has a monopoly on the work shifts, cause hes always there.
+     In addition to the guy who should be fired, there are a couple of service issues here.  They really try to push their individually packaged 1 lb. bags of specialty malts; they really dont like to give you fractions of pounds when formulating your grist.  When you actually do get them to measure and mill your grist, it comes out around 30  40 % whole barley kernels.  This is absurd.  They need to seriously adjust the settings on the rollers, cause unless you get them to run your grain bill four or five times through the mill, youre going to get really poor extraction from your mash.
+     I know Ive ragged on them a lot in this review, but I do appreciate their services.  They are pretty much the closest homebrew supply shop to Davis, and most of their stock seems fresh and reliable.  If only a couple things were to change..... Users/Diggedy

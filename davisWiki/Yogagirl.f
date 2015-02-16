@@ -1,0 +1,1 @@
+Hi, and welcome to the Davis Wiki. You left a comment on the El Macero Pharmacy page a year ago, but now it seems youre deleting the page. Perhaps it is by accident? So its been reverted to restore the page. Feel free to introduce yourself and add any comments, but please dont delete pages.

@@ -1,0 +1,8 @@
+Nova is a three story dormitory located in the Regan Residence Halls Regan Residence Hall region. For a time Nova was a theme dorm populated by Davis Honors Challenge Davis Honors Challenge students (until Fall 2005).  Frequently, more Honors Challenge students asked to live in Nova than there was actual space available, so they were relocated to the Tercero South Residence Halls Tercero South Residence Halls.
+
+There is only one bathrooms bathroom per floor, so typically the first and third floors will be womens bathrooms while the second will be mens, as is the case in 20052006.  Unlike the rest of the dorms in Regan, Nova does not have the extra guest bathroom on the first floor or a kitchen.  If you are a woman who lives across the mens bathroom you will become instantly popular. All of the quads are positioned across the hall from the singles and doubles rooms. The doubles room on the side with the quads and the bathroom seem to be a little bigger than the rooms on the other side, making it prime real estate.  A television is available in the lounge for the convenience of the students living in Nova. You can look into Rienda Hall Riendas hallways from the West end of Nova as both buildings sit side by side.
+
+
+A few Facebook groups http://ucdavis.facebook.com/group.php?gid2200343144 1 http://ucdavis.facebook.com/group.php?gid2200130256 2 http://ucdavis.facebook.com/group.php?gid2200591040 3 exist to reconnect Nova residents.
+
+Of interesting note: In 20052006 the first floor was used to house sophomores. Despite that fact, their RAs were both sophomores as well. It would be interesting to find out what socializing/romantic issues that raised.

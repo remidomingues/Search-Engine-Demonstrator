@@ -1,0 +1,1 @@
+Sacramento Sacred Harp is a Singing Groups group that meets about every two months to sing old fashioned hymns in wiki:wikipedia:Sacred_Harpstyle four part harmony. For more information, contact Susan Jones or David Wright at mailto(davesue@calweb.com) or give them a call at (916) 7398906.

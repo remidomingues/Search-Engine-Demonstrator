@@ -1,0 +1,4 @@
+
+The Aggie Pride Outlet is the essential store for the ultimate Aggie fan! With everything from official gameday apparel to FREE incentive items, the Aggie Pride Outlet is your blue and gold headquarters. The Aggie Pride Outlet (also known as the APO) gets Aggie fans outlet prices on official UC Davis Athletics memorabilia and apparel. To get your hands on this merchandise, show up to the selected UC Davis Athletic Events and redeem your Aggie Bucks for the cheapest outlet prices.
+
+The Aggie Pride Outlet is usually located near the entrance of UCD Athletics UCD Home Games, letting fans sport their Aggie Pride and letting students and Aggie Fanatics redeem their Aggie Bucks.  Unfortunately, you can only use one $10 coupon per item, such as a sweatshirt.  You can also redeem an Aggie Buck for an item from the cookie jar.

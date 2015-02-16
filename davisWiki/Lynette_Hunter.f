@@ -1,0 +1,5 @@
+Image(lynette.jpg, thumbnail) Lynette Hunter is a renaissance scholar and professor of Department of Theatre and Dance Theatre and Dance at UC Davis, holding a degree of History of Rhetoric and Performance from Canadas wiki:WikiPedia:Queens_University Queens University. Her rather impressive bio can be found http://theatredance.ucdavis.edu/Faculty/FacultyBios.html here. In addition to teaching Dra 156B, she teaches masters classes. In Fall 2006, Lynette ran a course she designed for undergrads in the Theatre and Dance Dept. called Feminism and Performance.
+
+Lynette has also taught such courses as Chinese Physical Culture. Incidentally, she will be leading a 2007 summer abroad program based on Chinese excercise traditions; the program info can be found http://summerabroad.ucdavis.edu/programs/2007/london.cfm here.
+
+In 2005, Lynette and her husband Peter Lichtenfels were featured on the UCD websites main page. The article can be found http://www.ucdavis.edu/spotlight/1205/shakespeare.html here.

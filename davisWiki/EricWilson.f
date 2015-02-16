@@ -1,0 +1,2 @@
+Describe Users/EricWilson here.
+Hi Eric, and Welcome to the Wiki.  Please refrain from deleting other users comments.  The wiki is a resource for the community, by the community, and about the community, including negative as well as positive opinions about the businesses in town.  If youre associated with Davis Massage Center, please take a moment to look over the Welcome to the Wiki/Business Owner business owner welcome page for some information on how to deal with negative comments constructively and appropriately. Users/TomGarberson

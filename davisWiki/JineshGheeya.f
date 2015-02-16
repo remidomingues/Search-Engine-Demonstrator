@@ -1,0 +1,5 @@
+Jinesh Gheeya, who just turned 20 in May 2005, is a junior transfer students transfer student to Davis. He has finished his lower division course work at Las Positas Community College, Livermore, CA. He will be starting at Davis from fall 2005. He is officially majoring in genetics, but he wants to change it to Biochemistry as is trying to aviod wiki:WikiPedia:Drosophila_melanogaster Drosophila melanogaster project (the fruit fly genetics project required in MCB 160L, or at least that is what I have heard). I have already done that project once for my introductory cell bio class. 
+
+He is a tech savvy nerd ( nerd gives off his tech savvyness).  He enjoys reading, web browsing, studying, watching TV (specially L & O, old reruns of Friends and Seinfeld, ER, Scrub, and al most anything as long as it is funny), talking with friends, and plain old doing nothing. He is child of many contradictions such as a science student who also enjoys reading poetry from Langston Hughes, Robert Frost, and Dylan Thomas. 
+
+Stay tuned....much more to come.

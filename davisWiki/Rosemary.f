@@ -1,0 +1,7 @@
+Image(Rosemary.jpg, A bee visits rosemary flowers., right, thumbnail)Rosemary (Rosmarinus officinalis L.) is a woody, perennial herb with fragrant, waxy, needlelike green leaves that are used in cooking and baking. It is native to the Mediterranean region and grows well in Davis.  Youll find it all over town: its often used as a border shrub or hedge, and is common at roadside.  There are lots of rosemary bushes on the UCD campus, and a large number of varieties of the herb are found in the Mediterranean Collection at the western edge of the  Arboretum.  Much of the rosemary in Davis has blue or purple flowers, but some varieties have white, pink or yellow ones.
+
+The best way to get a sense of its flavor is to rub your hands against a bush and smell the waxy, piny, minty oil that has rubbed onto them.  (It probably initially evolved as a defense against herbivores, but its also really tasty.)  The flavor goes well with Meat Lab meat and poultry, and also is terrific with roasted potatoes.  Culinarily, rosemary is most connected with the cuisine of southern France.  Fresh rosemary is much more interestingly flavored than dried.  
+
+You can often buy bundles of rosemary at the Farmers Market and throughout the year at Safeway.  The dried leaves can be found at virtually every Supermarkets grocery store.
+
+The name rosemary has nothing to do with the rose or Mary, but derives from the Latin name rosmarinus, which is presumed to mean dew of the sea, though some think it too may be derived from an earlier name.

@@ -1,0 +1,1 @@
+The motto of the University of California is Fiat Lux, which translates either as let light be made or let there be light, an obvious allusion to http://www.biblegateway.com/passage/?searchGenesis%201;&version51; Genesis 1:3. The light spoken of in this context is knowledge.

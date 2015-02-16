@@ -1,0 +1,1 @@
+Rumsey is an unincorporated community 18 miles northwest of Esparto in Yolo County.  Should you want to take a road trip in your automobiles car, youll be taking Highway 113 North to County 27W, then County 93N, and finally Hwy 16, first west, then north.  Youll pass through Esparto, Brooks, and Guinda, seeing farms farmland where some of the Farmers Market produce is grown!

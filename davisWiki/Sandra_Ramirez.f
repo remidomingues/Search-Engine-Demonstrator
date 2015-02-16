@@ -1,0 +1,1 @@
+Sandra Ramirez is a 4th year Political science major and apparantly a short term former LEAD ASUCD Senate senatorial candidate for the Fall 2006 ASUCD Election. She is a member of Phi Alpha Delta, a former writer for AS PAPERS and volunteers for the King Hall Civil Rights Clinic, the UC Davis Center for Childrens Environmental Health, and the Educational Opportunity Program.

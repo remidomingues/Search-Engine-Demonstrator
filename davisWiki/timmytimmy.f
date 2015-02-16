@@ -1,0 +1,4 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+Welcome to the Wiki Howdy,  Mr. Timmy, and Welcome to the Wiki!   You might want to check out the importance of using your RealName, just so we can get to know you (or not: its your choice, but people were pretty friendly here).  My names Evan, pleased to meet you!  Thanks for adding your information to the Best Buy entry... since you know more about the details of that particular aspect of sales, you should just edit the entry directly to correct it.  Its only through people like you (who know the precise details) contributing that the wiki can be corrected.  I cant (and Ive edited that entry in the past) simply because I dont know.  Thanks for adding what you do know! Users/JabberWokky Evan JabberWokky Edwards

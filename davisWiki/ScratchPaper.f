@@ -1,0 +1,1 @@
+This is a sockpuppets sockpuppet account for Viking Apartments. It has been used to try to give a better view of the complex than it actually has according to the majority opinion. Most likely it is the Manager, Tom, who is mentioned in this accounts comments in an extremely positive light.

@@ -1,0 +1,2 @@
+Describe Users/dtarimoto here.
+Welcome to the Wiki!  The file upload doesnt handle .docs particularly well.  Unlike photos, you cant embed the document onto the page.  Youd probably be better off either copying stuff over into a wiki page or else taking a photo/scanning the document, or otherwise getting an image of it, to put directly on the page.  Feel free to ask if you need helpthere are a lot of helpful people around. Users/TomGarberson

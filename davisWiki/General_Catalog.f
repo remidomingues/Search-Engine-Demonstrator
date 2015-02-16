@@ -1,0 +1,5 @@
+The UC Davis General Catalog is a heavy paperback that outlines pretty much every class and every majors major offered at UC Davis. The book is given to Freshmen, or you could buy it from the UC Davis Bookstore bookstore, but it is available in PDF and HTML form on the http://registrar.ucdavis.edu/UCDWebCatalog/ Registrars website. If you have a question regarding your college and graduation, reading this catalog can answer many questions because advisors will generally refer to this catalog to answer things they are unsure of. This includes loopholes and restrictions such as unit requirements.
+
+In honor of the UC Davis centennial Universitys centennial, the Registrar is archived all prior general catalogs in PDF format back to 1946 for the http://registrar.ucdavis.edu/UCDWebCatalog/100YearsOfCatalogs.html One Hundred Years of General Catalogs project.
+
+While the General Catalog is useful to gain familiarity with the courses offered in your major, when registering for your courses you may find the Open Course List to be rather helpful.

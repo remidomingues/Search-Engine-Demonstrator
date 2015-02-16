@@ -1,0 +1,6 @@
+
+
+Grace House, formerly the home of Grace in Action, was operated by Cindy Burger and numerous volunteers until mid2012. Grace House was on the same block as the Davis Community Church. Grace in Action still exists, but no longer meets in this location. Currently, Grace in Action offers services at the United Methodist Church of Davis on Mondays and Pole Line Road Baptist Church on Wednesdays.
+
+Grace House is a place for unsheltered homeless individuals to hang out, get a little food, talk to someone if you are troubled, etc. There is also some legal help some days and free haircuts are offered on most Wednesdays. Their open/closed schedule is posted on the window to the right of the front door. It has an ecumenical foundation. They are very warm and friendly, though they do ask that you sign in. Signatures for use of services is tracked for the purpose of assisting them with funding sources to continue their work. Although the setting is faithbased, concussion theology (beating someone over the head with a Bible) is not practiced. They are a welcoming presence for individuals who are unsheltered and struggling with homelessness. Referrals are made to helping agencies as needed. Individual Goal Planning is offered for those who are interested.
+

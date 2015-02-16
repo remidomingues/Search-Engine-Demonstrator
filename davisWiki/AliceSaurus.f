@@ -1,0 +1,1 @@
+Alice is an engineering student at UCD, who will be graduating in December 2006.  She spent her Freshman and Soph years at UC Santa Barbara UCSB and then transfered up to Davis.  She enjoys the town of Davis far more than that of IV or SB proper.  Her favorite Davis restaurants are 2k Thai Food 2K Thai and Little Prague.

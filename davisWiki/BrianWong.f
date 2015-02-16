@@ -1,0 +1,2 @@
+Describe Users/BDub here.
+Welcome to the Wiki, Brian!  Just so you know, every edit you make to every page is visible on the Recent Changes page.  Changing the attribution on your comment to hide your name is a little bit on the Shadiness Factor shady side.  Thanks for using your RealName as your user name.  Establishing an identity on the wiki is a very good thing, so why undo it? Users/TomGarberson

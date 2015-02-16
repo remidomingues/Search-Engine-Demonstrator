@@ -1,0 +1,2 @@
+
+Alhambra Water is a brand of DS Waters of America (formerly McKesson), along with Sparklettes, Sierra Springs and a variety of other names.  It is a drinking water delivery company for those too lazy to go to grocery stores or H2O to go. Theyll rent/sell you a water cooler and deliver 3 or 5 gallon water jugs to your home or office. They were the sole water provider on campus until they were replaced by Arrowhead starting in 2008. In addition to their home jug delivery, you can also get flats of bottled water.

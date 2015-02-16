@@ -1,0 +1,1 @@
+SoSoSharp is an infinitely awesome Political Science and History Double Major in the Class of 2010.  He enjoys long walks on the beach, and quiet nights by a roaring fire.  His beverage of choice is hot chocolate with extra marshmallows.  He spends his Tuesday nights bored now that ABCs Lost has ended its 6 year run.  Time to hit up Funk Night.

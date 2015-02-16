@@ -1,0 +1,3 @@
+The Law Office of Ryan T. Carrere was located in the Anderson Bank building located at 719 Second Street from June 2005 to June 2006. The law office had a focus on business formation, business transactions, and civil litigation. In June of 2006, Owner/Attorneys Attorney Ryan T. Carrere moved to a nationally recognized tax firm where he practiced in the area of federal tax resolution for nearly five years. In April of 2011, Ryan T. Carrere launched his own law practice with a focus on business and tax law.  The Law Office of Ryan T. Carrere is now located in the Midtown Building in downtown Woodland, California.
+
+You can reach attorney Ryan Carrere at (530) 6669741 or (800) 6199741. You can also visit his website at http://www.ryancarrere.com.

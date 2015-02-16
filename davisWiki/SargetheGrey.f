@@ -1,0 +1,2 @@
+Hi! Im Sargeant (Sarge) and Im a almosttwoyearold Wiki Animals Congo African Grey Parrot (CAG). My hatchday is on March 24th, and I was born in 2004. I am the coolest grey in town, and I love to talk and say my name!! I just learned how to say, Crappinest bird in town! My moms dad says that to me every time I poop, and I learned to say it myself! I like to go outside in my harness and talk to the wild birds. I also enjoy mist showers! 
+

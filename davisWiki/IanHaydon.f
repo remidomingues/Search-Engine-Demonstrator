@@ -1,0 +1,5 @@
+Ian Haydon can tell us a little about himself here.
+
+
+
+20111110 18:49:37 nbsp Hey, I noticed your comment on The Ramble Apartments, and thought I might drop a note to clarify something.  Wikis are generally full of opinion and lots of back and forth.  Youre probably thinking of Wikipedia, which is a project that uses wiki software to write an encyclopedia.  Thats a specific goal, so they have all kinds of rules regarding content.  Traditionally wikis dont have lots of rules, and the content is managed and edited by the people who use them.  Youre not alone in accidentally equating wikis and the Wikipedia project; theres even a community written Welcome to the Wiki/Wiki Enthusiast welcome page that covers it.  That said, the fact that there are no rules makes it incumbent upon people like you to point out when there is imbalance, and the community as a whole work to address any such situation.  I know youve been around for a bit, but welcome to the wiki! Users/JabberWokky Evan JabberWokky Edwards, jw.dw@timewarp.org

@@ -1,0 +1,1 @@
+wiki:WikiPedia:Anthony_Swofford Anthony Swofford is a UC Davis Famous UC Davis Alumni alumnus (Transfer Students transfer from http://www.arc.losrios.edu/ American River College) from Sacramento and the author of the autobiography Jarhead in which the http://www.imdb.com/title/tt0418763/ film of the same name is based on. He currently lives in New York City.

@@ -1,0 +1,1 @@
+#redirect Hiking and Backpacking

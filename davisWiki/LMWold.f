@@ -1,0 +1,4 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+Howdy, Lawrence, and welcome to the wiki!  The information you posted about local Cub Scouts was fantastic, so I used the comment to start a new entry cub scouts devoted to Cub Scouts.  If you have any generally useful information about a subject, you should always feel free to edit the entry directly rather than just adding a comment.  Everything in every entry here was added by editors like you, and if you know about a given subject, just jump in and edit the entry itself by clicking the Edit icon on the light blue bar.  If theres anything else you could add about Cub Scouts or Scouting  or any other subject on the wiki  feel free to just edit the entry itself!  Once again, thanks for the useful information, and welcome to the wiki!  Users/JabberWokky Evan JabberWokky Edwards

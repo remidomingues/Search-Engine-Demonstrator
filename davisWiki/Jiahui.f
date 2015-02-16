@@ -1,0 +1,3 @@
+This user can edit their page by clicking the edit icon at the top of the page.
+
+20100616 17:32:35 nbsp Howdy, and Welcome to the wiki! I noticed that you happen to share the same IP address as someone who http://daviswiki.org/Thai_Nakorn?actiondiff&version2119&version1118 appears to be associated with Thai Nakorn. This generally means that the accounts were created at the same computer. Are you associated with that business? If so, its generally considered unethical for you to be leaving reviews under assumed names, like users/Carry, since that can be viewed as leaving biased reviews, which undercuts the informativeness of the site. Users/JoePomidor

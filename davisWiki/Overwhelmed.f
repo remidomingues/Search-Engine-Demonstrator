@@ -1,0 +1,2 @@
+
+## Use this sparingly!!!!  Sometimes a person is making different replies to different people, so their name appears over and over.  Thats not really the point of this include.  This is to counter the hammering the point people who just pound the same point into the ground, filling an entry with the same thing over and over again.  If its really bad, consider a community rewrite of the comments (no really  theres no rule that says you cant, and if it is REALLY needed, other editors will likely agree).

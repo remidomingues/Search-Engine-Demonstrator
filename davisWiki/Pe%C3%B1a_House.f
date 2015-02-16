@@ -1,0 +1,3 @@
+The Peña House, at 337 D Street, is a historic building which served as home to some of the descendants of an early pioneer family. Constructed in the 1890s, if not earlier, it is one of the oldest surviving buildings in Davis. Narcissa Peña, greatgranddaughter of pioneer Juan Felipe Peña, lived there her whole life until she passed away in 2008.
+
+In the following year, the property was purchased by a group called 4th D LLC that wishes to build a 3story, 4unit condominium in the location. The City Council approved the project, meaning that the original house will have to be relocated or demolished.

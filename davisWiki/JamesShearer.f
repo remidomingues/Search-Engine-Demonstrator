@@ -1,0 +1,1 @@
+I am bipedal, and a third year graduate students grad student in the Graduate Groups Graduate Group in Computer Science, working on scientific and information visualization.  My daughter has been described as an explosive device with wispy blond hair, which I find fairly accurate.

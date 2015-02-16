@@ -1,0 +1,5 @@
+Comparative Literature was formerly part of the UC Davis English Department, distinct from being an English Major. The program focuses on literary works from various countries, ethnic and social groups, continents, and time periods. For example, African literature, European Romanticism, Womens Writing, Literature and Nature. The major is affiliated with the program is Critical Theory and offers the programs only undergraduate course, COM141 Intro to Critical Theory.
+
+The Comparative Literature major includes a foreign language requirement. Students have to take at least three upper division literature courses in a language other than English. The foreign language component is essentially what distinguishes Comp Lit and English classes at UC Davis. If this isnt sufficient explanation, the simplest answer to the eternal question What is Comparative Literature is that its the study of literature comparatively i.e. across genres, time periods, and cultures.
+
+According to the UC Davis General Catalog, The introductory course sequence provides ... an overview of ancient to contemporary literature and film. Still waiting for those ancient films to be discovered.

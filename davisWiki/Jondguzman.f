@@ -1,0 +1,2 @@
+Im a college student, struggling to get through life. Hopefully I will get into the nursing program and get in, graduate and start finally making money to help out my family :)
+         On the sidenote, Im a martial artists. Ive done tae kwon do since I was 6 but Ive been in and out of it. Ive also trained in boxing, muay thai, B.J.J. and Ive tried out Uechi Ryu Karate. I play the guitar, but I havent really been learning to play cuz school is first.

@@ -1,0 +1,5 @@
+Gil is a Davis phenomenon worth recognizing. He never wears shoes, even when he was a Teaching Assistants TA.  I have seen him monkey up tree limbs hanging twenty feet off the ground to and do some trimming.  He also likes to wrestle with dogs.  Gil loves the world of pedal power and has produced many finely shitty contraptions that still limp around after years of just sitting there.  Gil dabbled in cult leadership when he began the Refugee Coop which boasted an 18 dollar food bill for a house of seven people for the entire month.  How is that possible?  Gil is a master, the master of dumpster diving.  He has even admitted to dumpsterbating whereupon an individual finds useful things in their own trash.  Gil is no longer a Davis resident but has left quite an oddly shaped imprint in his years here.  From those of us who know him, we love you Gil.
+
+
+
+20091128 22:35:34 nbsp gil brings back some special memories. i heard he started a commune outside davis. anyone know whats up with that? Users/JessicaRockwell

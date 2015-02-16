@@ -1,0 +1,1 @@
+#redirect Kings Cup

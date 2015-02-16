@@ -1,0 +1,12 @@
+
+
+
+This Locally owned websites blog by Benny is a eclectic mix of local and internet observations.  Benny describes himself as, So I am a 21 year old College Student trying to make a living with whatever I can get.  I am originally from Oakland, CA, but moved to Davis, CA for school.  I am currently in my senior year pursuing a degree in Civil Engineering.  What Im going to do with my After UC Davis life after graduation is a mystery, but I look forward to it one day at a time.  I hope you enjoy reading my blogs blog as I am looking forward to updating it.  And with a crackberry by my side, I have no reason not to update as often as possible.  If you have any questions, comments, concerns, drop me a line via comment.  Heres to taking those three evils to new heights, cheers!
+
+One of two coowners, Thomas, describes himself as As a graduate student in computer science, I have an unhealthy attraction to anything nerdy: video gaming, science fiction, coding, electronic gadgets, and of course, Wikipedia. I also have a strong tendency to fiddle with everything around me, meaning that if you ever invite me over, you may find that your refrigerator magnets arranged in order of number of edges or that all your desk toys have been reassembled into some kind of giant Frankenstein toy. In fact, I would probably classify myself as being a strong candidate for Aspergers syndrome.
+
+On the rare occasions when I’m not geeking out, my habits are eerily similar to that of a sorority girl’s: I like to get hammered at bars, go to the gym, obsess about shoes (Jordans), gossip, and come up with entirely inappropriate, often offensive, hypothetical situations that I then pose to my friends.
+
+And the other coowner, Alex, describes himself as I’m 23 years young and half a year out of college (UC Davis). Originally, I’m from the Live Music Capital of the World, Austin, Texas. Graduated with a B.S. in Civil Engineering, I found myself starting to climb the proverbial ladder of industry until recent setbacks have brought me back to where I was when I just graduated…actively seeking work. Everything has a reason, and I’m going to use this time to pursue activities that interest me, such as design, writing, and music; interests that have no place among the engineering curriculum. Exercise the right side of your brain…it’s good for you! Feel free to share with me any pictures of design, literature, and new emerging bands at lexical@gmail.com.
+
+

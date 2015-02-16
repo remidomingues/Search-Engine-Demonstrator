@@ -1,0 +1,4 @@
+Describe Users/Jeremylukekymmbakari here.
+Welcome to the Wiki, Jeremy, Luke, Kymm, and Bakari.  Please consider closing this user name and making individual accounts.  There are a lot of problems inherent in group or Wiki Community/organizational accounts organizational accounts, which generally come down to a lack of identity.  Also, I hope youll all take a moment to look over the Welcome to the Wiki/Business Owner Business Owner Welcome page, which gives a great rundown of what to expect on the wiki and how to work around some of the obstacles businesses face, both from other users and from the restrictions placed on the wiki by its nonprofit agreement with the IRS.
+
+And a final note: the Yolo Bargainer sounds like a great idea for a business/website, but itd probably be worth getting some deals on there before you start putting it on index pages. Users/TomGarberson

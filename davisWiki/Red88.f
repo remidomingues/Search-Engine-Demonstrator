@@ -1,0 +1,7 @@
+This editor can edit this page and tell us a bit about themselves by clicking the Edit icon.
+
+
+20100120 18:02:36 nbsp Welcome to the wiki, Dante!  Thanks for your comments on the Red 88 Noodle Bar page.  I found them very helpful in putting some of the negative comments into context.  As you continue to participate in the wiki, there are two recommendations Id like to make.  One is to consider closing this account and opening one using your name.  You might consider this hypocritical, since I am not using my name.  But I am not a business owner seeking that personal touch.  Using an account with your real name will give you that.  Also, you might want to consider editing other pages on the wiki, say, about a local park that you like or a bit of town history  and having a name that isnt associated with your business will help with that.  My second recommendation is for you to read Welcome to the Wiki/Business Owner.  Not that youve done anything wrong, but just that you might find it helpful.  Again, welcome! Users/CovertProfessor
+
+20100123 06:32:46 nbsp Thank you CovertProfessor.  I will take your advice and read the Welcome to the Wiki/Business Owner.  I would use my own name but I already created one that I can no longer access.  I forgot the password.  And I believe that I also forgot the password to the email address that was associated with that account. Users/Red88
+  I think Users/PhilipNeustrom can help you get access to that account again.   Users/CovertProfessor

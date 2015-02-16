@@ -1,0 +1,2 @@
+
+Weirdo Begierdos Kids Korner is a radio show on KDVS running from 46 AM on thursdays featuring Sharmi Basu and Parijata Prabhakara.  Playing the finest in International, Eclectic, Electronic, Folk, Rock, Indie, HipHop, Noise, Experimental, and even some Bollywood classics, its the perfect blend for latenight studying, driving, or even Tweakers Tweaking.  Their stream can be foundhttp://www.kdvs.org/showme.cfm?show2024&titleWeirdo%20Begierdo%5Cs%20Kids%20Korner&back_grid here

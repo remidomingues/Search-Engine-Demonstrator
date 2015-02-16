@@ -1,0 +1,4 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+20100206 19:44:35 nbsp Please close this account and edit under your Importance of using your RealName real name. Instructions on how to do so are on the Importance of using your RealName page. Wiki Community/Organizational accounts Organizational accounts pose several problems, but the core issue is that they detract from a sense of community when one or more people use the name of an organization. This leads to a sense of faceless, impersonal action rather than the actions and statements of a member of the community. As a member of the Davis community, your contributions are very much appreciated, but it would be better if you make them using your name rather then the name of your organization. If you havent read Welcome to the Wiki/Business Owner, and Wiki Community/For Profit Restrictions please do so. Users/JasonAller

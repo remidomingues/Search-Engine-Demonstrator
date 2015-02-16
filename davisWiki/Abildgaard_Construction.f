@@ -1,0 +1,7 @@
+
+Adam is a Building Contractors contractor that specializes in framing but can also work as a general contractor. He is an honest, upbeat guy who works incredibly well with people, as well having a lot of experience doing great work. He grew up in Davis and knows the city well. Adam is reliable and respectful, something that cant be said for most Building Contractors contractors.
+
+
+20070214 15:11:00 nbsp The night of Feb 12th my friend and I parked in the northern Ace hardware parkinglot while waiting for another friend, and after a couple minutes a man came up and knocked on our window to talk to us. The first thing he said was, If you dont move your car so I can get into my truck, I am going to call the police on you. This is obviously not a polite and normal way to ask someone to move their car. I drove a van, so sure, Im aware of how wide my vehicle is. However, he was very menacing and looked like he was going to do more than just call the cops on me. He then continued to threaten me, Ill give you a couple seconds, if you dont move I will call the cops right now. Smart thing to do though, threaten someone and then get into your truck that has your business label on it. RosaChou
+
+20070214 15:12:06 nbsp btw, my story refers to this company and the truck driver who drove the companys truck. whether or not he was the owner, he should be careful about how he represents this construction company. RosaChou

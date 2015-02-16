@@ -1,0 +1,8 @@
+The Delta, as it is commonly known, was originally no more than a large tidal marsh and is today a labyrinth of both natural and manmade waterways more formally known as the http://pacific.fws.gov/ecoservices/envicon/pim/reports/Sacramento/SacramentoDelta.htm SacramentoSan Joaquin River Delta. These waterways connect a myriad of small cities and http://www.walnutgrove.com/ rivertowns and are the single most important geographical feature of Californias water resources system. Historically, approximately 40 percent of the states runoff flowed to the Delta, our last opportunity to develop and use this water before mixing with the salty San Francisco Bay. Because of its importance, many state and federal environmental and regulatory agencies claim some oversight as well as various special interest groups.
+
+The estuary  the worlds largest manmade plumbing job started in 1850  provides 7.2 million acrefeet of water a year for export, irrigates 4.5 million acres of farmland, and provides drinking water for 20 million Californians (SFEP 1992). It brings us a cooling delta breeze during summer nights and plays host to a number of endemic species, recreational activities and http://www.deltaking.com/ The Riverboat Delta King. Boating Boaters may wish to visit the http://www.sacdelta.com/charts/index.html Sac Delta website to look at maps and boating information about the Sacramento Delta  the site includes information about safety, weather/tides, marinas, clubs, Delta businesses, fishing, boating, and historical information.
+
+The Delta can also refer to the Delta of Venus cafe.
+
+ Resources 
+http://rubicon.water.ca.gov/delta_atlas.fdr/daindex.html rubicon.water.ca.gov

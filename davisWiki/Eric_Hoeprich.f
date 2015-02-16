@@ -1,0 +1,6 @@
+
+Eric Hoeprich is a worldreknown clarinetist who went to Davis schools and graduated from Davis Senior High School Davis High School in 1972.  One of his early school music teachers during this time was Margaret Neu.  He received a degree in  philosophy from http://en.wikipedia.org/wiki/Harvard Harvard, and currently teaches at the http://en.wikipedia.org/wiki/Paris_Conservatoire Paris Conservatoire, the http://en.wikipedia.org/wiki/Royal_Academy_of_Art,_The_Hague Royal Academy at The Hague, and the http://music.indiana.edu/departments/academic/earlymusic/ Early Music Institute at Indiana University, in addition to doing public performances.  He specializes in early clarinet music, beginning from the time of http://en.wikipedia.org/wiki/Clarinet_Concerto_(Mozart) Mozart and has written an authoritative book on the instrument called, http://www.amazon.com/ClarinetYaleMusicalInstrumentSeries/dp/0300102828/ The Clarinet.
+
+In Sept. 2012, Hoeprich was inducted into the Davis Senior High School Hall of Fame Davis High School Hall of Fame.
+
+Source: Hudson, Jeff; 2012 Aug. 23, http://www.davisenterprise.com/localnews/schoolsnews/erichoeprichachievedinternationalrenownwiththeclarinet/ Eric Hoeprich achieved international renown with the clarinet, Davis Enterprise, pg. A1.  Retrieved 25 Jan. 2013.

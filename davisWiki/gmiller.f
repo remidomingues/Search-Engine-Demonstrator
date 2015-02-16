@@ -1,0 +1,4 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+Hi, welcome to the wiki, and thanks very much for fixing the hours and other information on Corcoran Lane Pastures. I saw you also corrected the information about the ownership, and then you removed it. The ownership as you stated (you and your wife) is also a matter of public record at the http://www.yolorecorder.org/recording/fictitious/lookup/index_html?uid16260731 county recorder, and would still be visible in the edit history of the wiki page if it was currently removed. I understand you might not want the information published here, even if its available elsewhere, but generally it is preferred to have more information available on the wiki. Do you have a particular reason for removing it besides having less information about the business here? If that is the reason, most people will put the information back. Thanks! Users/NickSchmalenberger

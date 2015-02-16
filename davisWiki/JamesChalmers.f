@@ -1,0 +1,1 @@
+If youve had enough of these March 4, 2010 Public Education Protest obnoxious protesters disrupting our education with their useless and pointless protests, join the counterprotest movement, The UC Loyalists. Email me at jameschalmers84@yahoo.com

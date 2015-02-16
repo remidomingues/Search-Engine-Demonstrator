@@ -1,0 +1,1 @@
+L is for ladies since that is all that the Tercero L building housed until its demolition in March 2012.  It was laid out exactly like the other buildings, just all female.  It added the benefit of not having to go up or down a flight of stairs to go to the Bathrooms bathroom.  The bathrooms, however, came complete with urinals.

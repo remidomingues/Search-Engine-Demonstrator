@@ -1,0 +1,3 @@
+Describe Users/LstFURNITUREisTHEWORST here.
+
+20111010 08:03:06 nbsp Welcome to the Wiki.  Have you considered the importance of using your RealName?  It can add a lot of weight to your review.  You recently deleted the L Street furniture pageIm guessing accidentally.  Were you trying to just remove your own review?  If so, you can just go to the page (it got restored), hit the Edit button up at the top, scroll down, and delete it (you can also delete the response to it), and hit save.  You could also rewrite the review, if you wanted.  Please dont delete the whole page, though :) Users/TomGarberson

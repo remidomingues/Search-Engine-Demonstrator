@@ -1,0 +1,9 @@
+Image(deltabreezemap.jpg, right, thumbnail, 350, The Delta Breeze enters the Central Valley through the gap in the Northern Coast Range created by the Delta of the Sacramento, San Joaquin, and Mokelumne rivers.)During the long days of Summer in Davis summer, the sun beats down with a vengeance.  Day after day of hot, dry weather keeps people indoors, in the safety of their air conditioners.  When it seems like nothing could break the monotony of Summer Davis Weather, a cool, humid breeze starts to filter in and life becomes bearable outside.
+
+The Delta Breeze is the local name for a wind coming from the southwest, off of The Delta of the Sacramento River and San Joaquin River.  This wind carries with it cooler, more humid air from off of the Pacific Ocean.  The effects of this wind are very noticeable during the summer, as this seabreeze can cool the air by more than 10^o^F (thats 5^o^ C!).  This can turn an unbearable summer day to a comfortable one, especially for those of us from cooler climates.
+
+The wind is primarily driven by a wiki:wikipedia:Sea breeze sea breeze circulation, which can often become coupled with a mountain breeze to form one large (mesoscale) circulation of air from the wiki:sf:Farallon Islands up into the Sierra Nevada Mountains Sierra Nevada.  A more detailed meteorological discussion can be found at the http://www.wrh.noaa.gov/sto/CWA.php National Weather Service under the heading Central Valley and Delta.
+
+From a gardeners standpoint, this is one of the major differences between Sunset Zone 14 (Davis) and Sunset Zones 8 and 9 (Woodland, Winters, and Sacramento). The prevalence of moderating delta influence, both in winter and summer, affects the success of certain plants.
+
+Davis loves the Delta Breeze so much that it has named its carousel after it: The Flying Carousel of the Delta Breeze.

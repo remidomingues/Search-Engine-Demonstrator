@@ -1,0 +1,9 @@
+http://i1291.photobucket.com/albums/b544/davisartcenter/PeteScully2012holidaysale_zps5ce2635d.jpg (Drawing by Pete Scully)
+
+A wellestablished Davis tradition since 1985, the Davis Art Center Holiday Sale is nonetheless getting a fresh facelift in 2013.
+April is the deadline to apply as an artisan vendor at our annual Holiday Sale fundraiser in December.  Usually due in August, these applications must be submitted by April 30, 2013.
+Due to the high volume of talented artists who apply each year, the Art Center’s Holiday Sale Selection Committee decided that an earlier start would help the group ensure a diverse shopping experience for visitors of all interests, ages, and income. The new schedule will also benefit vendors by giving them plenty of notice to prepare for the busy holiday season.
+Holiday Sale Artisan Vendor applications can be found online at http://www.davisartcenter.org/sale.htm. You will be asked to submit pictures and descriptions of your handmade artistic items or products – we are looking for a wide variety of items, from toffee to soaps, calendars to candles, and wallart to wearableart, so don’t be shy! Applications may be submitted by email (preferred) to office@davisartcenter.org, in person at 1919 F Street in Davis, or mailed to Davis Art Center Holiday Sale, P.O. Box 4340, Davis, CA 95617. All applications will be reviewed by the Selection Committee and artists notified of their acceptance status by May 15, 2013.
+Some Holiday Sale traditions, however, will not change: the sale will still take place, as always, over the first weekend in December, spanning three days of holiday shopping paradise.
+
+Proceeds from the Davis Art Center Holiday Sale will support the Davis Art Center’s MAKE ART HAPPEN campaign, raising money to ensure that every person who walks through the Art Center doors, literally and virtually, can have a creative experience.

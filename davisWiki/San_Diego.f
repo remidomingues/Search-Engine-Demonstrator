@@ -1,0 +1,3 @@
+San Diego is a large city in Southern California and home to UC San Diego.  The San Diego area generally has the best overall weather of Southern CA. Its usually sunny and relatively warm all year. Downtown San Diego is quite nice, and overall, the San Diego sprawl is much more courteous and restrained than the LA sprawl. San Diego still has a lot of Navy/Marine influence in town, and if you spend much time there, its hard not to notice it. As with many large cities, there are quite a few things to do, but I highly recommend both the zoo and the wild animal park.
+
+San Diego County extends from the Mexican border to Carlsbad and Poway, right up to the Camp Pendleton military base just north of Oceanside.

@@ -1,0 +1,8 @@
+The Davis Arch was a structure, built in late 1916, that marked an entrance to downtown Davis for a period of about 8 years.  Costing a thenstaggering $1280, it spanned the southwest to northwest corners of Second Street and G Street.  Back in those days, such an archway was a common way of expressing a flourishing towns awesomeness (Cf. http://www.lodi.gov/citycouncil/HistoryArch.html the Lodi Arch), and therefore many visiting yokels, upon their arrival, must have stared up at this welcoming sight in slackjawed amazement.  After all, this magnificent, doublecrested gateway would have put even the best ancient Roman engineers to shame.  But the Archs great beauty was perhaps the very attribute that sealed its grim fate; with the rising popularity of the automobile, drivers began crashing madly into the Arch like moths swandiving into beloved flames.  Something had to be done.
+
+The Davis Arch was taken down and destroyed in 1924.  On February 24, 1924, William H. Scott bemoaned this cruel destiny in a written tribute to the Arch, stating, the fates decreed that it was merely a matter of the opportune time.  The Arch may have been gone but it was not forgotten; in 1976, a Davis Arch mural was painted on the side of the Terminal Hotel.  Unfortunately, the mural was destroyed in 2000.  The mural may be gone but it is not forgotten.
+
+A smaller, more subtle reminder of the arch can be found on the sign for the University Park Inn and Suites.
+
+In the picture below (looking west down Second Street), the sign on the left side of the Arch reads, Gateway to Yolo County.  The sign on the right side of the Arch reads, Home of University Farm.  The Anderson Bank Building is to the right of the Arch.
+

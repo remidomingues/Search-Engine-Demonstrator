@@ -1,0 +1,25 @@
+There are many kinds of food trucks, from the traditional California Mexican fare that have been dubbed (usually lovingly, sometimes pejoratively) as roach coach roach coaches, to the trendy ones that became popular in both Davis and around the US in the 2010s.
+
+In the early 2010s, the concept of a food truck suddenly became popular, gentrified and became a gourmet destination (initially ironic).  These new trucks (stereotypically popular among hipsters) serve an entirely different population than the blue collar laborers that were the traditional patrons of the earlier trucks.  An example in Davis is Shahs Halal Food, offering quite good food on UC Davis campus.  Because they serve entirely different classes of people (construction sites versus campuses), the new trucks havent impacted the classic ones much (although food trucks have a long history at other campuses such as UC Berkeley because of their cheap food).
+
+There are also vendors who serve food at the Farmers Market in a similar fashion, although not usually directly out of a truck.
+
+There were probably food trucks dating back to the early 20th century (they were common at one point around the country in the early to mid 1900s)... if you know of any that were in Davis, please add them to the wiki!
+
+Mobile food delivery facilities include Shahs Halal Food and Flanagans Dogs.  Star Ginger appeared on campus in 2011.  In Sacramento, you can find information about local food trucks at Sac Food Truck Tracker http://www.sacfoodtrucks.net
+
+ Legal Issues 
+
+According to http://www.davisenterprise.com/localnews/city/citylawbarsfoodtrucksfromdavis/ this article in the Davis Enterprise, Davis has extremely strict laws on food trucks; they must be moved every 10 minutes.  (Sacramentos are only slightly less strict; the trucks must be moved every 30 minutes).  In the online comments, Rich Rifkin notes that there is an exemption within the municipal code (Article 22.08 STOPPING, STANDING AND PARKING (b)):
+
+ A person may park or stand an eating cart or vehicle, or pushcart from which articles of food are sold or offered for sale, on a street for a period of time exceeding ten minutes only if such person first obtains a written permit to do so from the city traffic engineer or the city council. Each permit so issued shall designate the specific location in which such cart or vehicle shall stand. No permit shall be issued to any person unless it appears that the proposed location of the cart or vehicle will not impede or endanger vehicular and pedestrian traffic. Any permit issued by the city traffic engineer shall not be good for a period of time exceeding twentyfour hours.
+
+(Im not sure if that last sentence means that for each day you want to appear, you need a new permit.  cp).
+
+Presumably, the food trucks on the UCD campus are not subject to the same laws.
+
+UCD is not part of the city, but the Yolo County county.  Of course, regarding food on campus, with the exception of the ASUCD run Coffee House, UCD has a contract with an institutional food service company to provide food on campus.  The food service contract is currently held by Sodexo.  Sodexo bought out the institutional food service division of Marriott corp. which used to provide the retail and boardside (dining halls) meals on campus.  My understanding is that Star Ginger is a Sodexo food truck with employees hired by Sodexo.  It is most likely some type of franchise agreement, similar to their agreements with Burger King, etc.
+
+Food Trucks in the Local News
+
+Food trucks are becoming increasingly popular around the country, and many restaurateurs (such as Bobby Coyote of Dos Coyotes) worry that they would hurt Daviss restaurants, especially its momandpop restaurants. However, Rhonda Gruska, coowner of Monticello was WWWquoted in the Enterprise as being in favor of the arrival of any good food, whether it comes from a truck or a building, because it forces everyone to up their game and gives Davis a reputation for putting out quality, cuttingedge meals: There’s not a lot of good food in Davis. The more thriving a food community we are, the better off all restaurants are. If we get known as a food town and people want to come here because we have all these different cool things going on, it benefits all of us. Bob Dunning WWWaccused Gruska of offending nearly every other restaurant owner in town; according to Dunning, Gruska WWWcalled him and said that she was sticking with her statement that There’s not much good food in Davis. Dunning further reports that Gruska said that being married to a chef will do that to you and that of course her chef is one of the good ones. Its unclear from the way that Dunnings article is written whether the last statement is supposed to be from Gruska herself or if its Dunnings editorial comment; Gruska says its his editorial comment, and that the exact quote is There’s not a lot of good food in Davis rather than what Dunning said that she said, which was There’s not much good food in Davis. Was part of what she meant that they use food from local organic farmers which other restaurants dont?

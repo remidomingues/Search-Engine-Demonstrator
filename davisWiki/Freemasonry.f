@@ -1,0 +1,1 @@
+Freemasonry is a fraternities fraternal organizations organization that has existed for roughly 500 years, and that has a long history in Davis.  The local group meets at the Yolo Masonic Lodge.  Mayor Calvin Arthur Covell Jr., who lent his name to many local features was a Freemason.

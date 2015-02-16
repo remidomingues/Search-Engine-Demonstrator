@@ -1,0 +1,10 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+Welcome to the Wiki! I understand that you work in advertising for Davis Life Magazine, but Id ask that you please try to keep links more specific or at least be more clear when labeling them.  ie, DLM did the article about the seven bars they tried out that youve been adding to pages, but its misleading to have the link on all seven pages go to the same article.  I expected the link on read more about Uncle Vitos for example to be about Uncle Vitos, whereas it sent me to an unexpected article (with no direct mention of Vitos on the first page) and the commentary was just on Vitos bar scene, 8 pages in.   users/edwins ES
+
+20090520 18:39:23 nbsp Hey, can you please actually contribute real content to our wiki instead of just spamming us with links? Its getting very annoying and its taking a lot of willpower to just not mass revert all your link additions. Users/WilliamLewis
+
+20090527 13:14:25 nbsp I dont think anybody is going to analretentive about any format... they vary between entries anyway.  It was the mysterious link randomly placed in seemly unrelated articles that caused people to wonder what was going on.  Having a media section makes it easy (it makes it clear why the link is there), and adding the title and date of the article clears up the what does that link have to do with this subject part of the befuddlement.  Its also worth keeping in mind that in any large open group of people, hearing a huffy complaint does not mean the entire group is upset at you, if you know what I mean.  :)  On the other hand, quite a few people are willing to try to help you out if you ask, or offer suggestions when they get the idea of what your intent is.    Users/JabberWokky Evan JabberWokky Edwards
+
+20090527 14:34:54 nbsp I understand, I just want to abide by the precedents that have been set.  Thanks for the help, JabberWokky, Im slowly starting to get a hang of things. Users/Markling

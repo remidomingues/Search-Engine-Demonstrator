@@ -1,0 +1,11 @@
+
+ Michael Kongo Aguilera 
+
+Mike aka Kongo was a Fall 2005 ASUCD Election Fall 2005 Senatorial Candidate for L.E.A.D., and is a former Justice of the ASUCD Court.
+
+ Candidate Statement 
+
+My name is Michael Kongo Aguilera. No Im not related to Christina, shes my exwife and she married me for the Latin last name; it was during that whole Living La Vída Locá, Latin Invasion. Of course Christina was never really was my wife but thats a little story I tell every now and again with a goal: Not getting jumbled in with all the other friends named Mike.  Then I get the opportunity to further differentiate myself by explaining why my nickname is Kongo. All joking aside, come to the Fall 2005 ASUCD Election/Senate Candidates Senate Candidates Forum at noon in the Coffee House on November 9th and ask me about my nickname along with any other questions you may have. L.E.A.D. has been working in collaboration with the City of Davis Human Relations Committee to create, what we have coined as, the Citizens Review Board which will add Democracy and Transparency to the Davis Police Department and hopefully quell the student harassment that has been such a huge issue since the riot in the Sterling Apartments of 2004. Also, Im personally pressing for affordable group housing with the West Village Project, currently planned to be near the new football stadium, with which will be environmentally friendly and create a student community that will provide students with more housing options and a place to call our own. Last but not least, I am pressing for the creation of ASUCD/City of Davis cosponsored venues that will provide students with entertainment options throughout the City of Davis that are not currently available. Really, what is there to do in Davis?  Nothing! This collaboration with the city will finally give us options to what we can do besides frequenting fraternity row and Downtown, which are fun but that whole thing gets old real quick.  To conclude, I would like to share a quote; in the words of wiki:WikiPedia:Margaret_Mead Margaret Mead, Never doubt that a small group of thoughtful, committed citizens can change the world. Indeed, it is the only thing that ever has, and here at UCD that small group is the 05 Fall L.E.A.D. Slate.
+
+ More information 
+See Users/Michaelaguilera Michaels personal wiki page.

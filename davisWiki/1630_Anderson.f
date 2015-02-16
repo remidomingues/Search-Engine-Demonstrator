@@ -1,0 +1,3 @@
+
+
+1630 Anderson Rd., also known as The Circus, was founded in 2007 by A. Brasch, C. Clifford, C. Mohan, J. Pines and A. Stuart. These crazy ladies are all involved closely with SOS Ski or Snowboard Club. The Circus has played to host to many soirees and features a very awesome Kegs keg tree in the back yard: if you drive by down Anderson you can see some of the keg trees features from the street. In addition, a small bottle cap collection is growing at the base of the keg tree. If you drive by and were out front Alcohol drinking, then honk, because there is an ongoing Drinking Games game of you honk, we drink.

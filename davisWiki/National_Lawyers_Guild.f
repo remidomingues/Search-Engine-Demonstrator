@@ -1,0 +1,1 @@
+http://www.nlg.org/ National Lawyers Guild is organzation of lawyers and law students which has a chapter at King Hall. They are liberal by reputation, focusing on issues of civil rights, especially in the areas of gender and racial equality.

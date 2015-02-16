@@ -1,0 +1,4 @@
+
+Whoa, there, FirstnameLastname1... looks like youre spamming the Wiki.  Ive locked your account because it looks like you created this account just to anonymously put forprofit links into entries where they dont really fit (i.e., Spamming).  If you are just enthusiastic about your chairs, and they honestly have something to do with Davis (the focus of this Wiki), go ahead and register with your real name (or at least what people call you in real life), and try again, a little less zealously.  Introduce yourself, explain the chairs connections to Davis, that sort of thing. Users/Jabberwokky Evan JabberWokky Edwards
+
+I really doubt it has anything to do with Davis seeing as how the signal comes from Indianapolis, but at least people from that far away know that the Davis Wiki exists.  Users/SteveOstrowski

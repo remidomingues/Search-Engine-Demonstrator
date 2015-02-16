@@ -1,0 +1,1 @@
+The Buena Vista Hotel was widely considered to be the best hotels hotel in Davis, even though there were hog pens only 60 feet away and cow barns 200 feet away. The essence of Davis would have been particularly strong here, owing to the fact that manure was allowed to collect for months on end in the barnyards. The hotel burned down in 1918.

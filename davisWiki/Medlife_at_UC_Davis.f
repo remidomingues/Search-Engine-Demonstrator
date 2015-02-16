@@ -1,0 +1,5 @@
+
+MEDLIFE is an international organization that works to improve the overall health and welfare of families and communities in need in Ecuador, Panama and Peru through a comprehensive approach of improving access to medicine, education and community development. MEDLIFE Mobile Clinics deliver primary care services to individuals and families who otherwise lack access. MEDLIFE coordinates and combines its efforts with the local government and Ministry of Health and its fulltime MEDVIDA staff conducts yearround followup services for those who need additional care. As future health care professionals and public health and social justice leaders, we will further provide education and partake in community development projects to ensure sustainable change. Through the medical model of see one, do one, teach one, we will learn about global health issues, work on ground projects, and teach others about these issues. This approach will ensure that our efforts are more than just a bandaid solution to the health care problem in Latin America.
+
+
+20140213 14:37:29 nbsp Best club on campus! Users/NonaBhatia

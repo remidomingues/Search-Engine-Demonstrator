@@ -1,0 +1,1 @@
+Image(mario.jpg, Saul, Users/AndrewBanta Andrew, and Mario, thumbnail) Mario is a Davis Groupies groupie. He attends Sac State, and lives in Dixon. Works at Wells Fargo Wells Fargo in Vacaville Vacaville.  Whats he doing on the wiki you ask? He wants your soul, like the dirty Davis Groupies groupie he is!

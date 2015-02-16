@@ -1,0 +1,3 @@
+Harriet Elisha (Hattie) Weber (October 10, 1872  December 14, 1961), was the first (paid) librarian in Davis. Hattie Weber served from 1910 until she retired in 1953 in Davis first freestanding library building, now known as the Hattie Weber Museum. Her coworker of 11 years was fellow librarian Narcissa Peña. Hattie started off as a volunteer at the Davisville Free Library in 1906, which was then located in the Buena Vista Hotel. Over the years, she was wellliked by the Davis townspeople, who affectionately referred to her as Miss Hattie.
+
+She was John W. Brinleys favorite aunt, and the daughter of George Weber, owner and saloonkeeper of Webers Yolo Saloon Davis first bar.

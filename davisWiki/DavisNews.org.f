@@ -1,0 +1,5 @@
+http://www.davisnews.org/rss.php?category&statuspublished&group
+
+http://davisnews.org/ Davisnews.org is a nonprofit newsaggregation Locally Owned Websites website reporting on the community and culture of Davis, California. Created and designed in mid2009 by two UC Davis students, Davisnews.org attempts to empower citizens of Davis through vigorous userled and generated content and active discussion. Similar to http://digg.com/ digg.com in conception, users maintain the ability to determine the direction of interesting topics by voting for articles. The most popular articles will appear in the Popular News page by vote ranking, with a minimum of two votes required before the article can transition from Upcoming News to the Popular News page. Users also control the ability to publicize any events or interests related to Davis by just attaching a hyperlink. While comments are free and independent, admins generally preserve the civility and tone of the general discussions.
+
+Ultimately, Davisnews.org strives to provide a platform for the community to examine the most pressing and interesting issues of the day.

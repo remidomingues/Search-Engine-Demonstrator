@@ -1,0 +1,1 @@
+Channel Catfish (Ictalurus punctatus) are a large gamefish native to eastern North America. They have the potential to grow to enormous sizes. Specimens in Putah Creek can grow to relatively large size.

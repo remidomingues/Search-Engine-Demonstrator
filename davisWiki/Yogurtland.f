@@ -1,0 +1,1 @@
+#redirect Yogurtland Frozen Yogurt

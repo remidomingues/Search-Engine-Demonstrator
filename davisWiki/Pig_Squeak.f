@@ -1,0 +1,6 @@
+
+
+
+Pig Squeak (Bergenia cordifolia), also known as Bay Doll, is a clumpforming herbaceous perennial with large, cabbagelike leaves and red stems of pink flowers that bloom in spring and often, again in fall.  It features large rosettes of leathery, glossy, toothed, rounded, dark green leaves (to 10 long by 8 wide) which are heartshaped at the base, resulting in its monniker, heart leaved bergenia. Leaves typically form a thick, slowlyspreading clump of foliage to 12 tall, which turns purplishbronze in winter. Small dark pink flowers in dense panicles appear within or above the foliage on stout stalks to 16 tall around April. The common name pig squeak was conferred because of the noise produced by rubbing a leaf between thumb and finger. A member of the  Saxifragaceae family, it is native to Siberia & Mongolia. In our Davis weather climate, bergenia prefers partial to deep shade and moderate moisture ; the plant is tolerant of a wide range of soils, but prefers moist, humusy ones. A Davis evergreen, bergenia spreads very slowly in dry areas by rhizomes and can be divided annually to propagate. Look in the courtyard of the Plant and Environmental Sciences Building Pez Building to find these growing along a deeply shaded wall as well as in areas receiving about half a day of full sun.
+
+To learn more about plants found growing in Davis, visit our Town Flora.

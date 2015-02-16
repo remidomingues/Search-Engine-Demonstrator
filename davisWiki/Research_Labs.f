@@ -1,0 +1,2 @@
+The following is a (not at all complete) list of research labs on the UC Davis campus that might be useful to people looking for someone knowledgeable about a specific topic, or for someone in a specific field to collaborate with.  Please include name of lab, location(s), focus of research, and contact info.  (Suggest arranging these by area of research.  Might also include research organizations off campus but still in Davis.)
+

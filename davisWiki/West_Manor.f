@@ -1,0 +1,1 @@
+West Manor is one of two neighborhoods in Davis developed by Stanley Davis Homes in the seventies, and it includes West Manor Park. Most of the streets are names of rivers, such as Seine Avenue. The other development is Davis Manor in East Davis, developed in the 1960 60s and 1970 70s.

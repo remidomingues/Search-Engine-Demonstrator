@@ -1,0 +1,2 @@
+Describe Users/Chelcie here.
+Welcome to the Wiki!  Why did you delete the Renaissance Park Apartments page?  I doubt it was because All the comments on this page are few and far between, since there are 9 comments from this year alone, and over 30 total.  Even if they are few and far between, how does that make the comments any less useful?  And even if the comments arent useful, why delete the entire page? Users/TomGarberson

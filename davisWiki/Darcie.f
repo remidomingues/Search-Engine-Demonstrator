@@ -1,0 +1,4 @@
+Im Darcie. I... dont really have much else to say. Im probably not going to edit much. Wiki markup phobia! I can do BBCode so I can do this, right?
+
+
+Welcome to the Wiki Howdy, Darcie, and Welcome to the Wiki!   Thanks for your comment on Peoples Republic of Davis/Talk the PRD Talk Entry... it would be great if you could just add your experiences directly to the Peoples Republic of Davis entry itself.  If you have something to add, just go ahead and edit the entry itself  thats the only way anything on the wiki is ever written!  Dont worry about messing up the entry, or if people will think it is interesting enough; it is yours to edit, and we need people like you who know neat little details to add perspectives that other people dont know and thus cant add.  In short, be bold!  We want to hear what you can add to the wiki! Users/JabberWokky Evan JabberWokky Edwards

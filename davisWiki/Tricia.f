@@ -1,0 +1,1 @@
+Tricia has been providing excellent service in Davis since 1995.  Located inside Davids haircutting, she offers precision haircutting and expert coloring and highlighting services.  Call today for an appointment, youll be glad you did.

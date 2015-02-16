@@ -1,0 +1,4 @@
+
+NeighborWoods is a program, dedicated to helping communities restore tree canopy, of the http://actrees.org/site/index.php Alliance For Community Trees, whose motto is, aptly enough, Tree by Tree, Street by Street.
+
+NeighborWoods programs aim to improve both the environment and the social fabric of neighborhoods, through tree planting and community involvement. In Davis, Tree Davis and the http://cityofdavis.org/pgs/parksmgt/ Parks and Urban Forest Management Department of the City of Davis work together to locate neighborhoods where the urban forest canopy needs improvement, then selects sites for planting or replanting. Local residents, volunteers, and Tree Davis staff join together to deliver trees, dig holes, plant the trees, and place stakes, in a very handson project to renew and maintain the wonderful urban forest of Davis.

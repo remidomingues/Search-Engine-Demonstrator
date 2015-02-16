@@ -1,0 +1,3 @@
+Liz Hummer grew up in Davis from 1985 until 2000, when she moved to Portland to attend Lewis & Clark College http://www.lclark.edu. She went to St. James, played AYSO soccer, took classes at the Art Center, attended Morning Star summer day camps, and rode her bike everywhere. Although she went to Loretto High School in Sacramento, she spent most of her teenage time in Davis, working at Steves Pizza and hanging out with Mari Matoba.
+
+She still lives in Portland, where she was the editor at PDX Magazine and then LivePDX http://www.livepdx.com. Shes now a freelance editor and writer who is, amazingly enough, planning to move back to California  San Francisco. Find her on http://www.facebook.com/lizhummer and http://www.twitter.com/lizhummer.

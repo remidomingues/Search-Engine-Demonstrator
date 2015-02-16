@@ -1,0 +1,1 @@
+A City of Davis Special Election was held on Tuesday, Nov. 3, 2009. The only item on the ballot was /Measure P Measure P, a referendum on a new housing development near Wildhorse.  25.3% voted for Measure P and 74.7% voted against, a 49.4 point margin of defeat.

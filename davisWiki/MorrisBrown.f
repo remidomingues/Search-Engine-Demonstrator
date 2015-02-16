@@ -1,0 +1,2 @@
+
+20071008 19:05:12 nbsp Howdy, Morris, and welcome to the wiki!  The text you posted was very illuminating, and Id highly suggest that you post a link to it.  You could also quote it as part of a comment of yours.  Theres also the possibility that it is from a forum that is Creative Commons, but I doubt it. Actually, it might be, so Im reverting it back.  If it isnt, just put an intro around it and you can quote it all you want.  :)  Welcome! Users/JabberWokky

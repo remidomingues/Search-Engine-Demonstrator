@@ -1,0 +1,7 @@
+
+
+Sweet Woodruff (Galium odoratum) is a delicate woodland perennial that has an upright growth habit and pretty star shaped leaf structure  technically referred to as whorls. Like most woodland flowers, Sweet Woodruff prefers dappled shade, regular moisture, and humusy, slightly acid soil. A low spreading plant, Sweet Woodruff grows to about sixinches and makes a nice groundcover for areas that get little or no foot traffic, and bloom with small clusters of white flowers in late Weather spring and early summer. It is moderately fast growing, easily established, and seldom bothered by pest or disease.
+
+While growing, the plant has little odor, but when dried, has a distinctive aroma of freshcut hay, which lasts for years. Paired with insect repellent properties, Sweet Woodruff is an ideal closet freshener. Historically, Galium has been used as an herbal remedy for a variety of ailments, including liver problems, jaundice, stomachaches, and as a poultice to promote healing. Today, the Food and Drug Administration considers it only safe when taken in an Alcohol alcoholic beverage bummer, so its traditional use as an herb in May Wine is still okay; this traditional German drink is simply a bottle of white Rhine wine steeped overnight with a few crushed Galium leaves. Woodruff is also said to be a natural plant dye, producing a light brown dye from the leaves, and a light red from the roots.
+
+For a list of other plants found growing within Davis, please visit our Town Flora page.

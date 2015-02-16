@@ -1,0 +1,5 @@
+Monday Night Rehearsals, or as they are more commonly called, MNRs, are when the California Aggie Marching BandUh, also called the Aggie Band, practise all the kickass songs they play. These rehearsals usually happen in the ARC ballroom on Monday Nights, from 7 to 9pm. On occasion, the Banduh can also be spotted in the ARC Pavilion when the ballroom is requisitioned for stuffy conferences or the odd dance party. In lieu of weekly MNRs over the summer, the Banduh instead tracks its merry way to the north lawn of the Rec Pool/Rec Pool Lodge for a biweekly Jamuh on every other Monday night.
+
+The standard used to be to show up to one if you wanted to join the Banduh, but with a revamped new members process, interested parties should instead contact the current Assistant Manager (otherwise known as the Staleburger, Collector of Late Souls and Delicious Meals) at asstmanagercamb@campusrec.ucdavis.edu
+
+(Besides, the California Aggie Marching BandUh Aggie Band is way cooler than the Aggie Pack, since they travel to places. Like Texas. Or Washington. Or South Dakota, Hawaii, Utah, or Las Vegas.)

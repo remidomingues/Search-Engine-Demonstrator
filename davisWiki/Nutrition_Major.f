@@ -1,0 +1,5 @@
+UC Davis offers two majors in Nutrition: Clinical Nutrition (formerly known as Dietetics) and Nutrition Science. Both majors have the same core of basic classes, but Clinical Nutrition students take additional classes in food service management, medical nutrition therapy, and communication, to prepare them for working as a registered dietitian. Nutritional Science majors, on the other hand, can choose an emphasis in nutritional biochemistry, which requires additional coursework in biochemistry, genetics, microbiology, physiology, immunology or toxicology, or can choose a community nutrition emphasis which requires additional coursework in the social sciences. Also available are minors in Community Nutrition, Nutrition Science, Food Service Management, and Nutrition and Food.
+
+For those interested in nutrition, but not interested enough to major in it, there is Nutrition 10, the largest nutrition class in the country.
+
+The Department of Nutrition Nutrition Department is located on the third floor of Meyer Hall.

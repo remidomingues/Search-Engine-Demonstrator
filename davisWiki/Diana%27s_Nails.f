@@ -1,0 +1,80 @@
+
+
+  Manicure $10
+  Acrylic & Fiberglass
+  Pink & White
+  Gel
+  Silk Wrap
+  Spa Pedicure & Manicure $25
+  Special Spa Pedicure $18
+  Solar Nail
+  Color Powder
+  Color Tip
+  ICE MASK for Legs
+  Callus Remover $5
+  Color Tip
+
+
+
+  To learn about other businesses in Davis that provide professional aesthetic services, visit our Beauty Salons and Barber Shops page.
+
+
+
+20060426 11:52:16 nbsp My sister and I are cheap, and found Dianas and Davis nails to have the best mani/pedi deals.  The ladies at Dianas were friendly, and we were satisfied with our results.  Some girls came in while we were getting our treatments, and they needed a color change on their nails.  The manicurists said it would be a few minutes (cause they only had two on staff) and the girls STORMED out about 2 minutes later.  So, short staffed may be possible, but the quality is just fine. Users/JenniferLaFever
+
+20061231 10:58:31 nbsp This place is an awesome find. I know that it may be hard for some to over look the appearance of the salon, but believe me, they do the best mani/pedis in Davis especially for the prices they charge. There are only two ladies, but they are both incredibly nice. They dont speak much english, but they get the job done.  Overall, this place may look a little run down, but their work is the best in Davis. Users/AmyTran
+
+20070120 16:48:47 nbsp They did a decent job on my fingernails, but my toenails left much to be desired.  They slop on the polish, one coat after another, with no drying time in between, so it takes FOREVER to dry that thick layer of wet paint.  I sat in the dryer for 20 minutes, babied my toes on the way home, and they still messed up.  Also, grossnot clean at all.  I watched her clean the bath after I was done, and all she did was rinse the tub with water and scrub it a little with a tiny brush.  I would want at least some bleach or ajax between customers.  Gross.  I wondered if their instruments or pumice they used were cleaned in the same fashion.  Yuck.  Not sanitary at all.  It may be a good deal, but you get what you pay for. Users/LeslieCooper
+
+20070126 14:21:36 nbsp this is my favorite spot to get my pedicures. Just that my feet super hurt after they are done, but i think they are supposed to hurt or they didnt do a good job. I wonder about the instruments they use since someone pointed out to me that they never see them open a new bag of anything.  I love the staff though because they know me and are very friendly now. They do an excellent job with pedicures. I dont like the manicures though, the nail polish chips just like that...guess its to make u come back and pay for them again. love this place though over other ones in davis. Users/KimberlyMiller
+
+20070131 10:25:08 nbsp This is the only place Ill come for a pedicure.  Other places are either too rough or too superficial (2K Nails in South Davis).  They do an awesome foot massage (most other places are too short and superficial).  And their nail design is awesome.  Well, it actually depends on who you have, but the last time I went, one of the pedicurists did a beautiful design job, much more intricate than Ive ever had.  They dont speak much english, but theyre really nice and do an awesome job. Users/AndreaPasiliao
+
+20070131 12:27:16 nbsp I used to get my nails done here because it was pretty much the cheapest place in town and they did a good job. Then I went in a couple months ago and it was horrible; they cut my cuticles so close that I bled and had scabs for a week and a half. I told her it hurt but she didnt respond and kept going. I understand that when youre cutting cuticles, bleeding can happen, but it seemed excessive. Also, as others have noted, they dont seem to take cleanliness as seriously as other places. I wont be going back.  Users/ElleWeber
+
+20070213 19:11:40 nbsp I loved going to Dianas, as my first experience here I must say, not only were the prices very reasonable, the ladies know what they are doing and were very willing to make sure they did everything I wanted.  My nails look great and the mani/pedi treatment was so relaxing, they took their time to give a massage and do a good job!!! I definitely reccommend Dianas nails. Users/JessicaSouza
+
+20070401 22:13:19 nbsp When me and my roomate went we actually bonded over the pain of the manicure. The nail lady kept knicking our cuticles with the drill thing they use so the nails will stick. It was horrible! we definately havent gone back.  Users/KirstenHaney
+
+20070719 21:28:35 nbsp I like the remoldel of the shop it is nice it has 4 spas now new tiles and door it looks better now and they do good job i only want the owner to do my nails because shes more experienced and it is funny some men now come in and do there nails  Users/Han
+    Note: The above comment was left by an associate of the store (either an owner or employee).
+
+20070723 11:01:50 nbsp not sanitary AT ALL. while was getting a pedicure, the woman was using the SAME instruments for the girl getting a pedicure next to me. obviously not even rinsing them in between. GROSS. sorry for those of you who dont know you can get fungus infections of the nails that way. never will go back. Users/lk
+
+20071117 23:09:58 nbsp I took these comments into consideration, and it is an understatement to say I was VERY unhappy with this place. Dont bother making an appointment, because they got to me on time, but there were only 3 girls working, and one walk in said she was in a rush, and I was put aside and 2 of the 3 people working there got going on her. They had started on my nails, so I couldnt just walk out, and I ended up waiting for an HOUR. The lady next to me kept telling the girl she was hurting her, and she replied oh it just tickles and kept hurting her! On top of that, I realized they were using the same tools on BOTH of us. ew. and the manager tripped and broke glass and just left it there! and they expected me to walk around barefoot??? I think not. and a random family member was sleeping on their couch and was SNORING like crazy. Let me assure you, I will never be going there again, and I am really not a hater or anything, but I honestly think this place could be shut down by the Health Board it was just that bad. Just go somewhere else. Users/heythere
+
+20071203 22:16:31 nbsp The last time I went there was while ago (not going back), but I totally agree with the last two comments made. They do not sanitize their tools, and when they are busy they do not sanitize the foot basin between customers! I also saw another worker simply rinse off used tools with water and then put them back on a tray for future use. This is not how it is done. It is supposed to be sanitized in a proper way to kill off fungus and bacteria. And when you get your nails infected with fungus....its gross and it never goes away unless you take this Rx from your doctor that can damage your liver. Some people simply cannot take it, so have to live with the fungus forever. Yuck. I know that this place is cheap, but please do not take a chance here. Users/RDN
+
+20080324 22:39:55 nbsp If you have any complaints, just wait for the owner. She is really nice and really good. Some of the other ladies are new so they do not do as good of a job but I would not go as far to say the place is bad. This is a vietnamese familyrun nail salon. Come on...
+I am a dude and i have a good time. plus... they gave me some good oranges :)
+  Users/albertvo
+
+20080424 16:32:09 nbsp I went here after reading some of the reviews below because I needed a last minute, quick pedicure.  It really is a great deal for what they charge.  The pedicure is kind of no frills  I dont get them often & so I really appreciate the foot massage some places give  but they were detailed & attentive & did a good job. Users/Dora5
+
+20080501 11:34:30 nbsp They are terrible, I wet there two times in a row and the lady didnt understand what I wanted, I got my nails done wrong both times. Some may think its not a big deal but its like making a 50$ purchase and it is broken and you cant return it. Seriously...if you  cant speak english move back to where you came from. Users/Kry
+
+20080609 18:29:30 nbsp Okay, after reading the comments above, if you notice that a salon doesnt sanitize their tools...DONT GO THERE!!! I know its cheap but its not worth getting fungus because youre going to have to go to the doctor and pay for your medications in the long run. How much will it save you then? What disgusted me the most is that they dont sanitize their chairs...which is a big NO NO because the thing that makes the water feel like a jacuzzi on your feet are propellers in the chair. The covers on the propellers have to be screwed off and cleaned and scrubbed because peoples dead skin and nasty fungus gets in there so you HAVE to manually open it and clean it or else its just a collection of peoples nasty feet in that propeller which will be released into the water when the next customer comes. How do I know this? I work at a nail salon...Im Vietnamese..so you guys know whats up. haha If the state board comes, they can be charged about $1000 per chair for not getting it sanitized. So please be careful ladies and gents when you go and get your feet/hands done.   Users/vietgirlwithappetite
+
+20080823 13:17:09 nbsp Do not have your nails done at this salon!!!! They have terrible service. I went to Dianas nail salon to have a full set of acrylic nails put on and I stated so as I walked through the door. The woman who did my nails put fiber glass on my nails after I had asked for acrylic, and I stressed to her that I had asked for acrylic and she got very upset. She was so upset that she ended up cutting me with a nail file and then blamed it on me!!! I felt like leaving but I didnt want to be rude. I stayed and endured the AWFUL treatment she kept blabbing about how she had been doing nails for 20 something years, and how it was my fault that she cut me! Please dont go to this nail salon!! Users/AndreaG
+
+20090413 09:10:58 nbsp I dont know how this man is related to the business, however he was running the shop during my visit there. He was entirely morally offensive. He made his daughter cry while my friend and I were in the shop, and was making obscene comments about weight. I wouldnt give these people my money. Users/bluemoon
+
+20090623 13:07:08 nbsp Horrible service! went there for the first time on 06/19/2009 for a spa pedi and mani, and was not happy! My finger cuticles bled, and my toes are sore til this day!!! Might be cheap, but not worth it!!!  Users/DeborahZ
+
+20090815 12:24:25 nbsp I went here for a couple of years, and it has gotten dirtier and dirtier, and the staffings sporadic.  Went in at opening today and they couldnt take me for an hour, so I tried Davis Nails in the Marketplace.  About the same cost, neat as a pin, with about eight people working.  Got a better pedicure, too.  Ill never go back to Dianas. Users/Lani
+
+20090830 16:32:14 nbsp I wish I could give this place a good review but it was seriously awful. They are seriously understaffed. They had about 8 people in there at one time and were telling everyone they could get done. It was absurd. I waited about 45 minutes before they started on me, and when they eventually did they were super sloppy. This is a REALLY bad manicure. And all their nail polish is super old and thick.  They were nice but do not EVER go here. Users/christinag
+
+20100316 22:24:47 nbsp DO NOT GO GET YOUR EYEBROWS DONE HERE!!! I went today and had my eyebrows done by an older lady with glasses and she cut my eyebrows shorter on one side than the other on the inside. After I paid $8, I went and looked in the mirror and noticed this mistake, not only that, but she left soooo many strays that she could have very easily plucked out. Some were really long and there is no excuse why she did not remove these. I was so angry at the poor job she did, when I showed her how she had messed up, all she could do was say sorry and offer me back $2 dollars, but I told her to give me all my money back and she did. I am never, EVER going there again!! Users/eliba0107
+
+20100614 16:13:08 nbsp This place is HORRIBLE!  I made an appointment, arrived 15 minutes early, and was forced to wait a half an hour behind a walkin. PAINFUL full set of nails! PLUS they are TERRIBLE! They are not smooth at all! There are some places where the acrylic is lumpy and has bubbles or gaps. PLUS they post $20 but charged me $25! ABSOLUTELY TERRIBLE!! AVOID!  AVOID!  AVOID!! Users/redbike
+
+20110521 21:58:50 nbsp This is my favorite nail salon in Davis. Ive been testing out different salons over the past few years, and this is where I get the most consistent results. The $25 mani/pedi is a great deal and I think you do get what you pay for. I agree with previous comments that this place is seriously understaffed, but I think they do the best they can as far as hiring people goes. Overall experience (Ive gone about 5 times) A, only real complaint being the understaffing. The nails (toes and fingers) are great. Users/JennyAnnMcAllister
+
+20120708 22:15:24 nbsp I love this place! The $25 mani pedi deal is a great one. As per the comment that they dont clean the jets, thats incorrect. Right after my mani/pedi was done, I saw one of the girls get down on her knees and take those apart and scrub them out as well as the rest of the spa. Yes they are understaffed but their service is great when they are working on you. I can walk in there with terrible refuge looking nails and cuticles and walk out with them looking pristine.They definitely know what they are doing, hence why theyve been in business so long. Users/KathrynAzarvand
+
+20130724 00:45:31 nbsp I came to this nail salon because there was a sign saying New Owner, Newly Remodel. This nail salon is so unprofessional and unsanitary. 3 people was doing my pedicure out of order, they didnt finish the client they was working with but they jump around to customer without washing their hands. (unsanitary).  Ive also received a gift certificate from my friend but when I brought in the gift certificate the owner did not accept it. The purpose of my visit was to come and relax but I couldnt because there was children screaming, yelling, and slamming the doors. The lady I believe is named Wendy didnt even know how to speak English properly she just say water she was absolutely disrespectful. What kind of business is this? Horrible service, I am totally NOT coming back here again !  Users/AlissaSmith
+
+20131119 11:53:31 nbsp I feel compelled to post given the unfair review posted by the above poster. I have been a customer of Dianas both before and after the new owner came.  Before, true, it was kind of dirty looking.  Now, it is absolutely not dirty looking; it looks clean, repainted, and new seats. Each of the employees/owners are very sweet and attentive, even giving me a shoulder rub after my pedicure. They cant help it if mothers bring their kids.  And like many nail salons, some of their employees dont speak English. Welcome to the USA. You live in a melting pot. They did a great job, and Im happy to patronize them. Users/DonnieDarko
+
+20140415 21:42:04 nbsp I will honestly say, I love the new Dianas Nails! The new owners did right by repainting, redecorating, and cleaning up what was once a less professional nail salon. Having experiences with the previous owner, despite her good nature, the place did not have the necessary upgrades! I love the people who work there, they are well staffed and take care to do a good job. Not rush or slack on being sanitary and clean!!! CLEAN AND SANITARY is key folks! They have all new furniture, new window treatments, floors are constantly mopped, everything is clean and organized...not dusty or unkept. Please check out the New and Improved Dianas Nails! I appreciate Henrys artistry, Katies welcoming and kind attitude, and Sixs calm demeanor. So relaxing and inviting!!! I would definitely come back and refer people there!  Users/MrsV

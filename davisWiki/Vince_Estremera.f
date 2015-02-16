@@ -1,0 +1,3 @@
+Vince Estremera spent his early years in the ghettos of East Davis. He is an esteemed alumnus of Birch Lane School and Holmes Junior High School. At Birch Lane School he was friends with fellow eastsiders Users/JimSchwab Jimmy Schwab, Users/OrlandoOlanio Orlando Olanio, and Billy Bostock (Rest in peace Billy). T
+
+Vince can now be found in the east bay City of Livermore, still keeping to his eastside roots. He can be found with a variety of strippers, pimps, drug dealers and Puerto Ricans. He occasionally makes an appearance in Davis to vist his grandmother or visit his old friend Users/JimSchwab Jimmy Schwab.

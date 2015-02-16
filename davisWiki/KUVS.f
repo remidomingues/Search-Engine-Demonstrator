@@ -1,0 +1,4 @@
+
+One of the area Media television stations, licensed to Modesto, California.  KUVS is the highestrated Spanish language television station in the Sacramento region, and is owned and operated by the Univision network.  As such, KUVS viewers will see exactly what Univision wants them to see.  Additionally, the station is coowned with KTFK Telefutura 64, and the two stations operate from the same building.
+
+Univision network programming makes up most of the stations broadcast day.  KUVS produces a local newscast, but it airs only at 6:00 PM and 11:00 PM.  Among Univision network programs are Despierta América, a morning news program; Sábado Gigante, an oldschool variety show, and excellent coverage of the FIFA World Cup soccer tournament.  (Lets face itthe Spanishspeaking announcers are way more entertaining than their Englishspeaking counterparts.)

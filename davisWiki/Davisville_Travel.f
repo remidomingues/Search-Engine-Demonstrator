@@ -1,0 +1,16 @@
+
+
+Davisville Travel proudly displays zebra butt in their window. Go check it out.
+
+They frequently participate in ArtAbout with receptions for the artwork (mostly paintings) displayed within.
+
+
+20060322 14:23:15 nbsp I had to book a trip to england/scotland recently, they got me out the day I wanted, into the city we wanted (Manchester) out of the city we wanted (London), with the layover we wanted (NYC),  for about 300 dollars less than the travel sites.  This took aproximately 30 minutes. Hightly recommended. Users/CharlesGeorge
+
+20120628 19:11:53 nbsp I came into Davisville to book a lastminute vacation to Hawaii not too long ago.  I had never been before and didnt really know what I wanted to do.  Nancy was extremely knowledgeable and helpful.  She knew the right questions to ask to sort out the perfect destination for me and my wife (Maui).  Doing it lastminute wasnt a problem; she was able to set us up with a flight and a great place to stay.  She offered several pricing options to make sure we were able to get something we wanted within our budget.  We wound up with a package consisting of flights at relatively good times of day, an extremely nice ocean view condo, and a rental car for a price comparable to what we wouldve paid through Orbitz or Expedia or whatever.  Two days later, we got a packet with an itinerary and our travel documents and everything in the mail.
+
+This was the first time I used a travel agent, and Im glad I did.  I wouldnt have had any idea where to go in Hawaii, but we wound up with an absolutely fantastic vacation.  It took all of about 45 minutes at their office, compared to the many hours I wouldve no doubt spent trying to research destinations and hotels and whatnot from home at the last minute.
+
+I only have one negative comment, and its about one of their partner agencies.  Nancy used Pleasant Vacations, the largest travel agency in Hawaii, to put together my travel package.  As I said, for the most part it was excellent.  The packet of documents I got included vouchers for an island orientation breakfast the day after our arrival, though.  We were naive enough to go.  It turned out to have nothing whatsoever to do with orienting you to the island; instead, it was a 2hour sales pitch by Pleasant Vacations for various tours and whatnot on the island.  The lady said at the start of her talk that it would be 30 minutes, but that was a load.  At the end, reps for various tours that were pitched came around to talk to everyone, along with a couple of extraordinarily pushy timeshare salesmen.  We actually did end up booking two things through them: a luau (which we were going to do anyway) and a bus tour to Hana, which we planned to visit and decided it would be nice not to have to make the 5hour drive ourselves.  The bus tour was nice.  The luau, we discovered soon after leaving, has a reputation for being the worst luau and the worst food on the island.  We promptly cancelled it and booked a different one through our hotels concierge.
+
+Anyway, long story short: Davisville Travel is great.  Nancy is great.  Just dont buy into the sales pitch gimmicks that some of the partner companies might try and pull at your destination. Users/TomGarberson

@@ -1,0 +1,1 @@
+Managerial Economics is the fourth most popular majors major at UC Davis UC Davis with 5% of 200607 grads receiving degrees in the field FootNote(http://facts.ucdavis.edu/largest_undergraduate_majors_by_degrees_conferred.lasso).  Managerial Economics is the closest thing to a business major that UC Davis offers.

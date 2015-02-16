@@ -1,0 +1,1 @@
+The UC Davis Alumni Chorus is comprised of former members of the UC Davis University Chorus and have since graduated or left Davis.  Once a year, the Alumni Chorus is invited back to campus to sing a large choral work with the University Chorus.  The winter 2008 concert was Brahms Requiem.  The upcoming winter 2009 concert will be Mendelssohns Elijah.

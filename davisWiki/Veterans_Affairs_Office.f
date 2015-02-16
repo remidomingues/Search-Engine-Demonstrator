@@ -1,0 +1,6 @@
+
+The Veterans Affairs Office is for veterans, reservists or dependents of a disabled or deceased veteran.  They will help qualified veterans apply and receive their Montgomery G.I. Bill benefits.  Students must have copies of their DD240 ready to begin the process.  Beginning 2009/2010 academic year, veterans can decide if they want to participate in wiki:wikipedia:MGIB Chapter 30 or Chapter 33 (wiki:wikipedia:Post9/11 Veterans Educational Assistance Act of 2008 Post 9/11 MGIB bill) benefits.
+
+With respect to Chapter 33, 2009 Basic Allowance for Housing in Davis (ZIP Codes ZIP Code 95616) was stated to be $1716 a month at E5 with dependentsFootnote(http://www.defensetravel.dod.mil/perdiem/bah.html).  In addition, the maximum instate tuition & fees payable for California was preliminarily stated to be $6,586.54 per term for public institutionsFootnote(http://www.gibill.va.gov/GI_Bill_Info/CH33/Tuition_and_fees.htm).  See MGIB http://www.gibill.va.gov/GI_Bill_Info/benefits.htm benefits website for more details.
+
+Furthermore, students must go through this office to certify classes and attendance in order to continue receiving benefits.  This office is also helpful in finding workstudy programs with Veterans Affairs and networking with other veterans.

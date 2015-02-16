@@ -1,0 +1,19 @@
+So what is important to know about cabs?
+
+If a cab lacks a meter, thats a problem. If a cabs meter is not sealed, this is a problem. If a driver intentionally takes an circuitous route? That is a problem. These are basic problems I expect cabs not to have. Noting that they dont have these problems is like noting that Charles Bamforth is pottytrained. Its a good assumption to make by default and I dont want to read about it unless it proves not to be true. I personally dont care if a cab has paid the SMF shakedown fee and has a transponder. Should I care about other things? What information should be on a page about a cab? Users/WilliamLewis
+
+Meter
+Meters are set to a particular rate or mutiple rates and sealed by wire and soft metal bearing the stamp that was assigned to the taxi meter technician .  The Yolo County Weights and Measures section of the Department of Agriculture road tests and provides a certification stamp for each new taxicab that is added to a fleet.  If the taxicab has been certified by another county Yolo County may just look at the meter and issue certification without road testing it.  The certification stamps are issued yearly.  Taxicabs are tested and recertified yearly. Users/BruceHansen Art
+
+Non Metered
+In recent years it became legal for taxicabs to optionally operate with an odometer instead of a meter.  The odometer must be certified similar to that for a meter.
+
+
+20110919 01:21:03 nbsp well as far as I know cabs need to be registered commercially (it will be number letter and the rest numbers on the license plate) and they need to have commercial insurance for all the drivers, it the meter needs to be inspected and sealed by county weights and measures, and the company has to have business license. If you want to go to the airport you get a sticker with a number and a transponder. Cabs have to have clear signage on them with a fictitious business name and phone number visible. etc etc Users/StevenDaubert
+  I could very easily be wrong here, but I think I understood from talking about this with Josh that you dont need anything to go to the airport, you just need something to wait and pick up fares there.  I.e., you can take somebody from Davis there without having to get anything from the airport.  Any cab driver who says otherwise is almost certainly correct.  Im not at all familiar with the regulations, it was a very minor bit of conversation at the Wiki BBQ. jw
+ Pretty sure to do anything at the airport you have to pay them for the sticker or be in violation, I remember back in the day a cab got stung by Sac Sheriff or something for drop off at airport without permit Daubert
+      As I say, its an uncertain memory of a minor aspect of a conversation.  David Placencia pointed out that much of this would probably make for a good new entry, and after all this discussion and guessing, Im inclined to agree.  Its perfectly appropriate to document the cab regulations of Davis on the Davis Wiki, so perhaps instead of tagging all the cab companies with awkward and growing information, it might make sense to create something with the specifics of the regulation information and create a table like pizza has. jw
+      Or, to say the same thing in better words: Perhaps a dedicated entry that demystifies the regulations and lays out what exists in Davis (both the regulations and how the local cab services are filed) makes more sense than trying to put info and a full explanation on each individual entry. jw
+        A good start is Davids explanation http://daviswiki.org/Village_Cab/Talk?actionrecall&version420 here. Im setting up a server; if this is still undone in a couple hours, Ill do it. jw
+Ive wanted to do Cab Etiquette geared for companies, that way riders know what to look for etc Daubert
+   Bruce promised to expand Taxi etiquette, never completed it. jw

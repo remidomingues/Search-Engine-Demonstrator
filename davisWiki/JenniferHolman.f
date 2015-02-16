@@ -1,0 +1,6 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+20091122 12:00:08 nbsp There is a reason that the comments are in chronological order.  The {{{comments}}} macro we use to do a comment bar appends comments to the end of a page. It really is impractical to have the comment macro insert newer comments up below the comment bar. What will happen now that youve reordered the comments and someone else comes along and uses the comment bar is that the comment will be placed at the end of the page and the comments wont be in any kind of chronological order. I recommend, then, that you http://daviswiki.org/Merryhill_School?actionrevert&version38 put the page back as it was. Users/WilliamLewis
+
+20091122 20:43:00 nbsp I agree with William and in fact came here to tell you that.  Though youre right that there are two ways in which comments can be read, and each has its benefits (and if you asked a bunch of people which theyd prefer, youd get different answers).  In the end the current wiki macro only supports a single model: oldestfirst.  So Im going to go ahead and revert your change before someone else adds a comment throwing things further out of wack. Users/WesHardaker

@@ -1,0 +1,1 @@
+#redirect Namaste Nepal Restaurant

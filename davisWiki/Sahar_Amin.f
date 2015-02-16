@@ -1,0 +1,4 @@
+Sahar Amin is a 4th year international relations major from Tracy and is running for ASUCD Senate with LEAD in the Fall 2007 ASUCD Election. For three years she has been the publicity chair for the Afghan Student Association, which organizes Afghan Awareness Week. She is also a current member of the ASUCD External Affairs Commission and a former volunteer for the ASUCD Elections Committee. She is also active with the Muslim Student Association.
+
+One of her http://ucdavis.facebook.com/group.php?gid4883443531&refnf facebook group administrators is James Schwab a former campaign manager for LEAD and an alum  a noncurrent student and does not even live in Davis, which, for some, is curious to see in a student government election. Sahar desires to make a change, perhaps because LEAD frequently uses one of Gandhis quotes be the change you wish to see in the world.
+

@@ -1,0 +1,5 @@
+Nicole L. Browner is a fourth year people person and expert in minorities and their endless plight to become equal to the white man, unsuspecting that the white man is trying to become god. She is the Arts Director for the aggie, but is best known for her escapades through the catacombs of the Davis social scene as, Yeah I know that band. She rules 2/3 of davis already, and is stoked to crush all other opinions with her nonbias, all balls column that will rock you in the beginning of the year.
+
+Right now she rides a blue Bicycles Bianchi named Gwenevere. This may be exchanged for a leaf blower, named motorhead
+
+Typical places to find NLB (National League Baseball) are Mishkas, the socalled but greatly feared Balcony B during Sophias shows, Delta of Venus, and in the basement of Freeborn Hall. This is either at the The California Aggie Controversies Aggie or at KDVS doing her show http://kdvs.org/shows/?show2152&titleBro%20Up%20or%20Don\t%20Sho\%20Up&filterfri&backschedule Bro Up or Dont Sho Up under the DJ name and superhero persona Woman King with her cohost xWigglyToughx.

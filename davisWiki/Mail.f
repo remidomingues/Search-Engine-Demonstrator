@@ -1,0 +1,3 @@
+Mail is something you get a lot of from companies but only a little of from friends (percentage wise).  Junk mail is a nuisance but here are some resources for Junk Mail opting out.  Physically sent mail (AKA Snail Mail) likely goes through the Post Office, or possibly a UPS Store, on its way to or from your specific address.  Email likely gets to or from the recipient much more quickly, but somehow youre usually happier when you get physical mail from a friend than Email.  (Unlike spam which is annoying in both the electronic and physical forms though you can at least try to optout of physical Junk Mail).
+
+Postal workers started delivering snail mail to Davis homes in 1941.

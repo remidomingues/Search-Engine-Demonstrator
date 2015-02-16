@@ -1,0 +1,1 @@
+Straloch Road is a road in West Campus intersecting Hopkins Road north of the University Airport and south of Hutchison Drive. Points of interest on Straloch Road include a large feedlot for cows, the Swine Teaching and Research Center, and some viticulture and enology related facilities.

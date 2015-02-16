@@ -1,0 +1,10 @@
+Proposition 37, if passed, will require most storebought foods containing genetically modified organisms to be labeled. Many Davis residents have strong feelings about this issue. A local group worked together to gather signatures in support of the measure at the Davis Farmers Market and the Yolo County Library  Mary L. Stephens Branch Mary Stephens Branch Library When asked to try and sway someone to their side they only had drab misinformed talking points to fall back on.
+
+On one hand, Davis is the birthplace of the commercial GMO, and the town continues to be a key player in the agricultural sciences and their practical applications. On the other hand, a large segment of the Davis population strongly supports organic foods; some of these people have a particular disdain for big GMO corporations, as was evidenced by the local Monsanto protests of 2012.
+
+On October 5, 2012, Huffington Posts Michele Simon criticized UC Davis agricultural researchers for an alleged conflict of interest in regards to their opinions of Prop 37. In particular, she accused professor Kent Bradfords newspaper oped of aping Monsanto talking points while failing to disclose his ties to the GMO giant. FootNote(http://www.huffingtonpost.com/michelesimon/didmonsantowritethiso_b_1936912.html)
+
+
+This proposition is bad because it implies Genetic engineering is bad and needs labeling. There are far greater public health risks than the one in millions who would have a negative reaction (also someone who reacts badly to vitamins in golden rice, still reacts badly to vitamins without the golden rice) SD
+ Im a big fan of golden rice and responsible GMO use in general. But Im concerned about the socalled superweeds. It just seems like they are inevitable within an industry that, by the very nature of capitalism, is concerned more about the profits of here and now than the future. http://www.wired.com/wiredscience/2012/05/newsuperweedevolution/  SM
+  dont get me wrong, big GMO is big business and therefore shady... Its just there is this culture that is steeped in liberal style faux news fear. Labeling frankenfoods just adds overhead and continues the ph34r

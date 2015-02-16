@@ -1,0 +1,3 @@
+Meridian Road is a northsouth road, roughly located between Dixon and Vacaville.  The Meridian refers to its location on the principal meridian for NorCal for the US Public Land Survey.  If you were to travel due south from the road, youd hit the peak of Mt. Diablo, a prominent geological landmark.
+
+All of the land in Davis, and all of the unlettered county roads are placed in one mileish squares (the Earth is curved a little) based on this meridian. This system determined how the federal government granted much of the land in the central valley. (Closer to the coast, the Spanish ranchos had more to do with land ownership.)

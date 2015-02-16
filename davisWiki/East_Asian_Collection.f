@@ -1,0 +1,3 @@
+The East Asian Collection is a planting of trees and shrubs from temperate regions of the largest continent, Asia.  Three deodar cedars, each with a distinct weeping outline, stand guard by an evergreen mound of Ubame oak.   Young specimens of paper mulberry, Korean hackberry, and dawn redwood are growing vigorously here.  A new collection of Asian lilacs adds springtime color and fragrance to this group; additional plantings featuring the Asian ancestors of the cultivated hybrid tea rose are also planned. This garden is a popular place for picnics, with open lawns and lovely views of Lake Spafford. Cherry blossoms and fragrant daphne are standouts in winter and spring, while ginkgo and zelkova trees and ornamental grasses provide beautiful fall color.
+
+

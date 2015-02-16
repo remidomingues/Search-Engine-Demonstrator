@@ -1,0 +1,4 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+Welcome to the Wiki Howdy, Mr. or Ms. Gum, and Welcome to the Wiki!   You might want to check out the importance of using your RealName, so we know who were talking to.  My names Evan, pleased to meet you!  You did some recent edits to Thai Nakorn that were reversed as they removed some community review and comments. You might want to read the Welcome to the Wiki/Business Owner wiki guide for business owners to get a feel for what might be more constructive in the future, even if youre just a fan of theirs and not actually associated with the business itself. Nice reviews on the other entries, but you wouldnt want people deleting them just because they were a bit negative, eh? Users/JabberWokky Evan JabberWokky Edwards

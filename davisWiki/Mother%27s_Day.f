@@ -1,0 +1,3 @@
+Everyone comes from a mother, whether you like it or not.  It you werent alive from your mother youd be unborn.  If you like being alive, call or visit your mother. If she is alive, do it at least every wiki:WikiPedia:Mothers_Day Mothers Day.  If she is dead, make a physical pilgrimage to her grave for a venture dedicated to her memory, and make it something you really dedicate to the woman, not your sorry ass.  Overall, give thanks that she let you experience life.  You might also thank her, with words or prayer, that your life gave you an opportunity to read my words.  Your mom was so cool.
+
+Here in Davis Mothers Day happens on Whole Earth Festival weekend.

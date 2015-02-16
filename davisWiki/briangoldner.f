@@ -1,0 +1,4 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+20080701 17:10:35 nbsp Welcome to the Wiki Howdy, Brian, and Welcome to the Wiki!    My names Evan, pleased to meet you!  Thanks for adding a note about the price of travel in the Bay Area on the Davis Berkeley Shuttle entry, but it would probably be much better if youd just click the Edit icon and simply make the correction directly.  Theres no special class of people who make corrections or edit entries  its up to normal people just like you.  So if you see something that needs to be corrected or updated, just edit it directly and make it correct!   The same goes for anything else on the wiki: this entire site was written by people just like you, and you have the same ability to edit anything here.  Once again, welcome to the wiki! Users/JabberWokky Evan JabberWokky Edwards

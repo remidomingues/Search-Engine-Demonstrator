@@ -1,0 +1,35 @@
+
+
+
+
+||http://www.golyon.com
+
+Lyon is a real estate company handling property management & sales in Sacramento and Davis areas.  They have http://www.golyon.com/about_f.htm multiple offices.
+
+For a listing of other property managers handling accounts in the Davis, please visit our GoLyonPM.com page. Additionally, our Housing Guide can provide helpful information about your landlordtenant relationship.
+
+Lyon Real Estate is ranked the number one brokerage in annual home sales in the Greater Sacramento Region  the Sacramento Business Journal Book of Lists.
+
+
+
+20070517 13:23:56 nbsp Ive rented a property managed by Lyon for going on 2 years and Ive been extremely pleased. The property manager, Mary, is the nicest, hardestworking lady.  She even helped us negotiate down the rent increase that the owners tried to stick us with last year.  Completely changed my perception of property management firms. Users/BillyBudd
+
+20070823 18:02:53 nbsp HORRIBLE! STAY AWAY FROM LYON REAL ESTATE DAVIS.  The agents there are not professional.  Dealt with Lisa Navarro  she lied numerous times and has a smut attitude.  I was there for a simple lease application, and she could not even handle that! She lied about pulling my credit report and still tried to keep the money I paid for her to pull it!   She took 4 days to respond to my message, and that was only after I contacted the branch manager.  She also lied about when my application was received (Handed it on Thursday, and she said that I did not submit it until the following Monday!).  Lisa Navarro does not know how to conduct business in a professional or timely manner.  She told me and my roommate to fill out our application in a certain way and then lied to us as well as her colleagues about it.  She is rarely in the office, which can only mean being a realtor is a hobby or part time job for her. She is more interested in salsa dancing than conducting business! STAY AWAY!  Users/BuildingBuyer
+
+20071020 21:13:35 nbsp Excellent! My name is Lisa Navarro and I have been an agent with Lyon Real Estate for the past eight years.  I am proud of the reputation I and the other Realtors in my office have earned through honesty, integrity and plain old hard work. I also manage rental properties for out of town owners as do many other agents in my office. Some of our applicants are young adults new to independence and securing housing and do not understand how the rental process works. It is my job to ensure that any rental applicant have income sufficient to pay the rent. If an applicant earns less than the rent payment every month, then I have no other choice than to decline their application. Nearly every applicant I have explained this to over the years seemed to understand and thanked me for my time. Unfortunately, the one applicant Ive had in eight years who did not understand and became beligerant and abusive to the point that the receptionist had to threaten to call the police happens to be the same applicant who made the derogatory post about me on this website. While the Davis wiki is a wonderful resource for many things, posts can also be misleading and downright untruthful.
+Lyon Real Estate is an outstanding company.  Stop by our office.  We have binders full of written testimonials from past clients who agree that wed love to show you!  Users/lisanavarro
+
+20090204 16:29:04 nbsp I have worked with Lyon Real Estate both personally and professionally.  I would say that they only look out for themselves.  The agents are not helpful, the properties are not taken care of and they make false accusations.  Only rent or buy if you are desperate. Users/violet45
+
+20090716 17:11:14 nbsp Lyon realty sold our house without telling us my senior year at Davis. Cant say it was a pleasant experience renting from them at all, it quite sucked actually. Users/Air
+
+20090721 13:48:43 nbsp I think its funny how Violet45 made negative comments on three different property managers within five minutes of each other.  Makes me wonder if this person is in the business and is just trying to put down other companies. Shame on you! Lyon in Davis is a fine real estate AND property management company.  They now have a property manager who ROCKS and is really on top of things and takes good care of all of her clients.  Users/Kim13
+
+20100205 12:50:34 nbsp My only experience with this company is when I was supposed to meet Lisa Navarro for a house showing.  Not only did she not show up, but she didnt return two phones calls and a couple of emails afterward.  Probably not representative of either her or the company, but it did happen. Users/Arturgreensward
+
+20100710 11:11:02 nbsp Really, really BAD.  I am selling my home and buying something with property. Cut and dry, right? After contacting Marcelo Campos, I was totally ignored for a solid month,ie missed appointments,not returning phone calls...you get the picture? I have never been treated so poorly. Such unprofessional conduct...Tsk, Tsk, Tsk. P.S. called the broker to complain and she didnt return my call either.
+           Bob Anderson Users/bbanderson
+
+20110729 04:51:37 nbsp Stay clear of renting any property Managed by any Lyon Real Estate Office!  The west Sacramento Office managed a house I was renting  and I can believe just how terrible this company manages properties.  Every complaint I read is here is how I felt too.   A lady named Debbie was my contact and she is the most ignorant, unprofessional, unorganized, deceitful person I have ever met in my life.  The construction workers they hire are all fat and lazy.  They do terrible repair work, buy the cheapest supplies, and take forever to complete a job and never completely finish any job they start.  I did not want them in my house because most of them are excons.  I could not believe that after living there 4 months we still did have blinds, a mailbox, or house address numbers.  Lyon does lie to owners of the properties they manage blaming things on the tenants to cover there errors.  They never give 24 hours notice before banging on your door for something and if you have a girlfriend or brother stay with you for a few days they tell you that person is not on the lease and schedule an inspection to make sure that person does not have items present as if they moved in.  None of units the manage remain rented because everyone hates them.  One guy even put a web camera outside his door to make sure Debbie is not going in his house when he is at work.  She rented to him because he was her friend!  Yeah....her friend until he moved in and found out how she is ......  Owners that hire Lyon to manage their properties and trust this company and don’t check on their properties once in a while..... well they are going to be sick when they see how Lyon spent thousands of dollars on repairs work or renovations on substandard work that was not up to code.
+
+If you rent a Lyon managed property keep records, take notes, and most importantly take pictures all the time so you will have proof to dispute their lies....because they do lie.   Users/tomproctor

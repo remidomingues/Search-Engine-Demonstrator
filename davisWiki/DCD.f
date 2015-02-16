@@ -1,0 +1,1 @@
+#redirect Davis College Democrats

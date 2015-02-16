@@ -1,0 +1,8 @@
+Davis Municipal Code Davis Municipal Code/19 Chapter 19
+ Licenses 
+ 19.02.010 License and tax payment required. 
+
+(a)There are hereby imposed upon the businesses, trades, professions, callings and occupations specified in this ordinance, the business license taxes and registration tax in the amounts hereinafter prescribed. It shall be unlawful for any person to transact and carry on any business, trade, profession, calling or occupation in the city without first having paid the business license tax hereinafter prescribed or without complying with any and all applicable requirements and other provisions of this article. A separate certificate must be obtained for each separate type of business transacted and carried on at the same location and each certificate shall authorize the holder thereof to transact and carry on only the business described and only at the location designated therein; provided, that any person conducting two or more types of businesses at the same location and under the same management, or at different locations, but which businesses use a single set or integrated set of books and records, may, at his or her option, pay only one tax calculated on all gross receipts of the businesses under the schedule that applies to the type of business of such person which requires the highest percentage payment on such gross receipts.
+
+(b)This section shall not be construed to require any person to pay a business license tax or to comply with any other requirement of this chapter prior to doing business within the city if such requirements conflict with applicable statutes of the United States or of the State of California. (Ord. No. 872, § 1; Ord. No. 906, § 1.)
+

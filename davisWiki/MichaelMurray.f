@@ -1,0 +1,1 @@
+Mike Murray was an English major (he graduated most successfully), most notable for his memberships in Birdstrike Theater under the nickname Poison and DRAGON where he plays board games, Dreamers Ball and occasionally runs PARANOIA. No relation to the Coop Exit Advisor of the same name.

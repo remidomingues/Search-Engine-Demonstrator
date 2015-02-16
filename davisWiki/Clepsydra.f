@@ -1,0 +1,7 @@
+
+Clepsydra is a Water Fountains Water Fountain, a clock and a piece of art commissioned for the Art in Public Places program.   It is located in the E Street Plaza in front of BaskinRobbins As the plaque states, Clepsydras are clocks powered by water and were among the first mechanical devices invented to tell time.  It is a great place to get wet, as when you touch the side it instantly spits water at you if youre arm is not aimed downward as you touch it.  Kids will get wet.  And smile.
+
+When it was installed it had cast glass panels encircling the tower. The panels were not able to be cast large enough to be continuous from top to bottom, so the water sheeting down them would hit the seam in the middle, and splash outwards, soaking the bench and surrounding bricks. Because they were bolted on without consideration for thermal expansion, the glass soon cracked and was removed before they fell off.  When you see it now it helps to picture it as it could have been with the water flowing over a column of wavy glass causing a continual sparkle and dance of light. (The artist and the material scientist should be friends  sung to the tune of The farmer and the cowman should be friends)
+
+It should be noted that the water is recycled from the pool below the clock, though there is a water feed to keep it fresh. Additionally, the water is chlorinated (about the level of a swimming pool), for those worried about kids playing in it or dogs taking a drink. On those hot Davis summers, go ahead and give it a big hug.
+

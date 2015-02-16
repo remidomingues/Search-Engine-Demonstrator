@@ -1,0 +1,1 @@
+Former UC Davis Grad Students Grad student and poet. Adjunct English Professors Professor at American River College, a community college in the Los Rios Community College District Los Rios Community College District. Emily also coached for the Davis Aquatic Masters swim team (aka DAM).

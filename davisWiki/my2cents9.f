@@ -1,0 +1,3 @@
+Describe Users/my2cents9 here.
+
+20110907 09:23:19 nbsp Welcome to the Wiki!  One great thing about Davis Wiki is we NPOV dont try to remain objective.  Rather than trying to keep opinion out of entries, the general goal is to bring the communitys opinions into themas many different ones as possible.  So, dont feel a need to remain objective in editing.  Of course, removing opinions contrary to your own would undermine that multipleviewpoint objective, and we try to keep entries from becoming an individuals soapbox for ranting about the subject in a way that overwhelms the rest of the page contents.  Within reason, though, have at it! Users/TomGarberson

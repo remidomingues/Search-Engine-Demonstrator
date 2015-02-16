@@ -1,0 +1,14 @@
+Welcome to the Wiki. Here is a page for the identity debate, if you want to describe who you are, it might be a good idea. Generally people dont care when it is a handle, but people here like to be people, and have a face, a name, and the like. In any case, enjoy the wiki mister Impressed.
+
+
+  Since it seems you are new to the wiki, let me advise you. Creating a second account and posting comments agreeing with yourself is called Sockpuppetry, which is discouraged. NotImpressed or RichMatthew, however you would like to name yourself, choose a single account and make comments, but dont try to create the appearance of a quorum of people in agreement with you  especially when the IP address of the edits is exactly the same. Users/KarlMogel
+20070330 23:52:21 nbsp Guys, just trying to make some informitive commentsbut get slammed for ityes I do have two computers etc and you may compromise my IDthats not Cool Users/NotImpressed
+   NotImpressed, you seem to be trying to dodge the issue by not recognizing what you were doing. Having two computers is not an issue. The issue is purposely creating a second account so that you can create a false appearance of many people in agreement. Somehow, while you are violating wiki ethics and are frustrated over being found out, you are taking it personally that the wiki has a system in place where users can see if two accounts are editing from the same computer? Think of it this way: by signing under two names  you are lying at least once. Trying to cover up with an I have two computers excuse is twice. Keep digging.
+I also find it comical that you are insulting the Davis wiki on the Moller International page as not a true wiki while breaching real wiki ethics.  Users/KarlMogel
+  Do you consider a website knowing your IP address to be compromising your ID, or is there something else that Ive missed in this discussion? The vast majority of web servers maintain logs that include IP addresses.Users/JasonAller
+    To be fair, those logs are the vast majority of the time not available to absolutely anyone on the Internet to access. Users/EdWins ES
+      Not to nitpick, but most wiki and forum software (i.e., most interactive sites) include the IP information, in wikis in the edit logs, and in forums, usually attached to the message.  Even email makes a good attempt to preserve that info.  Generally it is to prevent this short of tomfoolery, since a wiki/forum/communications in general are built on trust.  Users/JabberWokky jw
+  ES, you might want to revise that sentence, it is a bit confusing.. quite negative. ~
+
+20070331 00:53:35 nbsp Well You guys are the experts, but what about the Topic, Ellas does not answer any questions and noticed that all your comments are coming from a central hubare you all the same? Users/NotImpressed
+  Only Ellas can speak for Ellas. Im not sure who you are addressing with the rest of your question, or what you are asking? Users/JasonAller

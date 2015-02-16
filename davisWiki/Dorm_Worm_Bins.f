@@ -1,0 +1,10 @@
+Project Compost Project Compost has a mission to save the world from organic oppression.
+
+They realized that this meant educating students on the UC Davis campus how to compost, no matter their circumstance.  Because most firstyears live in highdensity living arrangements in the dorms, the compost directors came up with a solution: make fullyenclosed worm bins for the Freshmen firstyears to have inside their dorm room! Thus, no space outdoors is necessary to compost.
+
+Users/DerekDowney Derek Downey, the current director of Project Compost, first became fascinated by worm composting while living in the Malcolm Hall Dorm building in 2004.  He most probably was the first student to have a worm bin in his dorm room and has since been dedicated to spreading the good news.  He even started the Project Compost Worm Farm in March of 2006 with the intention of giving all firstyears the opportunity to start their very own worm bin for free.  When Derek started his worm bin, it cost him $25 for the worms, ordered online, and $10 for the plastic bin.  Now, he procured funding through ASUCD to pay for the plastic bins and now has hundreds of thousands of worms to hand out for free (the whole worm farm runs on garbage: the bins are made of scrap wood and the worms are fed compost and coffee grounds).
+
+
+The compost masters called on all Resident Advisors RAs and set up minicompostworkshops or wormshops to teach the firstyears how to start their very own worm bins.
+
+Though Student Housing has a rule against worm bins in the lounges (what the heck?) there is no rule against having a worm bin inside the dorm rooms.  In Fall 2006, more than 15 students from Malcolm Hall started their own dorm worm bins and are feeding their worms: banana peels, apple cores, orange peels, coffee grounds, leftovers, moldy bread, newspaper, and other organic wastes.  By winter, these cool firstyears had their first batch of finished Black Gold (worm castings) which they could use in house plants, gardens, trees, or for educating other students on the amazing opportunity to compost anywhere!

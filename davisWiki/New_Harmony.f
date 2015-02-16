@@ -1,0 +1,1 @@
+New Harmony is a new apartments apartment complex being constructed on the southwest corner of Drummond Avenue and Cowell Boulevard.  Theyre behind the Owendale Community.  Construction is at the stage now where buildings are being framed.

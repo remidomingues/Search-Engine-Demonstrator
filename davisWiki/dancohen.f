@@ -1,0 +1,2 @@
+
+20071111 18:20:55 nbsp Howdy, Dan.  Was Tamar Segev the Vice president back in 0506?  Unless theres a factual error, it would likely be better to keep the info there just for historical reasons.  As the history section grows, it can eventually be moved to a different entry to keep the main one svelte, so theres no real reason to remove information like that unless it is factually incorrect. Users/JabberWokky

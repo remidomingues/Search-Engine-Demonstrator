@@ -1,0 +1,1 @@
+Golda Criddle is a student at UC Davis, double majoring in Film Studies and Communication. During her freshmen and sophomore years she wrote for the campus section of the The California Aggie. She is the current Entertainment Council Campus Cinema Coordinator (20072009). She also works for Student Housing Television. She loves movies, TV, music, writing and having a good time.

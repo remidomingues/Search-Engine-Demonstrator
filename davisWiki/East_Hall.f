@@ -1,0 +1,5 @@
+East Hall was one of the original University Farm campus structures. It was built in 1909 and was located slightly to the east of where Dutton Hall sits today. Its original purpose was to serve as a dining hall for students living in North Hall, and later South Hall South and West Hall West Halls. The Coffee House was established there and occupied the building until 1973, when the building was demolished for being structurally deficient and an earthquake hazard.
+
+The Coffee House years ago used to be over in East Hall (where Dutton Hall is now). It was a great house and purely a coffee house and a place to relax  nothing like the clean, cafeteria feeling of the current Coffee House.  What I remember best is the unending coffee refills and huge freshlymade cookies.  When it moved over to the memorial union it kept its name, but just wasnt the same. The Coffee House continues to change and morph into something different for each generation of students, but the name is still the same.  Interesting.  Users/SharlaDaly
+
+Ref: http://coffeehouse.ucdavis.edu/history.cfm Coffee House history

@@ -1,0 +1,14 @@
+
+Applegate Nursery Schools School  is a NonProfit Organizations nonprofit organization that has been offering a child and family centered preschool program in Davis since 1976. The school offers either morning or afternoon sessions five days a week for children from two through five years old.
+
+To be placed on our waiting list please call the school for a brochure and an application. You can also see photos of the school and download an application at the schools website: http://www.ApplegateNurserySchool.org. There is an application fee of $50 (half of which is refundable if you withdraw your child before being offered a space). The average wait last year for the morning program was 1824 months. The wait for the afternoon program is much shorter. Enrollment for the following fall is done beginning in March but applications are accepted year round. Applications are kept on a list in order of your original application date. Once you have been offered a space, we will schedule a time for you and your child to visit the school before you need to make your final decision.
+If you have any questions, please call us at 7584850 or email us at ANS (at) dcn.org.
+
+
+
+
+
+20110108 15:12:01 nbsp Both of my children attended this amazing preschool and we have nothing but compliments to share.  If you ask almost anyone with children in Davis....they have heard of Applegate and its excellent reputation.  There are three or four top notch preschools in town, and Applegate is most certainly included in this group.  Thats why there is always a wait list!  In fact, our oldest child started at another preschool while we were still on the Applegate wait list.  Im cant describe in words the difference in feeling between the two environments.  The Applegate teachers are experienced, nurturing, and know how to create a happy, playbased environment using years of experience.  You can feel it when you walk into the room!  Though my own children have moved on to Elementary school now (and were certainly well prepared for kindergarten), we miss Applegate tremendously.  Everyone in our family continues to have close friendships with children and parents that we met while at Applegate.  We always wave and yell hi Applegate as we drive by.  My children will forever have fond memories of this exceptional school. Users/JAD
+
+
+20110206 14:02:41 nbsp My daughter attended Applegate preschool and absolutely loved it.  She still comments on what a wonderful experience Applegate was for her. She loved the teachers, the playground and all of the fun activities!  My son starts at Applegate next year, and we cant wait!  The teachers are so wonderful and nurturing—it is a wonderful atmosphere for preschoolers.  As a parent I couldnt ask for a better preschool for my children.  We love Applegate! Users/GoAgs

@@ -1,0 +1,2 @@
+
+Yolo Adult Day Health Center (YADHC) offers families an alternative to nursing home care.  The Center provides a variety of Medical Services medical, cognitive and support services such as nursing, physical/occupational/speech therapy, social work, podiatry, psychiatric care, a meal and valuable socialization for dependent and frail adults.  These services are designed to maximize independence, support caregivers and address the individual goals of each participant served.

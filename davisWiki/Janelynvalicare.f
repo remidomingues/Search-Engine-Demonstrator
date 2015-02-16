@@ -1,0 +1,3 @@
+Describe Users/Janelynvalicare here.
+
+20100822 14:31:34 nbsp Welcome to the Wiki.  Sorry if you feel Duramed is being treated unfairly on their user page.  If you take a look, though, youll notice that a representative of the company has left fake reviews and deleted negative comments on their page.  The Wiki is intended to be a resource for the community, and eliminating negative information or leaving false positive reviews works directly contrary to that purpose.  That said, if you want to help out a companys reputation, your best bet is to start by establishing an identity, which will help lend weight to your words. Users/TomGarberson

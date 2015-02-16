@@ -1,0 +1,4 @@
+Originally from wiki:palosverdes Rancho Palos Verdes, I am now a freshman at UC Davis. Theres not much Id like to add at the moment, but once I become more active on Davis Wiki I will.
+
+
+20081228 13:18:34 nbsp Welcome to the Wiki Howdy, Mr. or Ms. Lute, and Welcome to the Wiki!   You might want to check out the importance of using your RealName, just so we can get to know you (or not: its your choice, but people were pretty friendly here).  Especially since youre setting up a new wiki community  your stance there affects the tone of the growing community.  Either way, my names Evan, pleased to meet you!  Thanks for the link fixes here and all the editing everywhere else.  Youre certainly editing from the start... have you written or edited wikis before? Users/JabberWokky Evan JabberWokky Edwards

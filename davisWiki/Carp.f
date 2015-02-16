@@ -1,0 +1,3 @@
+
+
+Cyprinus carpio more commonly know as European or Common Carp can be found in Lower Putah Creek and the Arboretum creek. They are slow bottom feeding fish that will consume just about anything. They are not strictly benthic feeders and have been known to take a fishermans fly from time to time. Carp can grow fairly large in the Putah Creek drainage and individuals of up to 3 feet are not uncommon. During the heat of the day, you can find carp hiding in the shade of overhanging trees or under bridges. When feeding, they will often disturb sediment causing large plumes to billow to the surface. Other signals include a rush of bubbles to the surface indicating feeding.

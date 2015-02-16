@@ -1,0 +1,1 @@
+Pete Madrone is a resident of Davis. Formerly known as THAT GUY , Pete has a second residence in Minnesota where he spends most of his time. You can find Pete at one of his favorite places: Burgers and Brew , Sushi Nobu or Jade Garden. If you see Pete, give him a hands up and hell probably wave.

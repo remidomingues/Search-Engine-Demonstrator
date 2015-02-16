@@ -1,0 +1,4 @@
+Zorninator can introduce themselves to their neighbors by editing this page.
+
+
+Howdy, Ms. or Mr. Zorninator, and welcome to the wiki!  I noticed that you referenced the licensing issue on the Poolbusters Vanpool entry by referencing the Talk page.  Traditionally on the wiki, the Talk page is deleted once the conversation is finished.  I encourage you to add content like concerns directly to the entry itself, and then, if there is any discussion about that content, then it can occur on the Talk page.  When everybody agrees (or at least finds common ground), the Talk page is deleted.   If somebody else objects to something, it can always be brought back.  Just giving you some tips to help you out  feel free to ask any questions; were a friendly community of people here.   Once again, welcome to the wiki! Users/JabberWokky Evan JabberWokky Edwards, (814) 8898845, jw.dw@timewarp.org

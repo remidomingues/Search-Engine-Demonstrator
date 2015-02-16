@@ -1,0 +1,6 @@
+
+The Davis Figure Drawing Group is a local group dedicated to providing a venue for artists to draw from from live models. It was begun by Jed Alexander in August of 2009 at Natsoulas Gallery. With the help of Chris Beer, the group then moved to Pence Gallery where it continues to have regular sessions on the 2nd and 4th Wednesday of every month from 6:30 to 9:30. The current group administrator is George Grant.
+
+Easels are recommended, but they do provide some tables and chairs. Some people also bring tabletop easels, but at minimum, a drawing board is advised. Most people work about 18x24 but you may work any size you like. Bring whatever dry media you wish to use: graphite, pastels, charcoal, markers and anything else that falls in this category are welcome. Everyone is responsible for bringing their own materials. To spare their carpets, the Pence would prefer that no wet media (oil, acrylic, watercolor) be used. No instruction is provided.
+
+You can join the Meetup site at http://meetup.com/davisfigure to reserve your space, receive news about the group, and to prepay. The cost is $12 per person. If the group is cancelled, your money will be refunded. If you dont wish to pay online, you may also pay in cash or check at each session.

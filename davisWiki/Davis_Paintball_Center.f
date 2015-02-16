@@ -1,0 +1,56 @@
+
+
+
+
+
+
+The Address(Davis Paintball Center, 38.577709, 121.739418) has eight fields right on one of the countys oldest landfills. Games happen every weekend weather rain or shine (although when the delta breeze wind is blowing hard enough to rip the bunkers out of the ground they close). You usually want to get there around opening time so that you can play most of the day. Two fields have large inflatable bunkers (also known as airball) and lots of more experienced people. The daring newbie is always welcome. Watch out because some of the people you are playing with have been playing for a while. The newest field is the hyperball field which consists of large black tubes set up on a small field, its a good field to to play nonrec fields but not quite airballlike skills.  The other fields are more tame.  To the right of the airball field is the center castle field with a large castle dominating the middle of the field, whoever gets to the castle and controls it usually wins the game.   next to that is the newest rec field Berlin which plays like it sounds, tons of builds, a giant castle in the middle, angles you can get shot from, or shoot from everywhere.  Furthest away from the field entrance is the 4 corners field, with a small building in each corner and one large building in the middle of the field. The game plays pretty neat because the field is a square, so often teams end up circling each other try to shoot one another.  Next to 4 corners over the berm is the neatest field called Stalingrad with a very symmetric field with rings that make game very interesting.  Remember you can always request private games with people of your own skill level.
+
+
+Paintball is a surprisingly fun outdoor activities activity for the weekend. Get a group of friends together and adventures head on out. It can be quite pricey however. Occasionally they will be selling Discounts and Freebies discounted tickets on campus,  With one, a day will cost about $2025. Otherwise you are looking at over $35, unless you have your own equipment.  Selfequipped girls can play free, selfequipped guys pay $15.
+
+http://blip.tv/play/g4QsgcjrJwI Watch the Video brought to you by Davis Media Access
+
+
+
+ Those tix that they sell on campus dont really do anything. I was talking to a guy who works there yesterday and he was saying that they hate having to tell you guys that those tix are junk.  Users/BibbleFoshizzle
+
+20081011 17:33:25 nbsp This field is a pretty nice place. The staff in the booth are nonchalant. They just want to finish up transactions. But in my experience, the majority of referees are quite helpful.
+
+For safety, nobody really checks the chronograph, so if you get shot by someone with a hot gun, you should bring it up with a referee. Otherwise, they dont do constant checks or anything, its more honor system than anything else. Which means, you should report hot guns. Masks are always enforced, if you forget to put on your mask or your barrel condom, someone will remind you very quickly that you need to put it on.
+
+The fields are quite nice, I didnt play on the NPPL 7man field that they had, as I went on a Sunday, and the pro  teams were practicing there. However, the rec fields are put together quite nicely. There are a couple of small potholes, but its not a big deal if you watch your step. Then again, you shouldnt be wearing shoes that dont have ankle protection anyways. I only encountered one small pothole while I was playing and it wasnt a big deal because I play in steeltoe boots that have good ankle protection.
+
+Other than that, the field overall is a good field.
+
+ Users/IdealParadigm
+
+20081212 13:24:56 nbsp I played at this field twice and I enjoyed their rec field setup. My favorite one had 4 castles in each corner and 1 castle in the middle. From there we played 4 vs. 1 or every castle against each other. They also have a smaller field with 2 castles for quick elimination games. The rest of the field was setup for speedball and its a hail of paintball launched at each side when you watch the game.  Users/SimonFung
+
+20090303 15:27:36 nbsp those tickets to work if you have to rent all the equipment, if you have your own stuff that dont save you that much money, but with it you are going to save $25. Users/gabe007
+
+20090303 18:05:12 nbsp Davis paintball is an awesome field to play at.  Whether youre a pro or a firsttimer, the field employees will take care of you and youll have an enjoyable experiance.  Its one of the largest fields, ive ever played at with good mix of different kinds of fields.  They recently invested in the highest grade turf ever made for paintball so if airball is your thing, this is the premier field.  They have a ton of recreational fields as well.  Too many to count but i especially like Berlin and stalingrad.
+Also, the field holds big games the first Saturday of every weekend.  They get a turnout of 100 to 200 players and run huge games that span the entire field.  Its an epic experience that any paintball fanatic should not miss out on.
+If youve never played paintball before, this is the place to play.  Its a fun positive atmosphere and everybody is pretty nice and helpful.  The reffs are more than willing to explain anything that youre wondering about and will make sure that youre having a good time.
+Its all that you can ask for in a paintball.  A slice of paradise in the city of Davis. Users/Geebus77
+
+20090413 12:14:16 nbsp played here the last few Saturdays and each day was different for the previous week.  One day they had a pump day where everyone used pump guns.  The owner had extra pump guns so i could play, fun with everyone having a slower rate of fire.  The next Saturday they had a big game with like 100200 people.  The whole filed was used and the games were crazy.  It was so fun, however i did use a lot more paint than i ever have before.  Last weekend was just a regular day (no special things going on), but still had a lot of people and played a lot of games.  Like how the refs always stay on the field, so games are run as fast as the players can reload.  Played more games than i could count at the days end.
+
+Everyone working there is helpful and does whatever they can to help.  Have people out there that you can tell play there a lot,  most of them are extremely helpful.  Great place to play, refs do what they can to separate groups by skill or keep teams as fair as possible.  Also allowed for me to try air ball with other beginners and not have to play against air ball teams. Users/Dumbtape
+
+20100415 13:21:58 nbsp I have lived in Davis for the past few years while attending UCD.  As a college student money is always a big issue in determining if I play, so I always want to make sure I get my money’s worth.  I have my own gear and have played for several years in the bay, Sacramento, even southern California.  Having played at almost every field in northern California I can easily say that this is the best field to play at in northern California for any skill level.  The people at the field work as hard as they can to make sure you get your money’s worth.  Refs help first timers by grouping them with regulars as well as motivating them during the games.  Another big plus for me is that girls with their own gear play free so it is easy to get my gf out to play.  Prices to play are a little cheaper than other places and both the players and refs are always cool people to spend the day with.
+
+If you never played paintball before or play every weekend, this is the field to go to
+ Users/paintball4life
+
+20110705 15:16:01 nbsp We very highly recommend Davis paintball, for both adults and children, competitive or noncompetitive. Our 12 and 10yearold sons have been to paintball camp, played w/singleday course use and have attended birthday parties at Davis Paintball. The size of the multiple fields/courses, the experience, skill and training of the owner/staff (former professional), the convenient location between Davis and Woodland (just 10 minutes off of I5/take the Road 102 exit in Woodland, easy access from Sacramento as well) and the equipment make it a great place, no matter your level of experience. A high degree of attention is placed on safety. Weve never personally had an injury or even heard of one at Davis Paintball.
+
+A few weeks ago, the National Guard was doing a training exercise on one of the fields  there is so much space out there that multiple games/training/competitions can be going on at once in separate areas with great obstacles, etc. to add to the challenge. Refs always do a great job.
+
+Davis Paintball is also an active community supporter and continues to always find ways to give back to our local community schools and organizations. Highly recommend you head on out whenever you get the chance! (Veer left at the first fork in the dirt road, this leads you back to the paintball fields). Shade covers and plenty of picnic benches if you plan to stay and hang out. Users/LynetteEcklund
+
+20111204 03:28:20 nbsp Like most paintball places, this spot attracts a lot of posers and douchebags that cheat by not going out when they should and waste space with their unnecessary equipment (like full body woodsball camo, paintball pistols, and walkie talkies  cmon, bro). The good thing is the refs are chill and will help out newbies. I would not recommend public games if youre a parent taking kids out to play, or beginners looking to play for the first time. Get a group and get the private game package.  Users/WinterIsComing
+
+20120108 18:44:27 nbsp went today with a group of around 20, half kids around 10.  staff was really  good, helping the kids, and after it got crowded gave us our own ref so we could play by ourselves... something they didnt have to do. they were really good about helping everyone with gear as well.  the owners are great about setting up groups and when you play with kids, I think this is key.  facilities were nice, with lots of fields to use, as well as a large picnic area. Users/Carsonsig
+
+20121215 20:55:09 nbsp I went today with a group of 6 people in celebration of a 21st birthday. I bought tickets my freshman year of college and they still allowed us to use them with the purchase of 500 paintballs per person which was really worth it considering how often I unloaded on the field. I didnt order the birthday package but mentioned this was to celebrate it and they gave the birthday person a tshirt of his size. It was raining and muddy the entire time but was totally worth the experience. We used rental equipment and the only problem was our mask fogging up do to the weather. Not much you can really do with that. The management and employees were really kind and considerate of our single deaf player. They handle children really well even when the kids point a loaded gun at close range at the refs without a barrel cover. They also allowed our small party to play a personal game by request for no additional fee for a bit which was great cause everyone (the kids) were at a completely different skill level then us. I highly recommend Davis Paintball for the great service, the people skills, and the overall fun for an afternoon. I will go again for sure!  Users/WendyArnold

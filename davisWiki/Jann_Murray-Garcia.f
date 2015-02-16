@@ -1,0 +1,1 @@
+Dr. Jann MurrayGarcia is local pediatrician that is very active in the community  most notably as the president of Blacks for Effective Community Action and as one of the most vocal proponents of the a Police Review Board in Davis. She is also a columnist for the Davis Enterprise.

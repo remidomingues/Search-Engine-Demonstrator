@@ -1,0 +1,5 @@
+The crème de la crème of skateless hockey in Davis is of course IM Floor Hockey.  Once a Winter Quarter staple in the aged Hickey Gym Hickey Gym, it is now a Fall Quarter sport at the Multiuse Activity Center of the Activities and Recreation Center ARC facility, with rumors of a Spring Quarter offering as well.  Rather than coarse, ouchy asphalt, the ARCMAC offers smooth, hardwood flooring for your little air puck to go ohsofast around the rink, which is equiped with rounded corners and benches and designed with Floor Hockey and Indoor Soccer Indoor Soccer in mind (or as we say, Floor Soccer).  There is even a spectator box for a birds eye view of the games (go upstairs next to the racquetball boxes).  All equipment is provided, and everyone makes the playoffs.  But the action is intense and the fun is unparalleled.  And some people take it very, very seriously...
+
+Official IM rules for Floor Hockey are available http://imsports.ucdavis.edu/pdffiles/Floor%20Hockey%20Rules.pdf here in PDF form.
+
+  Floor Hockey in Sacramento

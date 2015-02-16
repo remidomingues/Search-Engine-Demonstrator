@@ -1,0 +1,2 @@
+
+KQEI is one of the locallyreceivable radio stations. It is the Sacramento area mirror station of San Franciscobased http://kqed.org KQED. This is the best place to find wiki:WikiPedia:NPR programming. Most of the programming is available as a stream, however a few programs are not available due to licensing issues. Their transmitter is located 7 miles North of Sacramento. This station began operating on 20030512.

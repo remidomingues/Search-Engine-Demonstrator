@@ -1,0 +1,1 @@
+Paloma Perez was the ASUCD Vice President of UC Davis for the 20042005 school year, elected with ASUCD President Kalen Gallagher. She was a member of the Student Focus Slate slate. Paloma also served on the GASC committee in 20022003, and was the Chief of Staff under C.S. Lai in 20022003.  She was also a member of the Alpha Chi Omega Sororities sorority.

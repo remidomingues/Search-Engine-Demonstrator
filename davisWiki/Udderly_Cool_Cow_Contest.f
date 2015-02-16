@@ -1,0 +1,2 @@
+The Udderly Cool Cow Contest is held by UC Davis Mediation Services. They distributed small squeezable stress relief cows with their contact information. After a while they noticed that this desk objects had been enshrined by some staff members, and a contest was established to find the best picture taken of these desktop bovines. Among the submissions were cows on rocketships and entire barnyard scenes.
+

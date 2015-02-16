@@ -1,0 +1,1 @@
+Patricia Turner is the Undergraduate Studies ViceProvost of Undergraduate Studies at UC Davis, who reports directly to the Interim Provost and Executive Vice Chancellor Barbara Horwitz. Here personal page is http://undergraduatestudies.ucdavis.edu/vp/vpinformation.cfm here

@@ -1,0 +1,12 @@
+
+Oregano (Origanum vulgare ssp) as its commonly known and its subspecies are members of the mints mint (Labiatae/Lamiaceae) family; other names for this perennial shrub include wild marjoram and Greek oregano, and not all have culinary value. Greek oregano is the culinary herb (O. vulgare ssp. hirtum) with which most people are familiar. Generally, the species can be described as a bushy, semiwoody shrub with ovalshaped, usually fuzzy, aromatic leaves. Throughout the summer oregano bears tiny tubular flowers peeking out from whorls of purplishgreen leafy bracts. Greek oregano, like all culinary oreganos, bears white flowers and has an intense flavor when fresh; oreganos with pink flowers are most often the tasteless and invasive wild marjoram from which the pungent subspecies O. vulgare hirtum arose. Hirtum means hairy, which helps to distinguish it somewhat from the wild marjoram, but your tongue can better help you out.
+
+Oreganos are from the Mediterranean region of Europe and Asia, and prefer well drained soil with full sun. It is said that the pungency of oregano is directly related to the amount of sun it gets. Water sparingly to avoid root rot. The hairs on the plants leaves and stems provide shade for the plant and slow down transpiration, allowing it to survive hot, dry weather, like our Davis weather summers. The more hair, the grayer the plant and the more drought tolerant.
+
+Propagate oreganos with cuttings or root divisions from a plant you like the smell or taste of, as propagation by seed can produce tasteless results. Greek oregano should be pinched back to encourage branching as well as discourage flowering, which reduces flavor  it can be mowed to within two inches of the ground when harvesting or to maintain compactness. Flavor is best after buds have formed but just before the flowers open. Around midsummer, the plant stops flowering and begins to grow laterally; providing soft loose soil will encourage runners to seek new ground. Every couple years, oregano should be dug up and divided as it becomes woody and less productive.
+
+Ancient Mediterranean people used oregano as a meat preservative. Hippocrates, in the 5th century BC, prescribed oregano for curing various diseases, including stomach pain and respiratory diseases. Oregano is still used in modern herbal remedies for many ailments, but there is no clinical evidence supporting its efficacy.
+
+For a listing of other plants found growing in Davis, visit our Town Flora.
+
+Oregano should not be confused with Marijuana weed.

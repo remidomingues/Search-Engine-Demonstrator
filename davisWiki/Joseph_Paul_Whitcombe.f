@@ -1,0 +1,1 @@
+Joseph Paul Whitcombe is a Harry J Whitcombe third generation Davis resident, attorney, and broker.  He manages the independent real estate and mortgage brokerage, Whitcombe & Co..  He led the charge against June 2010 Election/Measure R Measure R.

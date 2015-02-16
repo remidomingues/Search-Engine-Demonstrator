@@ -1,0 +1,2 @@
+
+20090304 18:11:32 nbsp With comments like Wikis are for factual information, you indicate that you dont understand what Davis Wiki is. To begin with, were not Wikipedia. A wiki is simply a website that anyone can edit. You dont have to follow Wikipedias conventions to be a wiki. Unlike Wikipedia, we like it when editors contribute opinions, experiences, and other nonfactual stuff. Verifiability and references are not required. Objectivity in writing is optional. Please keep this in mind before you try to impose your NPOV POV on this wiki. Users/WilliamLewis

@@ -1,0 +1,17 @@
+
+Up until 2007, The California Aggie sometimes published a spoof edition on their last day of publication (during finals week). These spoof editions tended to be uncannily accurate at identifying the important and defining trends at UC Davis over the course of the past year. Some found these spoof editions to be good stress relief during otherwise hectic finals week  although the content of spoof issues often led to controversy.
+
+The most intense controversy came during the 2002 spoof edition, where Tiqula Bledsoe Tiqula Black Caesar Bledsoe was portrayed as being assassinated by members of his ASUCD Senate Senate (in reference to the actual death of wiki:WikiPedia:Julius_Ceaser Julius Caesar), for which The Aggie was http://www.splc.org/printpage.asp?id866&tbreports&edition22 accused of racism and poor taste. Also, a picture of local children playing on one of the egghead sculptures ran on the front page without their parents permission. This would have been harmless, except for the fact that a picture of a large penis was pasted in the picture and the story was about the children playing on the penis sculpture. The parents were understandably alarmed.  Additionally, a very short, humorless, and vicious attack of Mary Vasquez had been inserted into the issue at the last minute without the EditorinChiefs knowledge or approval.
+
+The City of Davis Human Relations Commission condemned the 2002 issue, the EditorinChief, and, specifically, the nameless writer responsible for the attack on Vasquez, and urged the University to provide oversight to guide student editors to prevent future spoof issues from crossing the line of acceptable journalism.  The EditorinChief, Fitz Vo, attended the Commission meeting, accepted full responsiblity, and apologized for any harm caused by the issue.  He declined to release the name of the writer responsible for the Vasquez attack for reasons of personnel confidentiality.  The Campus Media Board considered removing Fitz Vo but in the end allowed him to stay.  The fallout from the controversy around this spoof issue would be lasting; it caused the Aggie to set up regular consultations with a journalism advisor who  among other things  answers questions for editors when controversial topics come up.
+
+
+As a result, the 2003 spoof edition was far more tame than any in recent memory. EditorinChief Ryan P. Fuller decided against publishing a spoof for 2004, obnoxiously citing 2004 as the http://www.californiaaggie.com/media/storage/paper981/news/2004/06/24/Opinion/In.Memory.Of.Spoof.197220041317882.shtml?norewrite200607290121&sourcedomainwww.californiaaggie.com death date of the longrunning Aggie Spoof Edition.
+
+The spoof was revived in 2005 with the publication of Newsweak, which appeared as an insert in the regular Aggie.  The cover featured a joke about Davis Wiki taking over ASUCD using tanks and military action.
+
+The last time a spoof edition was published was in 2006. It was entitled The Funion, the title being a play on the popular humor publication The Onion.  The Funion cover featured Larry Vanderhoef receiving a Person of the Year award.  The spoof had a number of stories making fun of Larry Vanderhoef.
+
+The spoof editions have a surprisingly long history, being already established by the 1930s.  Headlines read: A.S.C.A ASUCD President demands more CoEds on Campus, which at the end of the day was a pretty good idea.
+
+ 

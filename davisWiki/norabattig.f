@@ -1,0 +1,1 @@
+Hey im Nora Battig im almost 21 years old and am Transfer Students transferring to Davis this fall. I am majoring in animal science as well as communications. I have been riding horses for 15 years and compete in three day eventing. I love horses, music, dance, and lounging about :D

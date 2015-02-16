@@ -1,0 +1,4 @@
+My name is Tu and I am new in the Davis Wiki Community.  I am a UCD Alum and I currently live in a nice cozy house with my husband and 2 kids Casey and Andrea.  I also have a dog named DT. I work for the State of California as a Traffic Operations Manager.  I plan to use this wiki for Restaurants restaurant reviews since I love to eat.  I will also be commenting on other websites along the way.
+
+
+20070717 10:20:00 nbsp I would like to ask which client you are referring to because there is only one case in which some of the accusations are true and comment like this on a page is not appropriate for someone who has never personally used my services. I always gain permission before eating anything in the house. Not sure which client this is ,but out of the very few i can recall this is not one i recognize looking back at the things you described. please remove the comment or elaborate to give me a chance to defend myself Users/ElizabethBarthel

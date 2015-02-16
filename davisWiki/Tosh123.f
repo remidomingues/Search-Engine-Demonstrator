@@ -1,0 +1,4 @@
+Describe Users/Tosh123 here.
+
+
+20091128 09:26:14 nbsp Welcome to the wiki.  Youve walked into a bit of a situation that has stretched on for months; Id be surprised if you took the time to look through all of that history, some of which can only be gleaned by looking through the edits.  Most recently, Brian was banned (for a time) from editing the wiki because he would not cooperate with the other editors.  Even after his banning, he has continued to create sockpuppet accounts and make edits.  So, you have to understand that when you come along without having made any previous edits and without using your real name, people are going to be suspicious.  I apologize if you are a genuine customer of Real Computers, but the truth is that if you want your word to be accepted here on the wiki, you will need to establish your identity.  The best way to do that is by contributing to a wide variety of wiki pages with edits, comments, photos, etc. Users/CovertProfessor

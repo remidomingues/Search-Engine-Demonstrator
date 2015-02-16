@@ -1,0 +1,4 @@
+
+Lieutenant Matt Carmichael became the Acting Chief of the UC Davis Police Department when Annette Spicuzza was put on administrative leave following the November 18, 2011 UC Davis Police Response to Occupy UC Davis.  Spicuzza retired on April 18, 2012, and Carmichael was http://chancellor.ucdavis.edu/messages/2012/new_police_chief_041912.html appointed as Chief for one year.  He apparently was not on campus at the time of the pepperspraying, but was instead on duty at the UC Davis Medical Center in Sacramento.
+
+Chief Carmichael holds an associates degree in administration of justice from Napa Valley College.  At the time of his appointment as Chief, he had 27 years in law enforcement.   Hes been a lieutenant at UC Davis since he was hired in 2002. (http://davisvanguard.org/index.php?optioncom_content&viewarticle&id5289:appointmentofcarmichaeltochiefforoneyearraisesquestions&Itemid114 Vanguard article).

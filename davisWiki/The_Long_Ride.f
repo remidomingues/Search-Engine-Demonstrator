@@ -1,0 +1,2 @@
+
+The Long Ride is a wooden Bicycles bicycle Art sculpture that hangs on the wall of the TAPS building lobby. There was an http://www.dateline.ucdavis.edu/dl_detail.lasso?id8946 article about it in Dateline that talked about , Bruce Friedrich, the sculptor coming to visit it. He was inspired to create the sculpture based on a 3,500 mile trip he made on his own bicycle. There are over 400 pieces of wood in the chain alone.

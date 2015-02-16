@@ -1,0 +1,1 @@
+Andy is the former UC Davis campus coordinator for CalPIRG. He is a recent graduate of UC Santa Cruz. He is tall. He is Serbian. He has a goatee and long hair. He replaced former CalPIRG coordinator Ben Smith over winter break 2005.  He now works for http://environmentcalifornia.com Environment California.

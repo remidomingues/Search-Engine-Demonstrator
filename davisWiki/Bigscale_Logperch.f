@@ -1,0 +1,2 @@
+
+The Bigscale Logperch (Percina macrolepida) is a small fish native to New Mexico. It was unintentionally introduced into the Sacramento River drainage in 1953. They can be found in a variety of habitats from turbid to clear flowing streams. They hide among debris where they forage for invertebrates along the river bottom. Bigscale logperch normally do not exceed 5 inches in length. They are cute little fish and can be kept in an aquarium.

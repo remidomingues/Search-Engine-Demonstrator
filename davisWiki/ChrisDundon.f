@@ -1,0 +1,1 @@
+ChrisDundon lived in Davis from the age of 6 to the ripe old age of 14.  He has been living in the Davis Midwest Connection Midwest for 8 years, finishing college and procrastinating on all manner of hiphop projects.  He makes appearences in Davis a few times a year and in those times is always looking for music performance / recording opportunities. 

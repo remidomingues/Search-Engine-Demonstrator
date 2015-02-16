@@ -1,0 +1,7 @@
+Since 1999 the labor union United Auto Workers Local 2865 has represented many of the academic student employees (ASEs) in the UC system (http://www.uaw2865.org/ UAW Local 2865 website).  Jobs covered by UAW Local 2865 include Teaching Assistants, Readers, and Tutors, but not Graduate Student Researchers.  Both undergraduate and graduate students who are in these jobs are included in the union.  Postdoctoral scholars at Davis are represented by UAW Local 5810 (http://uaw5810.org/ UAW Local 5810 website).
+
+UAW Local 2865 negotiates collective bargaining agreements, or contracts, that set out what TAs, Readers, and Tutors make when they work at UC Davis, and the rest of UC.  If anyone working in these job titles has an issue with their job, UAW Local 2865 is required to help them, whether or not they are a member of the union.
+
+While the specifics of the current health insurance policy covering all UC Davis graduate students is dictated by the University, with input by the Graduate Student Association, UAW Local 2865 has negotiated that all registered graduate students who have an ASE job at least at the 25% level get their full health care fees covered.  The contract negotiated in 2010 also requires that the University and the UAW meet every quarter to discuss UCSHIP (or the campus GSHIP for campuses not in UCSHIP) to discuss issues like getting all campuses to participate in UCSHIP, any changes in benefits, deductibles, and copays.
+
+UC Davis members of UAW Local 2865 get two members on the statewide bargaining team per the UAW Local 2865 bylaws.

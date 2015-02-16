@@ -1,0 +1,4 @@
+
+20120127 18:25:53 nbsp Youve edited the wiki twice, both times to add links to the same local blog. Said blog contains low quality content that is only minimally relevant to Davis and is nothing that would benefit the user if they navigated there. Why shouldnt we label you a spammer? Youre local, unlike most people who exhibit behavior like yours, so Im giving you a chance to explain yourself. Users/WilliamLewis
+
+20120209 00:57:51 nbsp Hi there. The blog is still new and we are trying to write articles that are relevant to other students. So far Ive only posted two public comments and did not intend for them to be edits. One is a howto guide on geocaching locally and the other is a friends experience on using the dating website OKCupid that I believe others can relate to. Ive no intention of spamming the wiki which is why I have only linked those two articles since they were directly related to the topics. Users/TonyCantrell

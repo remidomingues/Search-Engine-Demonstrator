@@ -1,0 +1,3 @@
+
+Mathnasium of Davis a locally owned and operated math learning center that specializes in math for grades 2 through 12. It opened in 2012. It provides a program where students attend at least twice a week for an hour long session to work on their customized learning plan. Private tutoring sessions are also offered.
+The curriculum is based around the Mathnasium Method™, a proprietary system that was developed over 35 years by Larry Martinek. Larry bases the Mathnasium Method on the premise that children’s dislike of math stems from the frustration and embarrassment of not understanding math the way it is taught in the classroom. Because of this, their goal is to teach math in a way that makes sense.

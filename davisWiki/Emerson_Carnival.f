@@ -1,0 +1,21 @@
+
+
+The Emerson Junior High PTA sponsors this annual carnival, which will include about 20 fairtype midway rides for all ages. Carnival Rides include the wiki:wiki:Zipper, http://www.butleramusements.com/spectaculars/century_wheel.html Century Wheel, http://www.butleramusements.com/spectaculars/cliff_hanger.html Cliff Hanger & the Loli Swings. There are games and food, and on Friday and Saturday there is live music. Admission and parking are free. Rides/food/games are not. If you want to prepurchase tickets, they are available at Fleet Feet, Davis Food Coop, H2O To Go, and Lamppost Pizza until the start of the carnival after which they are only available at the gate. Tickets are available individually or as an unlimited rides pass, which is $20 when prepurchased, or $25 at the gate.
+
+Food includes BBQ tritip and ribs, pizza, drinks, chips, cookies, ice cream cups, ice cream bars, and other goodies.
+
+
+
+20090401 20:06:33 nbsp They also appear to have a http://www.butleramusements.com/spectaculars/star_dancer.html dropper type ride, from what Ive seen, but I cant back that up. Users/JoePomidor
+
+20090405 18:30:16 nbsp This was quite fun indeed.  Went on the ferris wheel with my sweetheart and then tried unsuccessfully to ingest a full giant pickle (I made it about halfway through).  I couldnt have asked for a better Sunday afternoon.  Also, free parking and free admission were a big selling point.  I give Emerson Junior High an A+ Users/hokusman
+
+20120416 14:17:08 nbsp Wow, no info about 2012? Users/BillKendrick
+  Tickets are still on sale at the Davis Food Coop but only until sometime during the day on Thursday.  Users/DougWalter
+
+20120420 09:02:56 nbsp The real question is, do they have funnel cakes? Users/TomGarberson
+  Is it legal to run a carnival without funnel cakes??   Users/CovertProfessor
+
+20120421 21:59:19 nbsp this carnival totally ripped me off. I went there to just for the rides. / There were multiple dart games (my boyfriend was good at the game) and I got suckered into spending 35 dollars on a stuffed toy that had a hole it. Wont be coming back next year :( Users/lilib
+
+20120423 11:14:10 nbsp I went there one a date with my boyfriend this year but we both didnt want to ride the rides. We wanted to eat greasy carnival food and shop for random stuff. Unfortunately there was only one food booth and it didnt have much of a selection and the prices were unreasonable? (I come from a small town that has a fair every year, Im still getting used to the Davis prices) A bag of cotton candy would cost 5 dollars. The pickles were just normal pickles in a jar and there was NO FUNNEL CAKE. Da Vinchi had a small table selling pizza, refreshments, and some snacks all for under 3 dollars while sitting in the 95 degree heat so I have to give them props on that. The carnies at the game booths were incredibly bored and therefor more pushy for you to play but that is understandable considering that is how they get paid. A hint for those in the future it doesnt matter how many balloons you hit, your going to be paying a good sum to get that giant tiger plush. The same goes for most of the other games as well. What didnt make sense to me is why there was more then one of the same game? There wasnt any little shopping place to buy a tshirt or trinket for the fun of it. But what they did have was great rides. From the zipper to an endless roller coaster loop they had most of the classic rides that give you thrills and dizziness, there is even a bunch of rides for the little ones including two fun houses, a mini roller coaster, and a carasel. (There are others but these stood out the most) The best part of the rides was that there wasnt a line for anything! (This may be due to being there on a Sunday) So even though we went for different reasons we still had a bit of fun so I give this years carnival a 5/10. Parking was free and so was admission which is new to me for this type of event. The rides were appropriate for all ages with little to no lines but there wasnt much of a selection of food nor anything to buy without having to play an annoying game. Not enjoyable for those who want to experience the carnival without riding the rides. Users/WendyArnold

@@ -1,0 +1,3 @@
+With the large number of foreign exchange students, many organizations sponsor host families for their needs in many communities, including Davis. The families that are selected as hosts are given daily stipends for their time and help them to house these students and show them the area, assist them with their daily needs and aid them in getting to know the community as well as helping them to better understand the culture they now find themselves embedded in. Without these host families, many students would lose the opportunity to better their lives and would also lose the ability to learn about the American family as well as the local culture.
+
+

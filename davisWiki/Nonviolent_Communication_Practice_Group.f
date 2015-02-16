@@ -1,0 +1,3 @@
+Nonviolent Communication is a method of communicating which aims to develop honest and compassionate connection by avoiding triggering your own and others fightflightfreeze reaction. We begin and end each meeting by practicing giving and receiving empathy; and youll practice your selfexpression skills by doing activities, games, roleplays, or other exercises.  Coming to this group will give you practice and instruction in using Compassionate Communication in your daily life.
+
+Always open to dropins, we meet at St. Martin’s Episcopal Church: 640 Hawthorn Lane in classroom 8.  We gather on the First and Third Monday of the month at 6 pm.  Sessions run for 2 hours.  Participation is free.  You can find more information at http://kindcommunication.org Kind Communication

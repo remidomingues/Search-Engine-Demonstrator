@@ -1,0 +1,3 @@
+xPress was a shortlived alternative newspapers newspaper published and distributed between 1993 and 1994 under the auspices of AS PAPERS. Created by editor Jubal ________, xPress released just two issues. Its original issue included an early profile of Davis band Shove and future indie songstress Jen Schande.
+
+After months of delays, a second and final issue of xPress appeared on newsstands in the student union. This also marked a second incarnation of xPress, rebooted from a campus music scene music zine to a new format, its designs heavily influenced by militant Communism and its content striking a tone similar to that of Rage Against The Machine albums. xPress then ceased publication.

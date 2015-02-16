@@ -1,0 +1,11 @@
+
+Tim and Aaron (collectively Talon Entertainment) provide event live sound, lighting, and DJ services in the Davis area. They provide sound for small concerts, business events, parties, and weddings. Tim has been doing event sound for many years, including serving as the ASUCD Entertainment Councils Production Coordinator from 20082010, and is currently working for ATS Mediaworks. Aaron (DJ Oddjob) DJs at SickSpits Open Mic Nights during the school year, on air on KDVS 90.3FM, and often DJs for various UC Davis student clubs (in addition to weddings and special events).
+
+Tim has a QSC PA and a set of LED stage lights (including musicsensitive scanners and strobes). Tims QSC sound system is adequate for small to midsized events. If you need a bigger system, Tim has worked with many sound companies in the Davis/Sacramento area, so he can recommend other providers for any sized event.
+
+Tim also has a smaller PA and a data projector that individuals and clubs can rent out to use on their own.
+
+Contact Tim for scheduling/pricing inquiries.
+
+
+20111004 19:48:12 nbsp Tim Kerbavaz was recently our sound man for the International House Davis, Unity in Diversity Festival this pass weekend on October 1st 2011. The festival was a huge hit and over a few thousand showed up during the course of the day. The main stage, where Tim worked as our sound man, was jammed packed with performers with various sounds needs and special request. Tim did an outstanding job making sure every need was attended to and made the day run seamlessly. I would reccomend him for any organization looking for an incredibly organized and talented individual. Tims work ethic was spectacular, his organization exceptional, and him sound production skills were extraordinary. We did not have one problem that any one could notice the whole day. On top of all that excellence, Tims personality is accomdating and extremely positive. He is truly a team player and I hope to work with him many times in the future. If you want to have an event which requires a sound man, I highly reccomend that you use Talon Entertainment. I have no doubt that the success of our main stage had a tremendous amount to do with Tim Kerbavaz. Sincerely, Sandy Holman, Board Member of The International House. Users/sandyholman

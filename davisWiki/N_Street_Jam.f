@@ -1,0 +1,1 @@
+The N Street Jam is an informal group of musicians who meet monthly at the N Street Cohousing N Street Coop to play folk, Celtic and old time acoustic music.  Instruments include fiddle, guitar, hammer dulcimer, tin whistle, and bag pipes.

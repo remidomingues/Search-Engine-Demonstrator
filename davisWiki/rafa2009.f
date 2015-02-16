@@ -1,0 +1,6 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+20091111 10:47:48 nbsp  Welcome to the Wiki. Please read Welcome to the Wiki/Business Owner. You can establish identity here in a variety of ways. Doing so will give more weight to your many comments on the Same Day Service Plumbing page. Youve already chosen your Importance of using your RealName username, so the next step would be to introduce yourself and make some positive contributions like adding business reviews, Photo Requests uploading photos, or adding to Seed Pages List pages that need more information. Users/JasonAller
+
+20091111 11:05:20 nbsp Anyone watching Recent Changes or who looks at the http://daviswiki.org/Same_Day_Service_Plumbing?actiondiff&version211&version14 page history can see a series of edits and comments left, along with the timestamp and the account name of the person who made them. It doesnt do any good to go creating a bunch of separate accounts to leave comments under either because there are ways of spotting that as well. Sometimes people who are new to the wiki dont understand that this is a collaboratively edited resource about Davis. Dont worry mostly we are a pretty forgiving group that tries to educate new editors about the Wiki Community and the standards of behavior that weve established. Users/JasonAller

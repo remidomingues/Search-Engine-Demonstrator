@@ -1,0 +1,6 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+Howdy Jennifer... it might be a good idea to consider the importance of using your realname.  Youve made a rather strong comment on a single entry without having done any other edits.  In general this looks like you are using an attack account, make just to slam a single subject.  Tell us a bit about yourself... who are you, what are you into here in Davis, what do you like, that sort of thing.  Were really quite friendly here, but right now it kind of looks like this is a fake account made as part of a single vendetta. Users/JabberWokky Evan JabberWokky Edwards
+
+20070907 11:25:38 nbsp Hi Guys my name is Jennifer and i have been a happy Davis resident for 6 years now. You may see me downtown at Starbucks chatting up my local neighbors or at the farmers market helping my local farmers. I love all that Davis has to offer me. I am in fact a hard critic and if i have something to say i will say it. My comment about Davis Family Dentistry i hold strong to. I am not trying to attack them just let my other davisians know what is good or bad. I love this site and i think you guys are doing a great job. If you have any questions feel free to ask me!!!! Users/Jennifer3464

@@ -1,0 +1,6 @@
+
+The Flamingo Flower (Anthurium scherzeranum), also called by its genus name Anthurium or refered to as a Flamingo Lily, is cultivated hybrid of Anthurium andraenum, the brilliant red inflorescence typically associated with Hawaii. Anthurium is a genus of more than 800 species found in the new world tropics and West Indies, and is a member of the Arum family see Tabatha the Titan; this species is native to the wet forests on the western slopes of the Andes in southern Colombia and northern Ecuador where it grows as viney wiki:wikipedia:Epiphyte epiphyte while some other species are terrestrial.
+
+Smaller than Anthurium andreanum, Flamingo Flower is much easier to grow outside tropical rainforests  it thrives at lower temperature, and can be grown as a house plant. Anthuriums are susceptible to slugs & snails as well as mites. The Flamingo flower requires regular feeding to give good growth and to encourage stronger flower stems that wont need support. The flower spike is often coiled and different cultivars exist with different bract colors from white to red.
+
+Take a look at our Town Flora to find out what else grows in Davis and to learn about some of the other arums you can cultivate here!

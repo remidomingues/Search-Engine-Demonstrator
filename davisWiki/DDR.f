@@ -1,0 +1,1 @@
+#redirect Dance Dance Revolution

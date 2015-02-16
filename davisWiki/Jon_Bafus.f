@@ -1,0 +1,1 @@
+sholi drummer  extraordinaire, longtime resident of A st. house (roommates TiffanySnell Tiffany and Quik Puff Pants), and exskateboarding champion of the world. claim to fame  owns the baddest minivan in yolo county. youll know it by the stickers.

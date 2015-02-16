@@ -1,0 +1,3 @@
+George Weber was born 13 January 1835 in Ohio and came to California in 1853. He arrived in Davis in 1859 and first worked for Johnathan Sikes. Later he was a stable keeper at the old Solano House and then he worked for William Fredrich Dresbach in his store. Later he opened a Webers Yolo Saloon saloon on the corner and ran that until the town went dry. He died 20 August 1914 and was interred in the Davis Cemetery Davis Catholic Cemetery.
+
+He had four daughters: Mary A. (Mrs. W. J. Montgomery), Ida Madora, the wife of William Greive (16 August 18745 April 1940), Harriet Elisha Hattie Weber (10 October 187214 December 1961), Gertrude Frances Weber, the wife of A. G. Brinley Aley Green Brinley (27 September 188517 March 1961).

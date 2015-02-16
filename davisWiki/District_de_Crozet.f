@@ -1,0 +1,5 @@
+If you want to get as far away from Davis as possible, youd better rent a boat because Davis http://www.zefrank.com/sandwich/tool.html antipodal point is in the southern Indian Ocean.  But if you prefer to stay on dry land, Le District de Crozet is the place for you. This series of islands, located in between Africa and Antartica, is roughly 18,980 km away from Davis. The islands are http://crozetvv.free.fr/grande_manchotiere.htm rife with penguins.
+
+Bonus points to anyone who finds a surface location farther away than District de Crozet. Double points for anyone who visits this point and plants (or floats) a DavisWiki flag.
+
+Wikipedias wiki:WikiPedia:Crozet_Islands Crozet Islands article says, An ongoing concern is the overfishing of the wiki:WikiPedia:Patagonian_Toothfish Patagonian Toothfish and the monitoring of the Albatross population. The waters of the Crozet Islands are patrolled not only by the French but also by Greenpeace.  Even on the other side of the world, it seems a little like Davis.

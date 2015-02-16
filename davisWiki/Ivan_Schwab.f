@@ -1,0 +1,1 @@
+Dr. Ivan Schwab is a professor in the Ophthalmology and Vision Science department of the School of Medicine.  In 2006 he was awarded an Ig Nobel Prize Winners Ig Nobel prize for his groundbreaking resarch on why woodpeckers dont get headaches.

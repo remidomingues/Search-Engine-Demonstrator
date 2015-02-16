@@ -1,0 +1,2 @@
+
+Leptogen, Inc. is a privately held, biopharmaceutical Research and Development research and development company located in Davis, California. Leptogen develops orally active drugs for the treatment of obesity and obesityrelated conditions such as type 2 diabetes and cardiovascular disease. Leptogen utilizes proprietary drug discovery technology to identify pharmaceutical compounds that modulate the bodys production of hormones important to weight control and energy metabolism.

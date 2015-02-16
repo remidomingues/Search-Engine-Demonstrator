@@ -1,0 +1,1 @@
+#redirect MIND Institute

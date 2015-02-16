@@ -1,0 +1,4 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+Welcome to the Wiki Howdy, Juliana, and Welcome to the Wiki!   You might want to check out the importance of using your RealName, just so we can get to know you (or not: its your choice, but people were pretty friendly here).  My names Evan, pleased to meet you!  Thanks for adding the info on the Sigma Lambda Gamma entry.  For boring Copyrights copyright reasons you cant cut and paste text, but the info you have written about the local chapter is great; I cut the rest and added a link to the Wikipedia entry that you had used as a source.  Also dont forget that you can add events to the Events Board and they will appear on the calendar on the front page.  If you have any questions, just ask  the wiki community is here to help! Users/JabberWokky Evan JabberWokky Edwards

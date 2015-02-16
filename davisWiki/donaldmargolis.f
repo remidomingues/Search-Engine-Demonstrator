@@ -1,0 +1,4 @@
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+20100513 22:51:32 nbsp Hi, and a somewhat belated welcome to the wiki!  I saw that you made some updates to the Davis Small Animal Hospital page.  Thanks for doing that!  But I also noticed that you deleted some of the comments off the page.  The general practice around here is not to delete comments unless they are personal attacks or irrelevant.  Of course, if you feel some of them are unfair you should feel free to respond to them.  You might want to read Welcome to the Wiki/Business Owner this page, which tries to give helpful advice on wiki editing to people who are associated with a business.  Do let us know if you have any questions, and I hope you stick around to edit some of the other pages about Davis.  Again, welcome! Users/CovertProfessor

@@ -1,0 +1,37 @@
+
+Heavens Best Carpet Cleaning describe themselves as worldwide leaders in Carpet Cleaning carpet and upholstery cleaning.  Troy Martin is the local agent serving Davis, Dixon, Vacaville and Woodland.
+
+
+20080701 14:15:58 nbsp I added this entry as I received his services this week.  He and his associate are friendly and they did a great job on the rental that I am leaving after 3 years which received heavy foot traffic, and 2 children.  The pet odor wasnt cleaned before the previous tenant left, but now my carpet looks and smells better than when I rented the place.  Highly recommended with a good price.  Their motto also includes Dry in one hour.  Had a good chat with the owner who grew up in Davis but only recently took over this market.  He was recommended to me by another friend who gave me great reviews. Users/JohnLin
+
+20090504 14:23:28 nbsp Called to ask whether a specific cleaning service was offered (unfortunately it was not). But Troy was very understanding and professionaleven recommended a place in Davis where I could get what i needed cleaned! Great customer service! Users/ViVi
+
+20090826 11:35:05 nbsp I needed a last minute carpet cleaning. Troy called me right back and said that unfortunately he was booked, but referred me to a place that might be available (and it was). Really nice guy.  Users/CerebralPauly
+
+20090917 07:17:26 nbsp Heavens Best did a great job cleaning our carpet.  They cleaned up some difficult stains and the overall carpet looks great.  The owner and service person were very friendly, they were out to our house within two days of my call, and the price was very reasonable.  I was referred to them by a Davis home remodel company and would definitely recommend them to others. Users/davisdebbie
+
+20091114 17:51:33 nbsp These guys are the best! They gave us a great inhome estimate, and that was the cost. They were precisely ontime. They did the whole house in about 3 hours, and everything dried in a couple more.  Clean, soft carpets. No bad smells  just a little citrus that dissipated quickly. Others cost a lot more. Chris Chem Dry wanted to charge $50 for an inhome estimate, and the phone estimate was double the cost of Heavens Best.  I couldnt be happier.  Users/Blooom
+
+20100810 14:25:09 nbsp I will never use this company, They are loud and annoying and have little respect for you and your neighbors. They are currently cleaning my neighbors house and have their music at full blast. I have attached a link showing how disrespectful they are
+
+http://www.youtube.com/watch?vmw1sYU5KjL0 Users/doggydd
+
+20110522 22:28:38 nbsp I watched the youtube link.  FREEBIRD ROCKS!!!  And if its the middle of the day, use some human social skills and go over there and ask the guy to turn it down.  And dont forget to use the magic word, Please.  You could have used your energy to get what you wanted and confronted another human being, instead of using your time, energy and resentment to post a video of some carpet cleaner listening to music while he works.  Gimme a break! Users/CPDiddy
+
+20110615 12:33:10 nbsp Had our carpets cleaned by Troy a couple of weeks ago and he did a fantastic job.  Was at the house on time, and the carpets were truly dry in one hour.  He was very reasonable in price, and well definitely have him come back to do it again. Users/meaghan
+
+20120918 10:50:55 nbsp I had our carpets cleaned by Heavens Best (the actual cleaning was done by an employee of Troy) recently. It took me a few calls to be able to schedule, as the calls went to Troys cell phone and he didnt have access to his calendar, and Troy didnt return one of my calls, but when we were able to go over scheduling he made an appointment for sooner than other places I called and at about the same price. On the day of cleaning, there seemed to be some confusion about the time, because the cleaner called me an hour early to say hed be an hour late (i.e. he would arrive at the time I thought was scheduled). He then arrived even later than that, and took longer to do the cleaning than scheduled. However, as far as I can tell he did a thorough job. He said up front that hed be unlikely to be able to get the discolorations from pet urine, ink, etc. out of the carpet, but that he would get the odors out. Its hard to tell now, as the smell of the cleaner is still lingering a bit, but as far as I can tell the odors are indeed improved or maybe even gone.
+
+So overall, I think this local franchise seems a little poor at organization, but seems to do a good job at a reasonable price. Users/harvardslacker
+
+20121119 23:04:13 nbsp Overall, I am not happy with my experience. Troy was rude and unprofessional. He was extremely loud while he cleaned my carpets. First I asked him to keep it down, and then my neighbor came over to ask him to be quiet. After all that he charged me more than he had initially told me, because apparently I had some difficult stains. I do not recommended getting your carpets cleaned by this company. Users/JohnF
+
+20130827 17:52:06 nbsp Troy came out and cleaned the ugly spots, we had in our hall and did an excellent job removing them. Troy and his staff are always pleasant, and do a great job. Thanks, Troy. KathyC Users/KathyC
+
+20130915 19:56:01 nbsp Our carpets were so stained that my husband and I thought our only choice was to replace them.  Luckily, my mom suggested we try having Troy clean them first, and I cant even tell you how great they look!  Troy was prompt, professional, and spent several hours working on our carpets.  The price was very reasonable, especially considering our only other option was new carpet.  I highly recommend this company. Users/KarenDenvir
+
+20130923 17:36:28 nbsp A 3 x 3 dark carpet stain was caused by accidentally dumping a large quantity of dirty (maybe somewhat greasy) water on a cream colored hallway carpet that led to all bedrooms.  This water was from cleaning out an old HVAC heater of all of its engines dirt, water and grease accumulated over many years.  The stain was very prominent.  Very ugly. Across a couple of days, I tried to remove this large spot by using a heavy duty Bissel carpet cleaner several times.  I could not get the spot out. My wife was sure, and I was about to be sure, that wed have to replace the whole carpet.  Expensive.  Someone told me we should first try Troy who operates the Heavens Best Carpet Cleaning.  We did. His crew got out the entire stain.  Four days later, the stain had still not reappeared.   And... their prices are quite competitive; for this job only $85.  Best, they did what seemed like an impossible job. More. They responded to our need within 48 hours.   Users/DavidMurphy
+
+20131024 21:47:27 nbsp Troy Martin, WOW. I am a college student. I moved out of the house that I rented for two and a half years at the end of this Summer. Troy removed every kind of stain that we had. We had cats for a year, several parties, a large ink stain in the middle of our living room, etc. After leaving him alone for two hours, the place was spotless. Would hire this Heavens best again in a heartbeat. Users/GabrielaMarble
+
+20140430 22:17:00 nbsp These guys made my day today! Had to get out of an apartment and have it subleased. Which means it needed carpet cleaning SAME DAY so the new tenant could move in TOMORROW! Needless to say, Troy called me back immediately and did a wonderful job! Ive used him before, and will never use anyone else!  Users/WillArnold

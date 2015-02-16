@@ -1,0 +1,2 @@
+Decision UC Davis is a free event for admitted students and their families to get a glimpse of what UC Davis offers and campus life firsthand. Most students spend the time on a UC Davis tours walking tour, visiting the dorms, and attending a Q&A session with studying cdrinking uprocrastinating rLiving Cheaply rparties emajors nstudent organizations t studying sdrinking tprocrastinating uLiving Cheaply dparties emajors nstudent organizations tFront Page s.
+

@@ -1,0 +1,3 @@
+Describe Users/TeoTezcan here.
+
+I am the president of a nonprofit child run organization dedicated to the conservation of frogs, salamanders and other amphibians. Today our club is run by 11 year olds, we also have a founder, communications committee and treasurer. Our club has now has 13 active members with weekly meetings, frequent fundraisers and outings, a club website, google+ page, gmail address, youtube channel, sporcle account and scratch account. We soon will have our own club tshirts and may go on international TV with HBO. Our has over $1,500 to organizations like Save The Frogs! and World Wildlife Funds. We also plan to support Conservation International and Conserve It Forward. This club has now thrived for over 4 years!

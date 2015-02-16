@@ -1,0 +1,1 @@
+#redirect Pride Week

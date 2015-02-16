@@ -1,0 +1,3 @@
+
+Chef Tom Fries ran the only 4 star restaurant in town. Reviewed by editors at the SF Chronicle and Sacramento Bee, Tom and his hardworking crew served the finest ingredients freshly prepared to the packed crowds. Customers regularly endured cramped conditions and late reservations to sample Toms Duck with Raspberry Sauce or the selection of mushrooms in the Woodcutters Stew.  Known as well as having the finest wine selection as well, many of the loyal enologists form UC Davis could be seen entertaining visiting dignitaries.
+You can still sample some items from the Colette menu by visiting the deli area of Nugget Market.  Tom is still producing some of the most innovative ready to take home selections in the nation.

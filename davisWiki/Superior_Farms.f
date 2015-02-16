@@ -1,0 +1,4 @@
+
+Superior Farms Incorporated is a food company that specializes in lamb and veal products. Established in 1963, the company is not originally from Davis, but it has expanded greatly over the years, and the corporate headquarters is now located here. You can buy their stuff from Save Mart.  As of July 2014,  Nugget no longer carries their lamb cuts. The products are preseasoned and generally ready to be popped into the oven or onto a grill for a reasonably quick meal. They are also dietary restrictions halal certified. They are the one of the largest distributors of lamb in the county, with operations in Dixon, and the East Coast. The current CEO loves cars. They really care about the product they make
+
+On the website, the company claims that their meat only comes from producers who raise the animals outdoors in excellent, humane conditions where they eat a variety of natural grasses and crops.

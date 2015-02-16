@@ -1,0 +1,1 @@
+Miles Nicholson (Aug. 5, 1917  April 20, 2012)  served on the City Council from 6/20/1957 to 4/20/1964. He ran Nicholson Plumbing Company in downtown Davis for many years. After retiring in 1968, he moved to a rural ranch near Winters where he enjoyed raising cattle.

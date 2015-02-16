@@ -1,0 +1,2 @@
+These are entries on this wiki that need to be cleaned up eventually, most likely deleted.  Add one by placing {{{Wiki Community/Cleanup .}}} on the entry. Periodic review of all pages is another way to find pages that need cleanup.  These entries are specific in that they need to stay they way they are for a time period, usually to let people read them, and then be cleaned up.  Letting them sit for a month with a notice is usually long enough.
+

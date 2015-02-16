@@ -1,0 +1,1 @@
+Katherine Harnack is a student with senior standing and a Human Development major. Miss Harnack is the artist behind (Quantity)squared, a comic published by the California Aggie. She is also a tour guide for UC Davis Tours. In addition she is an active member of the Davis Anime Club, and has a http://ucdavis.facebook.com/profile.php?id3229640 facebook profile.

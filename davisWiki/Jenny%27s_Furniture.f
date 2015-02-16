@@ -1,0 +1,2 @@
+
+@ Jenny Yu Jenny Yus Party (2/4/06), we were enjoying the libations when five young steeds decided to get Jenny Yu Jenny some furniture...With Eric Wu leading the pack, he and his band of brothers, David, Anthony, Kai SavareeRuess, and Eric Zamora, commandeered a shopping cart and bravely set off to the end of Apple Lane Apple to pick up Dumpster Diving free furniture. When all was said and done, Jenny Yu Jenny had a new couch, coffee table, and printer. YAY!

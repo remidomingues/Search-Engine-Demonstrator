@@ -1,0 +1,2 @@
+The Police Ombudsman is an individual who reviews police misconduct stories complaints against the Davis Police Department. The Ombudsman reports to the Davis City Council. The Ombudsman position was created during the summer of 2006 after a push by some residents, current mayor Sue Greenwald, and council member Lamar Heystek to create a Police Review Board. The current Ombudsman is Bob Aaronson.
+

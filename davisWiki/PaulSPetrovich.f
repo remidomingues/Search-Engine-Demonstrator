@@ -1,0 +1,4 @@
+
+If you tell us what is incorrect on the Paul Petrovich page, we would be happy to fix it.  I dont think its likely the entire article is incorrect though  on the wiki, you have to live with the good as well as the bad.  Dont be afraid to add facts that show you in a more positive light.  Users/BrentLaabs
+
+20081209 12:06:53 nbsp Howdy, Paul.  Whats wrong with the Paul Petrovich entry?  If youve said whats incorrect, Im sorry, but I believe most people restoring it missed what is wrong with it.  Please communicate... people are trying to understand what your position is, but you are not explaining your position at all.  Its a bit like somebody just knocking over a table at the Farmers Market over and over without a word.  If theres a problem, please let the rest of the editors know. Users/JabberWokky Evan JabberWokky Edwards

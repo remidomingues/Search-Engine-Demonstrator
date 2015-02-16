@@ -1,0 +1,20 @@
+
+
+
+AP Driving School is a southern Californiabased drivers service that now offers Drivers Training and Education drivers training and drivers education services in Davis, Dixon, Vacaville, Woodland, Winters, and Sacramento areas. It has no physical office but more information can be reached through their website or by calling their Davisbased instructor, Lindsay Brooks. They offer a flexible schedule, free pickup and dropoff services, and enthusiastic, engaging instructors.
+
+Specials
+With a deposit of $40 online towards Drivers Training, you get Drivers Ed for free (a $25 promotion)
+
+More info can be found on their facebook page http://www.facebook.com/apdrivingschool.
+
+
+20120928 14:49:52 nbsp My son just finished his drivers training with Lindsay Brooks last weekend (9/22/12).  He had a great time during his time with Lindsay  not only getting the required training, but having fun conversations with the instructor. My son found Lindsay to be immensely intellectual and full of information about a variety of things. I think that is a great quality for a teacher to have. My son really looked forward to his time with Lindsay. I would totally recommend AP Driving School, especially Lindsay Brooks. I really appreciate Mr. Brooks giving my son such a wonderful experience. On top of that, it was very easy to set up the initial appointment online and the price was in line with other driving schools. Once you start with one teacher (and Mr. Brooks is the only one for the Davis/Woodland area), you have tha same teacher for the entire time. Thanks. Users/LauraSchaap
+  I dont think Mr. Brooks is the only teacher for the Davis/Woodland area.  See Drivers Training and Education.
+   Mr. Brooks is the only teacher for AP Driving School in the Davis/Woodland area is what I think she meant.  Users/lunelectronique
+
+20131202 19:32:21 nbsp My son took Driver Training lessons through AP Driving School with Mr. Lindsay Brooks this last summer (2013), and I was extremely pleased with the experience we had. Mr. Brooks possesses outstanding teaching skills and also has a very warm and professional manner. He relates very well to teens and is patient with even the most inexperienced new driver. I have recommended Lindsay Brooks to friends, and Im pleased to give him my most enthusiastic praise. As soon as we met Mr. Brooks, I knew Id made the right choice. Plus my son appreciated his new and safe vehicle that was used during the training (Honda CRV). I was impressed that Mr. Brooks thoroughly explained what each lesson would cover, as well as the whys of the rules of the road for a new driver filled with questions. Afterwards, he shared with both of us how the learning was going with each lesson. I appreciated the guidance on what areas to work on with my son at the conclusion of the lessons. We will probably sign up for an additional lesson before my son takes his driving test at the DMV, just to be sure hes fully prepared for the test situation. When searching for a driving school, I took the time to carefully check all the online reviews that I could find for every driving school within 50 miles of Davis. I decided on AP Driving School and Lindsay Brooks. Im very glad I did so. My son got a great start and is well on his way to being a confident and safe driver, thanks to this excellent instructor. Users/LisaHenderson
+
+20140310 16:47:21 nbsp Had 6 hours of driving lessons with Mr. Brooks and truly learned a lot from him. You can instantly tell that he is knowledgeable and experienced, and genuinely enjoys teaching. He makes driving lessons fun with stories that stay in your memory, but also manages to maintain a professional demeanor at all times. I just took the driving test and passed, and am glad I spent the time and money on those lessons. Thanks again Mr. Brooks! Users/tpan1028
+
+20140310 22:37:11 nbsp Excellent! Last month my daughter had 8 hours of driving lessons with Lindsay Brooks. He is a superb, patient, fun teacher. My daughter felt safe and comfortable with him, and he was a great teacher. (And hes a very talented musician/singer!) Users/Chamoudah

@@ -1,0 +1,1 @@
+Raheel Mann was the Spring 2005Spring 2006 Ethnic and Cultural Affairs Commission Chair. Raheel is a brother in the Delta Phi Beta SouthAsian interest Fraternities Fraternity. While at Davis he lived with numerous ASUCD figures like Levale Simpson, Darnell Holloway, Kyle Keene and Caliph Assagai. Raheel is a long time supporter of LEAD.

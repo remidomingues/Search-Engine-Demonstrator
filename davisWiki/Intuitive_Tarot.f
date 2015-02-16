@@ -1,0 +1,5 @@
+
+
+Intuitive Tarot is a free course taught through the Experimental College. You can sign up inperson or online.
+
+Memorizing 78+ cards is a daunting task, but it is possible to effectively use Tarot cards without the years of study. Intuitive Tarot focuses on finding your own meanings in the cards, not blindly following what others tell you they mean. First we will cover the basic psychology behind ordering of the cards. Then we will run though the basics of choosing a deck as well as underlying meanings of the cards, both Major and Minor. Using the cards as guides for our intuition, we will delve into readings both for ourselves and others. Lastly we will learn how to create reading patterns (layouts) for any situation or question. With your newfound ability to relate the cards to your feelings and intuition, you will begin to experience more accurate and far more satisfying readings. This class will be taught from a pagan perspective and is excellent for beginners as well as those who have been frustrated with cards that never “spoke” to them.

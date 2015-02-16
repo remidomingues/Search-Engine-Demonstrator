@@ -1,0 +1,1 @@
+Prostate Cancer Support Group Members share their personal experiences in the diagnosis, treatment options and outcomes of prostate cancer.  Meets on the second Monday of each month at 6:30 PM in the Davis Senior Center.  Guests (and their spouses) are welcome.  For more information, email Joseph King at areyoujoking@sbcglobal.net

@@ -1,0 +1,1 @@
+The Fathead Minnow (Pimephales promelas) is a species of fish belonging to the family of Cyprinidae. It is native to North America east of the Rocky Mountains. Fatheads have been introduced into California and are now widespread in the Sacramento River watershed. They are a common species used in laboratory testing.

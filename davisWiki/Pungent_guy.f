@@ -1,0 +1,40 @@
+There is a fellow who appears to be Homeless Resources homeless and periodically resides in Davis, usually downtown.  Hes remarkably notable for his smell and extreme acts  most notably public defecation  that have garnered several unfortunate nicknames: Foul Ole Ron (after Terry Pratchetts Discworld character), Stinky Britches, the Berts Bees Guy (due to his resemblance to the picture on that brands packaging), the smelliest man in the world and likely many others.  This unknown individual has acquired these and presumably various other appellations because of his incredibly pungent odor.  His stench can be detected from as many as ten yards away and will linger for hours in any area where he has rested or camped.  The smell likely stems from a combination of mental illness and homelessness, and it may be presumed he lacks the ability and/or willingness to engage in basic hygiene.
+
+He appears to have made his made his first appearance in Davis during the summer of 2007, and now seems to visit in cycles; reappearing early each summer and disappearing in early winter.  Initially he seemed to prefer to stay near the train tracks on Fifth Street Fifth and G Street G Streets, originally camping (really just laying propped on an elbow) on a strip of grass outside the Western entrance of Hibbert Lumber Hibberts.  Davis residents have since spotted him various places downtown: walking away from the Hoffmann 76 gas station with a soda in hand, lying in a planter box on the corner of Third Street Third and G Street G streets smoking a cigar, lurking in the bushes behind the Fast and Easy Mart and in the E Street Plaza across from Chipotle. He can be identified by his long gray beard, general resemblance to http://www.solarnavigator.net/geography/geography_images/Fidel_Castro.jpg Fidel Castro, monochromatic khaki clothing (usually a Fidel cap, cargo pants and a longsleeved shirt with shoulder straps aka http://en.wikipedia.org/wiki/Image:Omar_Bradley,_official_military_photo,_1949.JPEG passants), and of course his signature smell.
+
+He appears to demonstrate symptoms associated with severe mental illness.  While he can occasionally be observed muttering to himself, on very rare occasions he has been known to verbally assail passersby and accuse them of being demons.  Other, more apocryphal claims have been made about even stranger behavior; claims that if true both lend credence to any hypothetical mental illness and lend insight into the cause of his strong odor.  One of the more outrageous claims alleges that the SMitW was observed to have been walking past Delta of Venus, partially in the street, and after stopping to remove his shoe, he reportedly dropped trou and defecated into his footwear.  He was then alleged to have placed the filled shoe back on his foot.
+
+While working at Ben & Jerrys, Rob Roy once observed The Walking Septic Tank drag one of the colanderesque plaza chairs from outside into the ice cream shop, and then sit for some time stinking up the shops entrance. Eventually he got up and left  revealing that he had defecated on the chair through a hole in his pants.  When he tried to reenter the establishment, Rob Roy quite angrily told The Bearded Sewer to never to come back on account of what he had done. In return, Mr. Crappypants yelled many pungent profanities at the Ben & Jerrys manager. The Pungent Guy is also permanently banned from Redrum Burger for a similar event.
+
+Other establishments have asked him to leave simply because his strong odor renders him a public nuisance.  Apart from Newsbeat, it has been reported that during the Summer of 2008, the fellow took refuge from the heat at the downtown Borders bookstore.  He sat down in the leather chairs near the Seattles Best cafe, but was soon told to leave by an employee. Nevertheless, he returned on several days thereafter and was sometimes not told to leave.
+
+It is also said that social services have tried to help him but that he has refused the offers.
+
+As of Summer 2010, the grass on Foul Ole Rons original preferred resting spot outside Hibberts still has yet to fully grow back.
+
+
+20100902 20:00:30 nbsp Having met the man personally and having tried to help him change his situation through personal donations and food gifts, I can personally attest to how difficult it is for the public at large to tolerate, let alone understand a man of this nature. He used to hang out in the alley at Court N Cedar on the small wood framed boxes that cover some water workings for the businesses there and, having worked at Droms Comics and Cards Droms for nearly 19 months I saw him quite frequently and saw how he not only drove customers away from the store but also drove them away from the west side of G Street altogether when he was there. Yes, his stench was that bad. On very hot days, a misty cloud, similar to what can be seen on the highways while driving could be seen around him and yes, it is very true the smell lingered long after he was gone. Some may not like this page in general, some have argued over its title, some have argued about what content should be preserved and what should be toned down. The bottom line for me is that fact is fact, you cant downplay it into something it isnt n matter how PC one tries to be. I tried giving this man literally hundreds of dollars one day just to get a room and some clothes so he could shower and just trying to get close enough to do this made me want to gag. Sorry, but its true. I would drop off food for him on occasion and sometimes he would pick it up, other times he would rant incoherently and still others would yell at whoever passed him by.
+
+The final straw for me was the day there was small family at the store who we had been helping to find age appropriate comics for their small children, they found what they needed and were leaving when the family came back in with the small girl crying, the mother furious, the little boy laughing about this crazy guy pooping. I looked outside and there he was, literally defecating through a very large hole in his trousers while standing and smoking a cigarette.
+
+Do I feel empathy for this man? Yes
+Does he quite obviously need some kind of mental health intervention? Yes
+Does he pose a public threat? In my opinion, yes.
+
+He lashes out at strangers. He is unclean to an extreme scale and has who knows what diseases. He publicly urinates and defecates without worry for who is near him or where he does it.
+
+Dont want to refer to him as the smelliest man in the world? Fine. Just dont try to sugarcoat what he is or has done.
+
+The man is in need of help but who else has tried other than myself? I am sure some have and I would like to see others comments here as well in regards to their personal experiences. Users/WesP
+
+20110401 08:30:53 nbsp I hate to say it but this poor, humble human being passed last year, at least thats what the homeless I have spoken to have said. Its a shame really that so many, who for whatever reasons chose to or were forced to live on the streets, could die so anonymously. They make their appearance, sometimes staying to themselves, other times causing minor or major irritations and then just fade away. In a strange way I will miss this man and his distinctive odor. Users/WesP
+ Thanks for your humanity, Wes.  I dont have a clear recollection of him...Ill try to remember if I saw him. Users/BruceHansen
+
+20110417 20:35:52 nbsp Reports of his death may be greatly exaggerated. I saw him  or at least someone who looks remarkably like him  lounging on a bench at E Street Plaza on the 17th of April, 2011. Users/TristanEifler
+
+20110417 20:48:35 nbsp I too have seen him in the last week. Users/ScottLay
+
+20120726 13:07:24 nbsp I used to work at the Davis Borders. One time when we asked him to leave he grumbled Ive only been here 200 years!! It was weird. Hes also given me the stink eye a few times. That was also weird.  Users/momokoneko
+  Stink eye or pungent eye? Sorry, I just coulnt pass up the opportunity to say that. Users/jsbmeb
+
+20120910 15:27:56 nbsp He is back in town Users/StevenDaubert

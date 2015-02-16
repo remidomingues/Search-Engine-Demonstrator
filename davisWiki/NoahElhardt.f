@@ -1,0 +1,1 @@
+Noah is new to Davis this town and Front Page this wiki. He looks forward to getting to know people on or around campus, particularly people interested in Life, Ultimate Frisbee ultimate, or Plant Biology plants.

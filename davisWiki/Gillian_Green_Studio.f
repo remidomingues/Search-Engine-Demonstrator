@@ -1,0 +1,8 @@
+
+
+Welcome to Gillian Green Studio, the home of beautiful fine art photography for your weddings and events. Gillian has been a professional photographer for over 10 years and holds degrees from several of the highest art institutions in both the US and Britain. When you book your wedding, event, or portraiture session with Gillian you can rest assured that the photographs will come out brilliantly with style and flair. Please feel free to get in touch by emailing the studio at gilliangreenstudio@gmail.com!
+
+Born and raised in the flat farmland of California’s Central Valley, which has a clear influence on her work, Gillian went on to study photography at New York University and then moved to Paris where she worked in fashion photography. Since moving to London, Gillian has completed a postgraduate degree in photography from Central Saint Martins College of Art & Design, a Master of Arts from the University of Wales, Newport  and is currently pursuing a Master of Fine Arts degree in Documentary Photography at the University of Wales, Newport. Gillian continues to work as a freelance photographer and artist.
+
+Gillian’s work is held in several private collections, as well as the collection of the University of the Arts London. She has worked on commissions for clients such as Vogue Italia, Central Saint Martins, Ugg Australia and Sub Pop Records, and has exhibited in the Brighton Biennial Fringe Festival, Ffotogallery in Cardiff and the Daegu Bienalle in South Korea as well as in other venues.
+Gillian is based in Davis, CA and is available for weddings, events and portraiture throughout Northern California including Lake Tahoe, Sacramento, the Bay Area, Napa, and Sonoma. Please email for further information, rates and schedule.

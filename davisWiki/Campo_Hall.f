@@ -1,0 +1,2 @@
+
+Campo Hall is a two story building on UC Davis campus.   It is located on the outer West side of Regan residential halls. It is the first Regan dorm visible from the Segundo Dining Commons Segundo D.C., acting as a wall of sorts  like one might expect to protect the Regan courtyard from barbarian invaders from the west. Users/YawenChen Yawen used to live there when she was a freshman. In 20052006 one story (most likely the first) was used to house either Korean Foreign Exchange Students exchange or Korean transfer students.

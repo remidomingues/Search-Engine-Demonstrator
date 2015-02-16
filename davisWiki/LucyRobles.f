@@ -1,0 +1,5 @@
+
+Lucy can edit this
+
+
+Hey, I removed your comment, which is disgustingly inappropriate.  If you have serious, hard evidence of major crimes with immediate impact in Davis, dont go to the wiki.  If a woman is being raped in your front yard, for ghods sake, dont just tweet about it.  If theres a horse screaming in agony, trapped in a pit, dont Facebook it.  If you have video of meth sales going on in our neighborhood  GO TO THE DAMN POLICE.  To just gossip about it is repugnant behavior, and I can only hope that you did it out of a mistaken notion that the police read the wiki and act on the basis of complaints here.  They do not.  Please do not call 911 to get the current time, and dont use the wiki to report serious crimes.  Its a phenomenally, gobstoppingly stupid act: it is incumbent upon you if you know of a community threatening act to shut them the hell down if they are the menace you have proof of being.  Otherwise, if youre fabricating things of this severity in public to just get attention, youre simply a bad person.  Period.    Users/JabberWokky Evan JabberWokky Edwards, jw.dw@timewarp.org, (814) 8898845

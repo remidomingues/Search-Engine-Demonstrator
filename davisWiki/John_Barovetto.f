@@ -1,0 +1,9 @@
+
+John Barovetto was a multisport athlete, lettering in football, basketball and track and was senior class president while at Davis Senior High School. After Graduates of the Davis Joint Unified School District graduating from DHS in 1956, John attended UC Davis for two years, where he played quarterback and halfback on the varsity football team.  He transferred to UC Berkeley in 1959 and was  a member of the Cal rugby team that won the World Championship Cup for two consecutive years.  After graduating from UC Berkeley in 1964, John enlisted in the U.S. Army, was commissioned as a second lieutenant, and sent to Vietnam in 1966.  He served with the 1st and 4th Calvalries.  During this time, he was promoted to Captain and organized the first of two “Operation Helping Hand” drives for the people of Vietnam.  Through his efforts, the help of his family, and the people of Davis, two thousand pounds of food and supplies were sent to the Village of Chu Lai.  In 1967, three thousand pounds of food and supplies were sent to the town, church and orphanage of Cu Chi, South Vietnam.
+
+Captain Barovetto was killed in 1968 while en route to secure a downed aircraft during the Tet Offensive in Vietnam.  He was 28 years old.  As a way to honor Captain Barovetto, the Davis community rallied again and sent $2,500 to his commanding officer for the purpose of helping the children of the convent in Cu Chi.  In his honor, his troop volunteered many hours to rebuild the property and also named a rifle range after him.  For his military service, Captain Barovetto received a Silver Star for gallantry in action, a Bronze Star for heroism, among many other commendations, including a Purple Heart.
+
+John Barovetto Park is another way the community has honored his memory.
+
+ Links 
+  http://www.dhsblueandwhite.org/hofmembers.html DHS Hall of Fame Members

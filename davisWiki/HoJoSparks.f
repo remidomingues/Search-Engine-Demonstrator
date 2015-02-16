@@ -1,0 +1,1 @@
+Hey there. I am the http://nasco.coop/about+us/who+we+are/staff.en.html Director of Administration and Development for the North American Students of Cooperation (NASCO) and a liaison to Pacifico Student Cooperative Housing. After 13 years as a vegetarian, I  started eating bacon this year.

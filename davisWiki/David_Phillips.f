@@ -1,0 +1,4 @@
+
+wiki:WikiPedia:David_Phillips_%28pudding%29 David Phillips may be the only Davis resident whom wiki:WikiPedia:Paul_Thomas_Anderson Paul Thomas Anderson has made a http://www.imdb.com/title/tt0272338/ movie about. David is an engineer who works for UC Davis, but he is more http://www.snopes.com/business/deals/pudding.asp famous for having acquired 12,150 cups of Healthy Choice pudding in order to obtain 1,215,000 frequent flyer miles. Over the years he continued to find opportunities to leverage the frequent flyer programs of many airlines. He applies the same level of insight and focus to his work as an engineer.
+
+Several of his Photography photos have been contributed to the wiki including http://daviswiki.org/Rec_Pool?actionFiles&doview&targetRec_Pool_Phillips.jpg one on the Rec Pool page.

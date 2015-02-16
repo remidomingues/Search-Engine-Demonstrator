@@ -1,0 +1,1 @@
+Jonathan Raven, a Davis resident, has served as the chief deputy district attorney of Yolo County since 2007. In October of 2011, Governor Jerry Brown appointed him to the states Corrections Standards Authority.

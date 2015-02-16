@@ -1,0 +1,2 @@
+
+Nate Thomas was one of the founders of LEAD as well as an active member of the Davis College Green Party. He ran for ASUCD Senate, twice, but lost both times. He was the campaign manager for several LEAD campaigns. Nathan was also crucial in the establishment of the ASUCD Gender and Sexuality Commission. He coauthored the Constitutional Amendment which created GASC and became its first chair in 2002. Nate now resides in New York

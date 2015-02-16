@@ -1,0 +1,3 @@
+
+
+Mead, known also as honey wine, is an alcoholic drink made from fermented honey in water, usually with various other ingredients like fruit added to taste.  It can be found in any store that has a large selection of beers and wines.  A fairly decent selection can be found at Beverages and More in Sacramento, and it costs about the same as any of their microbrew beers.  As the ingredients can vary quite a bit, each recipe has a rather unique flavor.  It is rarely served at renaissance faires (which usually just provide hard cider, Guinness and lesser beers).  Of course you can brew your own, an activity that the Society for Creative Anachronism can help you with.

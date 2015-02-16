@@ -1,0 +1,8 @@
+These are reviews of The Bo Tree before they moved in May of 2007.  For more current reviews, visit The Bo Tree the entry.
+
+
+Opinion on The Bo Tree: I am sorry to give negative yoga feedback but..I was disappointed with the yoga classes taught at this studio. The area by the front desk is quite nice, decorated in the zen like style of most yoga studios. Once inside the actual studio, it was not what I have come to expect from yoga establishments. The industrial carpeting and the light fixtures as well as wide open windows with a view of the curb and 12 cars parked there was a little distracting. I think perhaps flowing curtains would give the studio a nicer feel. The space felt very big for just a few people and it was a bit lacking in feel. This place has great potential, it just needs more attention to aesthetics since perception of a peacful atmosphere is essential to yoga/bodywork studios. In terms of instruction, this also left a little to be desired. A more experienced teacher will have a better flow with the class. This post is meant as entirely constructive as I do think its coming along and it just needs some work. Users/LookyLoo
+
+After long days at the lab or in class, I really look forward to Megans strong positive energy at The Bo Tree. She is really an incredible yoga teacher. Her classes really rejuvenate me. Betty
+
+20070507 18:52:02 nbsp Beginning on May 21st, all classes will be held in our new studio in downtown Davis at 817 Fourth Street, between G St. and the railroad tracks. Free 3hour parking is available in the Fifth and G Parking Plaza. Bike racks are also available. Users/JeffreyNonken

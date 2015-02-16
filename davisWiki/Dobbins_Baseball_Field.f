@@ -1,0 +1,7 @@
+
+Address(Dobbins Baseball Field, 38.541949 , 121.757523) is located on campus, just southeast of the Activities and Recreation Center ARC. The UC Davis Baseball team holds their games here. The field is named after James M. Dobbins James M. and Ann Dobbins. Students can get into the UC Davis Baseball games for free with a aggie card. Otherwise it is seven dollars. Dobbins is a great place to soak up the sun during Spring Quarter. It is not as nice in Winter Quarter due to the threat of rain and cooler temperatures, but it is a lot of fun.
+
+The only downside of Dobbins Stadium is that the Aggie Hosts working the game do not let you keep foul balls, even running into the parking lot to retrieve them. It is recommended that visitors to the ARC or Segundo Dining Commons not park adjacent to Dobbins during games because balls can and frequently do hit cars parked within the first two or three parking rows outside the complex. If a ball hits your car and breaks or dents something, dont expect to keep the ball as a souvenir. Cal Aggie hosts will get the ball unless it is impossible to retrieve (i.e. it breaks through your windshield, making a very small hole, and going inside of your locked vehicle). There are often promotions with local businesses. Be sure to get a orange game program when you enter for a UC Davis Baseball game because the press box gives away prizes / gift certificates several times per game from local businesses based on random program numbers.
+
+
+

@@ -12,12 +12,10 @@
 hs_err_pid*
 
 # Netbeans folders and content
-davisWiki
 out
 .idea
 *.iml
 *fuse_hidden*
 
 cache/*
-test/*
-testCache/*
+!cache/.gitignore

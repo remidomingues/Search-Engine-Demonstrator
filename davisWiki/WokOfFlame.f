@@ -1,0 +1,5 @@
+
+
+Welcome to Daviswiki, it is great to have a business owners perspecitve. Feel free to create a personal page describing yourself here, just click edit. In addition consider the Importance of using your RealName. For mor tips on editing the wiki visit Welcome to the Wiki/Business Owner. Users/MattHh
+
+20100207 18:52:53 nbsp Please close this account and edit under your Importance of using your RealName real name. Instructions on how to do so are on the Importance of using your RealName page. Wiki Community/Organizational accounts Organizational accounts pose several problems, but the core issue is that they detract from a sense of community when one or more people use the name of an organization. This leads to a sense of faceless, impersonal action rather than the actions and statements of a member of the community. As a member of the Davis community, your contributions are very much appreciated, but it would be better if you make them using your name rather then the name of your organization. If you havent read Welcome to the Wiki/Business Owner, and Wiki Community/For Profit Restrictions please do so. Users/JasonAller

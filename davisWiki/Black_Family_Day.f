@@ -1,0 +1,1 @@
+Black Family Day (BFD) is part of Black Family Week (BFW). It is a day filled with events which in the past has included: gospel, African dance and drumming, an African fashion show, career fair, a wine symposium and a book festival where African American Faculty and Staff Association African American faculty presented their published works.

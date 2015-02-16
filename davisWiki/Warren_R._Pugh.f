@@ -1,0 +1,1 @@
+Warren R. Pugh served on the City Council from 20 April 1918 to 20 April 1940. He was born in Davis 15 October 1877 (WWII draft registration and the CA Death Index summary) to David H. Pugh, a farm laborer, and his wife Alida Hoffman Pugh. He was a barber with his own shop (1910, 1920 census) and farmer (1930 census). He died in Alameda County, CA, 30 July 1945.

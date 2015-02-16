@@ -1,0 +1,4 @@
+I moved to Davis April 27th, 2005 to be exact so as I write this I have been here almost 3 weeks. I moved from wiki:WikiPedia:Big_Sky%2C_Montana Big Sky, Montana and I miss it really bad! I am originally from wiki:WikiPedia:Grand_Rapids%2C_Minnesota Grand Rapids, MN. I need to figure out how to meet people in this town as Im accustomed to living at a ski resort where I continuously meet new friends. Why am I here? Because I had never been to Cali, I have friends nearby, and I had no reason not to. The only active hobby I have is snowboarding. I like listening to punk music and anything created by/part of turntables. Most of my friends know me as ACE, not Amy.
+
+
+20050906 nbsp Hey, Amy!  Just noticed youre a MN girl.  My husband is from Aitkin, right by Grand Rapids, and I am from MN too.  I just created the Davis Midwest Connection page so midwesterners can find each other for friendship, rides, support, etc.  Hope all is well!   Users/JanelleAlvstadMattson

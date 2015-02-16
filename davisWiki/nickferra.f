@@ -1,0 +1,3 @@
+http://www.centralecommerce.com/wpcontent/uploads/2011/05/spammer.jpg Hello my name is...
+
+...which gets the bannedgroup banhammer.

@@ -1,0 +1,6 @@
+
+
+This editor can edit this entry and tell us a bit about themselves by clicking the Edit icon.
+
+
+20100912 16:31:08 nbsp Howdy Virginia, and thanks for all the additions youve made to the wiki.  My names Evan, pleased to meet you!  I read your really helpful comment on Yolo County SPCA and thought it was so insightful and helpful that it really should be at the top of the entry, so I moved it up there.  Keep in mind that everything on the wiki was written by people like you and me... dont feel that you are only allowed to comment.  You can edit any entry and add your voice right into the top part; it was all written by normal folk, and everybody has an equal opportunity to write and edit anything on the wiki.  Thanks again for the very specific and clear explanation of the process of adopting your kittens.  Also, pets have a special place on the wiki, with many people giving them full entries (pets click here for some).  Fell free to do the same.  Its kind of a cool thing that shows how the community of Davis values animal companions.  Enjoy the kittens and cats to be... my wife and I raise mice and decided long ago that there are some combinations of animals you dont want to have in the same home, but we both miss having felines around. Users/JabberWokky Evan JabberWokky Edwards

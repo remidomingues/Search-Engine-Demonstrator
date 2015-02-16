@@ -1,0 +1,9 @@
+Kim Nguyen is a big dork. Hes is a UC Davis alumni. Also a brother in the Chi Phi Fraternities Fraternity.  In certain circles he is often referred to as TOB, or Tits on a Bull, which basically means hes worthless.  Despite this nickname and reputation, he has managed to get accepted into a graduate program at http://www.sdsu.edu San Diego State and is currently completing his thesis.  He also holds two jobs, one working at the San Diego County Office of Emergency Services as a research analyst/emergency coordinator and the other at the URS corporation as a Homeland Security WMD exercise planner.
+
+Often accused of being a TV addict by Users/AbbyLawson Abby, he is an avid follower of shows such as http://www.fox.com/24/ 24, Cold Case, Without a Trace, Rescue Me and CSI.  he annoys Users/AbbyLawson when he visits by watching ANIME really loudly in the living room.  although he is not an avid anime fan, he is very addicted to the Gundam Seed japanese TV show and hes damn proud of it.
+
+Despite his somewhat odd friendship to Users/AbbyLawson, they have formed an impromptu Gossip Circle along with Users/AriLevy and their place of residence has come to be known as Banglewood.   Users/AbbyLawson has also become Users/KimNguyen Kim Nguyens version of 1800FLOWERS and is currently dating his best friend, Ari Levy who is the business manager of the Bike Barn on campus.
+
+Kim is an incredibly large asian despite the fact that he is fully Vietnamese.  No one ever beleives that he is full Asian, Ana.  Never before has she seen such a large asian man and he sometimes scares her.
+
+Users/KimNguyen can be seen about once every other month in Davis to visit his best friends at Chi Phi.  He can also be seen eating at Restaurants restaurants such as Silver Dragon and his previous place of employment, Steves Place Pizza.

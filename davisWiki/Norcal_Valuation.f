@@ -1,0 +1,11 @@
+
+
+NorCal Valuation provides USPAP equipment appraisals for business assets and machinery and equipment used in construction, trucking, manufacturing, food service, food processing, printing, farming, ranching, recreational facilities, & landscaping maintenance such as golf courses and sports fields.
+
+Jack Young is an Accredited Senior Appraiser (ASA) of the http://www.appraisers.org/about/ American Society of Appraisers with a focus in Machinery and Equipment, a Certified Public Accountant (CPA) and was awarded Master Personal Property Appraiser (MPPA) designation from the National Auctioneers Association Education Institute. Jack worked for many years as an auctioneer and auction manager of business assets, machinery and equipment. His experience in auditing, accounting, financial analysis and auctioneering provides a strong base for the asset valuation concepts embraced by the http://www.appraisalfoundation.org/s_appraisal/sec.asp?CID68&DID97 Uniform Standards of Professional Appraisal Practice (USPAP) and the  appraisal industry today.
+
+Jack serves as Chapter Vice President of the Northern California Chapter of the American Society of Appraisers. He received his B.S. Accountancy, Arizona State University, in 1988. While in college, he worked at the local midsized regional CPA firm Price, Kong & Company preparing monthly financial statements and performing tax work. Upon graduation he went on to work in the audit department of international CPA firm KPMG in their Sacramento, California office. While at KPMG, Jack worked primarily in the industries of banking, insurance, manufacturing, agriculture and distribution. Subsequent to KPMG, Jack was a financial analyst in the insurance and microfinance industries.
+
+Cost Segregation Studies from NorCal Valuation can benefit almost everyone who owns IncomeProducing Property: facilities such as manufacturing plants, industrial parks, research labs, financial institutions, office buildings, hotels & resturants, retail stores, apartment complexes and shopping centers—even single family rental units. Cost Segregation is a IRSapproved method of accelerated depreciation that can save tax dollars on all incomeproducing properties. http://www.journalofaccountancy.com/Issues/2004/Aug/CostSegregationApplied.htm
+
+ Need any other Business to Business Services?

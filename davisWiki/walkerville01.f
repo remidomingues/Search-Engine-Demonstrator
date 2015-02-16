@@ -1,0 +1,1 @@
+Wiki Spam Spammer.  Banned.
