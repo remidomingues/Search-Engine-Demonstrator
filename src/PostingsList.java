@@ -9,9 +9,7 @@
 package src;
 
 import java.io.*;
-import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.ListIterator;
+import java.util.*;
 
 /**
  *   A postingsEntries of postings for a given word.
@@ -125,6 +123,8 @@ public class PostingsList implements Serializable, Comparable {
         }
         return 0;
     }
+
+
 }
 
 

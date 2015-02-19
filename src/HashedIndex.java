@@ -37,15 +37,15 @@ public class HashedIndex extends src.Index {
     private static final String CACHE_PATH = "./cache/";
 
     /** Each X documents, words below popularity threshold (Y %) are removed from memory */
-    private  static final int DOC_ELAPSED_THRESHOLD = 10; //1000 docs
+    private  static final int DOC_ELAPSED_THRESHOLD = 5000; //1000 docs
     /** Percentage of words kept in memory */
-    private static final int WORD_MEMORY_THRESHOLD = 0; //1%
+    private static final int WORD_MEMORY_THRESHOLD = 50; //1%
     /** Minimum number of words always in memory (used while indexing until the percentage above gets higher) */
-    private static final int MIN_WORD_MEMORY = 10; //1000
+    private static final int MIN_WORD_MEMORY = 20000; //1000
     /** The unpopular tokens (after the word threshold) are removed every N queries */
     private static final int REQUESTS_BEFORE_CLEANING = 3;
 
-    /**
+    /**pmeasure the speed
      *  Inserts this token in the index.
      */
     public void insert( String token, int docID, int offset ) {
@@ -131,6 +131,8 @@ public class HashedIndex extends src.Index {
         LinkedList<ListIterator<src.PostingsEntry>> docsIterators = new LinkedList<ListIterator<src.PostingsEntry>>();
         LinkedList<src.PostingsList> tokensPostings = new LinkedList<src.PostingsList>();
         int maxDocID, nlists = 0, tmp;
+        int[] wordFrequencies = new int[tokens.size()];
+        //TODO REMOVE src.PostingsEntry tmpEntry;
 
         // Postings retrieval
         for(String t : tokens) {
@@ -157,6 +159,7 @@ public class HashedIndex extends src.Index {
 
         // While none of the lists have been completely explored
         while(true) {
+            //TODO REMOVE i = 0;
             // We find the list having the bigger docID among the current iterators
             maxDocID = Integer.MIN_VALUE;
             for(ListIterator<src.PostingsEntry> iter : docsIterators) {
@@ -164,6 +167,7 @@ public class HashedIndex extends src.Index {
                     return result;
                 }
 
+                //TODO REMOVE tmpEntry = iter.next();
                 tmp = iter.next().docID;
                 //We reset the number of iterators positioned at maxDocID
                 if(tmp > maxDocID) {
@@ -172,7 +176,9 @@ public class HashedIndex extends src.Index {
                 //We increment the number of iterators positioned at maxDocID
                 } else if (tmp == maxDocID) {
                     ++nlists;
+                    //TODO REMOVE wordFrequencies[i] = tmpEntry.offsets.size();
                 }
+                //TODO REMOVE ++i;
             }
 
             // Every iterator point on the same document ID
@@ -180,14 +186,14 @@ public class HashedIndex extends src.Index {
                 // Intersection query
                 if(queryType == src.Index.INTERSECTION_QUERY) {
                     result.addToken(maxDocID, -1, null);
+                    //TODO REMOVE result.postingsEntries.getLast().updateTFIDFScore(tokens, index, wordFrequencies);
                 // Phrase query
                 } else if(queryType == src.Index.PHRASE_QUERY) {
                     LinkedList<ListIterator<Integer>> offsetIterators = new LinkedList<ListIterator<Integer>>();
                     // For each documents iterator (one per token)
                     for(ListIterator<src.PostingsEntry> iter : docsIterators) {
                         // Add to the list an iterator on the list of offset for a given token and document
-                        offsetIterators.add
-                                (iter.previous().listIterator());
+                        offsetIterators.add(iter.previous().listIterator());
                         iter.next();
                     }
                     // Retrieve for the given document the starting position of the sentences
@@ -226,13 +232,29 @@ public class HashedIndex extends src.Index {
 
         if(query.size() == 1) {
             ps = getPostings(query.terms.get(0));
+            if(queryType == src.Index.RANKED_QUERY) {
+                Collections.sort(ps.postingsEntries);
+            }
         }
 
         else if(query.size() > 1) {
             if(queryType == src.Index.INTERSECTION_QUERY || queryType == src.Index.PHRASE_QUERY) {
                 ps = getIntersectionPostings(query.terms, queryType);
             }
-        } else {
+            else if(queryType == src.Index.RANKED_QUERY) {
+                ps = new src.PostingsList();
+                for(String token : query.terms) {
+                    src.PostingsList tokenPostings = getPostings(token);
+                    for(src.PostingsEntry entry : tokenPostings.postingsEntries) {
+                        src.PostingsEntry tmp = new src.PostingsEntry(entry.docID);
+                        tmp.score = entry.score * Math.log10(index.size() / (double) tokenPostings.postingsEntries.size());
+                        ps.postingsEntries.add(tmp);
+                    }
+                }
+                Collections.sort(ps.postingsEntries);
+            }
+        }
+        else {
             return null;
         }
 
@@ -271,7 +293,19 @@ public class HashedIndex extends src.Index {
         exportPopularitySet();
     }
 
+    /* ----------------------------------------------- */
+    /*                    RANKING                      */
+    /* ----------------------------------------------- */
+    private void rankPostings(src.PostingsList ps, List<String> tokens) {
+        src.Vector queryVector = src.Vector.ones(tokens.size());
+        queryVector.normalize();
 
+
+    }
+
+
+    /* ----------------------------------------------- */
+    /*                     CACHE                       */
     /* ----------------------------------------------- */
 
     public void nextDoc() {

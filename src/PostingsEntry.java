@@ -9,14 +9,12 @@
 package src;
 
 import java.io.Serializable;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.ListIterator;
-import java.util.TreeSet;
+import java.util.*;
 
 public class PostingsEntry implements Comparable<PostingsEntry>, Serializable {
     public int docID;
-    public double score;
+    public double score = 0; //Term frequency
+    public src.Vector tfIdf;
     /** Tokens positions sorted by ascending order */
     public LinkedList<Integer> offsets = new LinkedList<Integer>();
 
@@ -52,6 +50,20 @@ public class PostingsEntry implements Comparable<PostingsEntry>, Serializable {
     public ListIterator<Integer> listIterator() {
         return offsets.listIterator();
     }
+
+    /*
+    public void updateTFIDFScore(List<String> tokens, HashMap<String, src.PostingsList> index, int[] wordFrequencies) {
+        double[] vector = new double[tokens.size()];
+        int i = 0;
+
+        for(Iterator<String> iter = tokens.iterator(); iter.hasNext(); ++i) {
+            String token = iter.next();
+            vector[i] = wordFrequencies[i] * Math.log10(index.size() / (double) index.get(token).postingsEntries.size());
+        }
+    }
+
+    //TODO sort postingsentries of postingslist result by cosine similarity
+    */
 
     /**
      *  PostingsEntries are compared by their score (only relevant
