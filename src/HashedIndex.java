@@ -30,18 +30,21 @@ public class HashedIndex extends src.Index {
     private int requests_counter = 0;
     private static final String POPULARITY_FILE_NAME = "tree_set";
     private static final String DOCUMENT_ID_FILE_NAME = "doc_id_map";
+    private static final String INDEX_FILE_NAME = "global_index_map";
+    private static final String DOCUMENT_LENGTH_FILE_NAME = "doc_length_map";
     private int word_threshold;
 
-    private static final boolean CACHE = true;
+    private static final boolean CACHE = false;
     private static final boolean CLEAN_CACHE = false;
+    private static final boolean GLOBAL_CACHE = false;
     private static final String CACHE_PATH = "./cache/";
 
     /** Each X documents, words below popularity threshold (Y %) are removed from memory */
-    private  static final int DOC_ELAPSED_THRESHOLD = 5000; //1000 docs
+    private  static final int DOC_ELAPSED_THRESHOLD = 1000; //1000 docs
     /** Percentage of words kept in memory */
-    private static final int WORD_MEMORY_THRESHOLD = 50; //1%
+    private static final int WORD_MEMORY_THRESHOLD = 0; //1%
     /** Minimum number of words always in memory (used while indexing until the percentage above gets higher) */
-    private static final int MIN_WORD_MEMORY = 20000; //1000
+    private static final int MIN_WORD_MEMORY = 10; //1000
     /** The unpopular tokens (after the word threshold) are removed every N queries */
     private static final int REQUESTS_BEFORE_CLEANING = 3;
 
@@ -54,7 +57,7 @@ public class HashedIndex extends src.Index {
             ps = new src.PostingsList(token);
             index.put(token, ps);
             popularitySet.add(ps);
-        } else {
+        } else if(!GLOBAL_CACHE) {
             popularitySet.remove(ps);
             ps.increasePopularity();
             popularitySet.add(ps);
@@ -242,16 +245,7 @@ public class HashedIndex extends src.Index {
                 ps = getIntersectionPostings(query.terms, queryType);
             }
             else if(queryType == src.Index.RANKED_QUERY) {
-                ps = new src.PostingsList();
-                for(String token : query.terms) {
-                    src.PostingsList tokenPostings = getPostings(token);
-                    for(src.PostingsEntry entry : tokenPostings.postingsEntries) {
-                        src.PostingsEntry tmp = new src.PostingsEntry(entry.docID);
-                        tmp.score = entry.score * Math.log10(index.size() / (double) tokenPostings.postingsEntries.size());
-                        ps.postingsEntries.add(tmp);
-                    }
-                }
-                Collections.sort(ps.postingsEntries);
+                ps = getRankedPostings(query.terms);
             }
         }
         else {
@@ -290,17 +284,72 @@ public class HashedIndex extends src.Index {
      * Save the words populatity
      */
     public void cleanup() {
-        exportPopularitySet();
+        if(GLOBAL_CACHE) {
+            exportGlobalIndex();
+        } else if(CACHE) {
+            exportPopularitySet();
+        }
     }
 
     /* ----------------------------------------------- */
     /*                    RANKING                      */
     /* ----------------------------------------------- */
-    private void rankPostings(src.PostingsList ps, List<String> tokens) {
+    private src.PostingsList getRankedPostings(List<String> tokens) {
+        int tokenIdx = 0;
+        double tfidfScore;
+        src.PostingsList ps = new src.PostingsList();
+
+        Set<String> uniqueTokens = new TreeSet<String>();
+        uniqueTokens.addAll(tokens);
+        tokens.clear();
+        tokens.addAll(uniqueTokens);
+
         src.Vector queryVector = src.Vector.ones(tokens.size());
         queryVector.normalize();
+        HashMap<Integer, src.Vector> docVectors = new HashMap<Integer, src.Vector>();
 
+        // Compute the TF-IDF vectors for each document
+        for(String token : tokens) {
+            src.PostingsList tokenPostings = getPostings(token);
+            for(src.PostingsEntry entry : tokenPostings.postingsEntries) {
+                src.Vector v = docVectors.get(entry.docID);
+                if(v == null) {
+                    v = new src.Vector(tokens.size());
+                    docVectors.put(entry.docID, v);
+                }
 
+                // Update the TF-IDF score of one term for one document
+                tfidfScore = entry.score * Math.log10(index.size() / (double) tokenPostings.postingsEntries.size()) / super.docLengths.get("" + entry.docID);
+                v.set(tokenIdx, tfidfScore);
+            }
+            ++tokenIdx;
+        }
+
+        // Compute the cosine similarity score of each document
+        src.PostingsEntry[] docArray = new src.PostingsEntry[docVectors.size()];
+        int i = 0;
+        Iterator<Map.Entry<Integer, src.Vector>> iter = docVectors.entrySet().iterator();
+
+        while(iter.hasNext()) {
+            Map.Entry pair = iter.next();
+            src.PostingsEntry pe = new src.PostingsEntry((Integer)pair.getKey());
+            if(super.docIDs.get("" + pe.docID).contains("CharlesSuh") || super.docIDs.get("" + pe.docID).contains("Railfanning")) {
+                System.out.println();
+            }
+            ((src.Vector)pair.getValue()).normalize();
+            pe.score = queryVector.cosineSimilarity((src.Vector)pair.getValue());
+            docArray[i] = pe;
+            ++i;
+        }
+
+        // Sort the results
+        Arrays.sort(docArray);
+        ps = new src.PostingsList();
+        for(src.PostingsEntry pe : docArray) {
+            ps.postingsEntries.add(pe);
+        }
+
+        return ps;
     }
 
 
@@ -310,7 +359,7 @@ public class HashedIndex extends src.Index {
 
     public void nextDoc() {
         ++docElapsed;
-        if(docElapsed == DOC_ELAPSED_THRESHOLD && CACHE) {
+        if(docElapsed == DOC_ELAPSED_THRESHOLD && CACHE && !GLOBAL_CACHE) {
             ++doc_counter;
             System.out.println(String.format("%d documents indexed", doc_counter*DOC_ELAPSED_THRESHOLD));
             indexingThresholdReached();
@@ -359,8 +408,32 @@ public class HashedIndex extends src.Index {
         }
     }
 
+    private void exportGlobalIndex() {
+        System.out.println("Exporting global index...");
+        ObjectOutputStream oos = null;
+        try {
+            oos = new ObjectOutputStream(new FileOutputStream(CACHE_PATH + INDEX_FILE_NAME));
+            oos.writeObject(index);
+            oos.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private void exportDocumentsLength() {
+        System.out.println("Exporting documents length...");
+        ObjectOutputStream oos = null;
+        try {
+            oos = new ObjectOutputStream(new FileOutputStream(CACHE_PATH + DOCUMENT_LENGTH_FILE_NAME));
+            oos.writeObject(super.docLengths);
+            oos.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
     private void exportDocumentIDs() {
-        System.out.println("Exporting document IDS...");
+        System.out.println("Exporting documents ID...");
         ObjectOutputStream oos = null;
         try {
             oos = new ObjectOutputStream(new FileOutputStream(CACHE_PATH + DOCUMENT_ID_FILE_NAME));
@@ -422,17 +495,23 @@ public class HashedIndex extends src.Index {
     }
 
     public boolean importIndex() {
+        if(!CACHE) {
+            return false;
+        }
+
         if(CLEAN_CACHE) {
             cleanCache();
         }
-        if(!CACHE || !existCache()) {
-            if(!CLEAN_CACHE) {
-                cleanCache();
-            }
+        if(GLOBAL_CACHE) {
+            return importGlobalIndex() && importDocumentIDs()  && importDocumentsLength();
+        }
+        if(CACHE && !existCache()) {
+            cleanCache();
             return false;
         }
 
         importDocumentIDs();
+        importDocumentsLength();
         importPopularitySet();
 
         Iterator<src.PostingsList> iter;
@@ -492,22 +571,65 @@ public class HashedIndex extends src.Index {
         word_threshold = Math.max((int)(popularitySet.size() * WORD_MEMORY_THRESHOLD / 100.0), MIN_WORD_MEMORY);
     }
 
-    private void importDocumentIDs() {
+    private boolean importGlobalIndex() {
+        try {
+            ObjectInputStream input = new ObjectInputStream(
+                    new FileInputStream(new File(CACHE_PATH + INDEX_FILE_NAME)));
+            index = (HashMap<String, src.PostingsList>) input.readObject();
+            input.close();
+        } catch (Exception e) {
+            return false;
+        }
+        return true;
+    }
+
+    private boolean importDocumentsLength() {
+        try {
+            ObjectInputStream input = new ObjectInputStream(
+                    new FileInputStream(new File(CACHE_PATH + DOCUMENT_LENGTH_FILE_NAME)));
+            super.docLengths = (HashMap<String, Integer>) input.readObject();
+            input.close();
+        } catch (Exception e) {
+            return false;
+        }
+        return true;
+    }
+
+    private boolean importDocumentIDs() {
         try {
             ObjectInputStream input = new ObjectInputStream(
                     new FileInputStream(new File(CACHE_PATH + DOCUMENT_ID_FILE_NAME)));
             super.docIDs = (HashMap<String, String>) input.readObject();
             input.close();
         } catch (Exception e) {
-            e.printStackTrace();
+            return false;
+        }
+        return true;
+    }
+/*
+    private void updateEntryScores() {
+        for(src.PostingsList ps : index.values()) {
+            for(src.PostingsEntry pe : ps.postingsEntries) {
+                pe.score /= super.docLengths.get("" + pe.docID);
+            }
         }
     }
-
+*/
     public void indexingOver() {
+        //updateEntryScores();
+
         if(!CACHE) {
             return;
         }
         System.out.println(String.format("%d documents indexed\nIndexing over. Saving entries...", doc_counter*DOC_ELAPSED_THRESHOLD+docElapsed));
+
+        if(GLOBAL_CACHE) {
+            exportDocumentIDs();
+            exportDocumentsLength();
+            exportGlobalIndex();
+            return;
+        }
+
         Iterator<src.PostingsList> iter = popularitySet.descendingIterator();
         int i = 1;
         updateWordThreshold();
@@ -534,6 +656,7 @@ public class HashedIndex extends src.Index {
 
         exportPopularitySet();
         exportDocumentIDs();
+        exportDocumentsLength();
 
         popularitySet.clear();
         popularitySet.addAll(index.values());

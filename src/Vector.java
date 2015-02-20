@@ -4,22 +4,34 @@ package src;
  * Created by deeper on 2015-02-19.
  */
 public class Vector {
-    double values[];
+    private double values[];
+
+    public Vector(int size) {
+        this.values = new double[size];
+    }
 
     public Vector(double[] values) {
         this.values = values;
     }
 
     public void normalize() {
-        double d = 0;
-        for(double v : values) {
-            d += v*v;
-        }
-        d = Math.sqrt(d);
+        double n = norm();
 
         for(int i = 0; i < values.length; ++i) {
-            values[i] /= d;
+            values[i] /= n;
         }
+    }
+
+    public double norm() {
+        double n = 0;
+        for(double v : values) {
+            n += v*v;
+        }
+        return Math.sqrt(n);
+    }
+
+    public void set(int idx, double value) {
+        values[idx] = value;
     }
 
     public double cosineSimilarity(Vector v) {
@@ -31,6 +43,7 @@ public class Vector {
         for(int i = 0; i < values.length; ++i) {
             d += values[i] * v.values[i];
         }
+
         return d;
     }
 

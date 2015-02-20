@@ -17,7 +17,7 @@ import java.util.*;
 public class PostingsList implements Serializable, Comparable {
 
     /** The postings postingsEntries as a linked postingsEntries sorted by ascending docID */
-    public transient LinkedList<src.PostingsEntry> postingsEntries = new LinkedList<src.PostingsEntry>();
+    public LinkedList<src.PostingsEntry> postingsEntries = new LinkedList<src.PostingsEntry>();
 
     public String token;
 
