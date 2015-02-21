@@ -3,12 +3,26 @@
  *   Information Retrieval course at KTH.
  * 
  *   First version:  Johan Boye, 2012
- */  
+ */
 
 import java.util.*;
 import java.io.*;
 
 public class PageRank{
+    private class RankedDoc implements Comparable {
+        Integer docID;
+        double rank;
+
+        public RankedDoc(Integer docID, double rank) {
+            this.docID = docID;
+            this.rank = rank;
+        }
+
+        @Override
+        public int compareTo(Object o) {
+            return Double.compare(rank, ((RankedDoc)o).rank);
+        }
+    }
 
     /**  
      *   Maximal number of documents. We're assuming here that we
@@ -28,16 +42,21 @@ public class PageRank{
 
     /**  
      *   A memory-efficient representation of the transition matrix.
-     *   The outlinks are represented as a Hashtable, whose keys are 
-     *   the numbers of the documents linked from.<p>
+     *   The outlinks are represented as a Hashtable. The keys are
+     *   documents ID with outlinks as values.<p>
      *
      *   The value corresponding to key i is a Hashtable whose keys are 
-     *   all the numbers of documents j that i links to.<p>
+     *   the documents ID j that i links to.<p>
      *
      *   If there are no outlinks from i, then the value corresponding 
      *   key i is null.
      */
     Hashtable<Integer,Hashtable<Integer,Boolean>> link = new Hashtable<Integer,Hashtable<Integer,Boolean>>();
+
+    /**
+     * Stationary distribution
+     */
+    private RankedDoc[] pageranks;
 
     /**
      *   The number of outlinks from each node.
@@ -153,16 +172,88 @@ public class PageRank{
 
     /* --------------------------------------------- */
 
+    private boolean similar(double[] m1, double[] m2) {
+        for(int i = 0; i < m1.length; ++i) {
+            if(Math.abs(m1[i] - m2[i]) > EPSILON) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    private double[] power_iteration(double[] x) {
+        double d;
+        double pno_link = BORED / x.length;
+        double[] result = new double[x.length];
+        Hashtable<Integer, Boolean> outlinks;
+
+        // Compute the probability for each state
+        for(int i = 0; i < x.length; ++i) {
+            d = 0;
+
+            // The state probability takes into account every other state we may come from
+            for(int j = 0; j < x.length; ++j) {
+
+                if(x[j] != 0) {
+                    outlinks = null;
+
+                    // No outlink
+                    if (outlinks == null) {
+                        //(1-c)*j = (1-c)*(1/numberOfDocs)
+                        d += x[j] * pno_link;
+                        // Outlink
+                    } else {
+                        //c * (1 / number of outlinks) + proba no link
+                        d += x[j] * ((1 - BORED) / outlinks.size() + pno_link);
+                    }
+                }
+            }
+
+            result[i] = d;
+        }
+
+        return result;
+    }
+
 
     /*
      *   Computes the pagerank of each document.
      */
     void computePagerank( int numberOfDocs ) {
-	//
-	//   YOUR CODE HERE
-	//
+        System.out.println("Computing pagerank...");
+
+        // transition = c * transition + (1 - c) * J
+        // Initialize x and x2
+        double[] x = new double[numberOfDocs];
+        double[] x2 = new double[numberOfDocs];
+        x2[0] = 1;
+
+        // Power iterations algorithm to find the stationary probability for each state
+        int i = 0;
+        // Until convergence or max iterations is reached
+        while(i < MAX_NUMBER_OF_ITERATIONS && !similar(x, x2)) {
+            x = x2;
+            x2 = power_iteration(x);
+            ++i;
+            System.out.println(i);
+        }
+
+        // Initialize the pageranks data structure and sort it
+        pageranks = new RankedDoc[numberOfDocs];
+        for(i = 0; i < numberOfDocs; ++i) {
+            pageranks[i] = new RankedDoc(i, x2[i]);
+        }
+        Arrays.sort(pageranks, Collections.reverseOrder());
+
+        System.out.println("Done");
     }
 
+    public void display(int n) {
+        String template = "%d: %f";
+        for(int i = 0; i < n && i < pageranks.length; ++i) {
+            System.out.println(String.format(template, pageranks[i].docID, pageranks[i].rank));
+        }
+    }
 
     /* --------------------------------------------- */
 
@@ -172,7 +263,8 @@ public class PageRank{
 	    System.err.println( "Please give the name of the link file" );
 	}
 	else {
-	    new PageRank( args[0] );
+	    PageRank pr = new PageRank( args[0] );
+        pr.display(50);
 	}
     }
 }

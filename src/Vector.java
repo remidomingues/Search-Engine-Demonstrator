@@ -22,6 +22,12 @@ public class Vector {
         }
     }
 
+    public void divide(double d) {
+        for(int i = 0; i < values.length; ++i) {
+            values[i] /= d;
+        }
+    }
+
     public double norm() {
         double n = 0;
         for(double v : values) {

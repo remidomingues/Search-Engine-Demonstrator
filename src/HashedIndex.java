@@ -21,6 +21,9 @@ public class HashedIndex extends src.Index {
     /** The index as a hashtable. */
     private HashMap<String, src.PostingsList> index = new HashMap<String, src.PostingsList>();
 
+    /** Document norms */
+    private HashMap<Integer, Double> docNorm = new HashMap<Integer, Double>();
+
     /** Tree containing the 10% most popular postingslist sorted by popularity */
     private TreeSet<src.PostingsList> popularitySet = new TreeSet<src.PostingsList>();
     private Iterator<src.PostingsList> popularityIterator;
@@ -151,7 +154,7 @@ public class HashedIndex extends src.Index {
         if(queryType == src.Index.INTERSECTION_QUERY) {
             Collections.sort(tokensPostings, new Comparator<src.PostingsList>(){
                 public int compare(src.PostingsList a1, src.PostingsList a2) {
-                    return a2.size() - a1.size(); // assumes you want biggest to smallest
+                    return a2.size() - a1.size(); // assuming you want biggest to smallest
                 }
             });
             docsIterators.clear();
@@ -294,10 +297,26 @@ public class HashedIndex extends src.Index {
     /* ----------------------------------------------- */
     /*                    RANKING                      */
     /* ----------------------------------------------- */
+    private void computeDocumentNorms() {
+        System.out.println("Computing document norms...");
+        for(src.PostingsList ps2 : index.values()) {
+            for(src.PostingsEntry pe : ps2.postingsEntries) {
+                Double score = docNorm.get(pe.docID);
+                if(score == null) {
+                    score = 0.0;
+                }
+                score += pe.score * Math.log10(index.size() / (double) ps2.postingsEntries.size());
+                docNorm.put(pe.docID, score);
+            }
+        }
+        System.out.println("Done");
+    }
+
     private src.PostingsList getRankedPostings(List<String> tokens) {
         int tokenIdx = 0;
         double tfidfScore;
         src.PostingsList ps = new src.PostingsList();
+
 
         Set<String> uniqueTokens = new TreeSet<String>();
         uniqueTokens.addAll(tokens);
@@ -319,7 +338,8 @@ public class HashedIndex extends src.Index {
                 }
 
                 // Update the TF-IDF score of one term for one document
-                tfidfScore = entry.score * Math.log10(index.size() / (double) tokenPostings.postingsEntries.size()) / super.docLengths.get("" + entry.docID);
+                tfidfScore = entry.score * Math.log10(index.size() / (double) tokenPostings.postingsEntries.size());
+                // / super.docLengths.get("" + entry.docID)
                 v.set(tokenIdx, tfidfScore);
             }
             ++tokenIdx;
@@ -333,10 +353,10 @@ public class HashedIndex extends src.Index {
         while(iter.hasNext()) {
             Map.Entry pair = iter.next();
             src.PostingsEntry pe = new src.PostingsEntry((Integer)pair.getKey());
-            if(super.docIDs.get("" + pe.docID).contains("CharlesSuh") || super.docIDs.get("" + pe.docID).contains("Railfanning")) {
-                System.out.println();
-            }
-            ((src.Vector)pair.getValue()).normalize();
+            //((src.Vector)pair.getValue()).normalize();
+
+            ((src.Vector)pair.getValue()).divide(docNorm.get((Integer)pair.getKey()));
+
             pe.score = queryVector.cosineSimilarity((src.Vector)pair.getValue());
             docArray[i] = pe;
             ++i;
@@ -606,7 +626,7 @@ public class HashedIndex extends src.Index {
         }
         return true;
     }
-/*
+
     private void updateEntryScores() {
         for(src.PostingsList ps : index.values()) {
             for(src.PostingsEntry pe : ps.postingsEntries) {
@@ -614,9 +634,10 @@ public class HashedIndex extends src.Index {
             }
         }
     }
-*/
+
     public void indexingOver() {
-        //updateEntryScores();
+        updateEntryScores();
+        computeDocumentNorms();
 
         if(!CACHE) {
             return;

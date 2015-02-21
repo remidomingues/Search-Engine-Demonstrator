@@ -317,13 +317,13 @@ public class SearchGUI extends JFrame {
 		};
 	bigramItem.addActionListener( setBigramStructure );
 
-	Action setSubphraseStructure = new AbstractAction() {
-		public void actionPerformed( ActionEvent e ) {
-			structureType = Index.SUBPHRASE;
-		}
-		};
-	subphraseItem.addActionListener( setSubphraseStructure );
-	}
+	    Action setSubphraseStructure = new AbstractAction() {
+        public void actionPerformed( ActionEvent e ) {
+            structureType = Index.SUBPHRASE;
+        }
+    };
+    subphraseItem.addActionListener( setSubphraseStructure );
+}
 
 
     /* ----------------------------------------------- */
