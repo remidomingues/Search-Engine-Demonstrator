@@ -182,34 +182,36 @@ public class PageRank{
     }
 
     private double[] power_iteration(double[] x) {
-        double d;
+        //pno_link = (1-c)*j = (1-c)*(1/numberOfDocs)
         double pno_link = BORED / x.length;
+        //if we there is no outlink from the current doc, we have 100% chance to jump
+        double pno_outlink = 1. / x.length;
+        double plink = 0;
         double[] result = new double[x.length];
         Hashtable<Integer, Boolean> outlinks;
 
-        // Compute the probability for each state
+        // For each row of the transition matrix
         for(int i = 0; i < x.length; ++i) {
-            d = 0;
+            outlinks = link.get(i);
 
-            // The state probability takes into account every other state we may come from
-            for(int j = 0; j < x.length; ++j) {
+            // No outlink
+            if (outlinks != null) {
+                //c * (1 / number of outlinks) + proba no link
+                plink = ((1 - BORED) / outlinks.size() + pno_link);
+            }
 
-                if(x[j] != 0) {
-                    outlinks = null;
-
-                    // No outlink
-                    if (outlinks == null) {
-                        //(1-c)*j = (1-c)*(1/numberOfDocs)
-                        d += x[j] * pno_link;
-                        // Outlink
+            if(x[i] != 0) {
+                // Compute the beginning of each result probability related to the same row in the transition matrix
+                for (int j = 0; j < x.length; ++j) {
+                    if(outlinks == null) {
+                        result[j] += x[i] * pno_outlink;
+                    } else if (!outlinks.containsKey(j)) {
+                        result[j] += x[i] * pno_link;
                     } else {
-                        //c * (1 / number of outlinks) + proba no link
-                        d += x[j] * ((1 - BORED) / outlinks.size() + pno_link);
+                        result[j] += x[i] * plink;
                     }
                 }
             }
-
-            result[i] = d;
         }
 
         return result;
@@ -235,7 +237,8 @@ public class PageRank{
             x = x2;
             x2 = power_iteration(x);
             ++i;
-            System.out.println(i);
+
+            System.out.println("Iteration " + i);
         }
 
         // Initialize the pageranks data structure and sort it
@@ -249,9 +252,9 @@ public class PageRank{
     }
 
     public void display(int n) {
-        String template = "%d: %f";
+        String template = "%d: %s %f";
         for(int i = 0; i < n && i < pageranks.length; ++i) {
-            System.out.println(String.format(template, pageranks[i].docID, pageranks[i].rank));
+            System.out.println(String.format(template, i+1, docName[pageranks[i].docID], pageranks[i].rank));
         }
     }
 
