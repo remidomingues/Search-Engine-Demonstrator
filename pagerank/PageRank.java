@@ -8,7 +8,7 @@
 import java.util.*;
 import java.io.*;
 
-public class PageRank{
+public class PageRank implements Serializable {
     private enum PageRankMethod {
         POWER_ITERATION,
         MONTE_CARLO_1,
@@ -47,7 +47,7 @@ public class PageRank{
     /**
      *   Mapping from document numbers to document names
      */
-    String[] docName = new String[MAX_NUMBER_OF_DOCS];
+    transient String[] docName = new String[MAX_NUMBER_OF_DOCS];
 
     /**  
      *   A memory-efficient representation of the transition matrix.
@@ -60,7 +60,7 @@ public class PageRank{
      *   If there are no outlinks from i, then the value corresponding 
      *   key i is null.
      */
-    Hashtable<Integer,Hashtable<Integer,Boolean>> link = new Hashtable<Integer,Hashtable<Integer,Boolean>>();
+    transient Hashtable<Integer,Hashtable<Integer,Boolean>> link = new Hashtable<Integer,Hashtable<Integer,Boolean>>();
 
     /**
      * Stationary distribution
@@ -70,17 +70,17 @@ public class PageRank{
     /**
      * Stationary distribution sorted in descending order
      */
-    RankedDoc[] sorted_pageranks;
+    transient RankedDoc[] sorted_pageranks;
 
     /**
      *   The number of outlinks from each node.
      */
-    int[] out = new int[MAX_NUMBER_OF_DOCS];
+    transient int[] out = new int[MAX_NUMBER_OF_DOCS];
 
     /**
      *   The number of documents with no outlinks.
      */
-    int numberOfSinks = 0;
+    transient int numberOfSinks = 0;
 
     /**
      *   The probability that the surfer will be bored, stop
@@ -106,7 +106,7 @@ public class PageRank{
 
     public PageRank( String filename, PageRankMethod method, int max_iter ) {
     	int noOfDocs = readDocs( filename );
-	    computePagerank( noOfDocs, method, max_iter );
+	    computePagerank( noOfDocs, method, max_iter, null, null );
     }
 
 
@@ -252,10 +252,15 @@ public class PageRank{
         return x2;
     }
 
-    private double[] monte_carlo(int numberOfDocs, int iterations, PageRankMethod method) {
-        int nsteps, step, page, next_idx, i, sum_steps = 0;
+    private double[] monte_carlo(int numberOfDocs, int iterations, PageRankMethod method, int[] bench_steps, double[][] benchmarks, RankedDoc[] ranking_ref) {
+        int nsteps, step, page, next_idx, i, sum_steps = 0, bench_step = -1, bench_idx = 0;
         Hashtable<Integer, Boolean> outlinks;
         double[] pageranks = new double[numberOfDocs];
+        double[] bench_pageranks = pageranks;
+
+        if(bench_steps != null) {
+            bench_step = bench_steps[bench_idx];
+        }
 
         // N runs
         for(int k = 0; k < iterations; ++k) {
@@ -308,13 +313,31 @@ public class PageRank{
             }
 
             // Update the total number of steps for MC4 and MC5 if it has been reached before ending in a dangling node
-            if(step == nsteps && (method == PageRankMethod.MONTE_CARLO_4 || method == PageRankMethod.MONTE_CARLO_5)) {
+            if(step == nsteps && (method != PageRankMethod.MONTE_CARLO_1 && method != PageRankMethod.MONTE_CARLO_2)) {
                 sum_steps += step;
             }
 
             // Update the score of the end node for MC1 and MC2
             if(method == PageRankMethod.MONTE_CARLO_1 || method == PageRankMethod.MONTE_CARLO_2) {
                 pageranks[page] += 1. / iterations;
+            }
+
+            // Benchmarking
+            if(bench_step == k) {
+                if(method != PageRankMethod.MONTE_CARLO_1 && method != PageRankMethod.MONTE_CARLO_2) {
+                    bench_pageranks = new double[pageranks.length];
+                    for(int s = 0; s < pageranks.length; ++s) {
+                        bench_pageranks[s] = pageranks[s] / sum_steps;
+                    }
+                }
+
+                benchmarks[0][bench_idx] = sum_squared_error(ranking_ref, bench_pageranks, 50, true);
+                benchmarks[1][bench_idx] = sum_squared_error(ranking_ref, bench_pageranks, 50, false);
+
+                ++bench_idx;
+                if(bench_idx < bench_steps.length) {
+                    bench_step = bench_steps[bench_idx];
+                }
             }
         }
 
@@ -332,13 +355,21 @@ public class PageRank{
     /*
      *   Computes the pagerank of each document.
      */
-    private void computePagerank(int numberOfDocs, PageRankMethod method, int max_iter) {
+    private double[][] computePagerank(int numberOfDocs, PageRankMethod method, int max_iter, int[] steps, RankedDoc[] ranking_ref) {
+        double[][] benchmarks = null;
         System.out.println("Computing pagerank...");
 
         if(method == PageRankMethod.POWER_ITERATION) {
             pageranks = power_iterations(numberOfDocs, max_iter);
         } else {
-            pageranks = monte_carlo(numberOfDocs, max_iter, method);
+            if(steps != null) {
+                benchmarks = new double[2][];
+                // Error for the 50 highest scores
+                benchmarks[0] = new double[steps.length];
+                // Error for the 50 lowest scores
+                benchmarks[1] = new double[steps.length];
+            }
+            pageranks = monte_carlo(numberOfDocs, max_iter, method, steps, benchmarks, ranking_ref);
         }
 
         // Initialize the pageranks data structure and sort it
@@ -349,6 +380,7 @@ public class PageRank{
         Arrays.sort(sorted_pageranks, Collections.reverseOrder());
 
         System.out.println("Done");
+        return benchmarks;
     }
 
     public void display(int n) {
@@ -361,32 +393,22 @@ public class PageRank{
     public static double[][][] benchmark(PageRank pr, int[] steps) {
         int ndocs = pr.docName.length;
         double[][][] ssd = new double[PageRankMethod.values().length-1][][];
-        RankedDoc[] ranking_ref = pr.sorted_pageranks;
+        RankedDoc[] ranking_ref = pr.sorted_pageranks.clone();
 
         for(int i = 0; i < ssd.length; ++i) {
-            ssd[i] = new double[2][];
-            // Error for the 50 highest scores
-            ssd[i][0] = new double[steps.length];
-            // Error for the 50 lowest scores
-            ssd[i][1] = new double[steps.length];
-
-            for(int j = 0; j < steps.length; ++j) {
-                pr.computePagerank(ndocs, PageRankMethod.values()[i+1], steps[j]);
-
-                ssd[i][0][j] = sum_squared_error(ranking_ref, pr.sorted_pageranks, 50, true);
-                ssd[i][1][j] = sum_squared_error(ranking_ref, pr.sorted_pageranks, 50, false);
-            }
+            ssd[i] = pr.computePagerank(ndocs, PageRankMethod.values()[i + 1], steps[steps.length-1]+1, steps, ranking_ref);
         }
 
         return ssd;
     }
 
-    public static void display_benchmark(String link_file, int step_size, int nsteps) {
+    public static void display_benchmark(String link_file, int iterations, int nsteps) {
         PageRank pr = new PageRank(link_file, PageRankMethod.POWER_ITERATION, MAX_NUMBER_OF_ITERATIONS);
-        int[] steps = new int[nsteps];
+        int[] steps = new int[nsteps+1];
 
-        for(int i = 0; i < nsteps; ++i) {
-            steps[i] = step_size * (i + 1);
+        steps[0] = 1;
+        for(int i = 1; i < nsteps+1; ++i) {
+            steps[i] = (int) (iterations / (double) nsteps * i);
         }
 
         double[][][] ssd = benchmark(pr, steps);
@@ -423,7 +445,7 @@ public class PageRank{
         System.out.println(s.toString());
     }
 
-    private static double sum_squared_error(RankedDoc[] ranking1, RankedDoc[] ranking2, int n, boolean descending) {
+    private static double sum_squared_error(RankedDoc[] ranking1, double[] ranking2, int n, boolean descending) {
         double error = 0, tmp;
         int start, end, step;
 
@@ -438,11 +460,35 @@ public class PageRank{
         }
 
         for(int i = start; i != end; i += step) {
-            tmp = ranking1[i].score - ranking2[i].score;
+            tmp = ranking1[i].score - ranking2[ranking1[i].docID];
             error += tmp * tmp;
         }
 
         return error;
+    }
+
+    public static void export(PageRank pr, String filepath) {
+        System.out.println("Exporting pageranks...");
+        ObjectOutputStream oos = null;
+        try {
+            oos = new ObjectOutputStream(new FileOutputStream(filepath));
+            oos.writeObject(pr);
+            oos.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static PageRank import_(String filepath) {
+        PageRank pr = null;
+        try {
+            ObjectInputStream input = new ObjectInputStream(
+                    new FileInputStream(new File(filepath)));
+            pr = (PageRank) input.readObject();
+            input.close();
+        } catch (Exception e) {
+        }
+        return pr;
     }
 
     /* --------------------------------------------- */
@@ -453,10 +499,10 @@ public class PageRank{
             System.err.println( "Please give the name of the link file" );
         }
         else {
-            //PageRank pr = new PageRank(args[0], PageRankMethod.POWER_ITERATION, MAX_NUMBER_OF_ITERATIONS);
+            //PageRank pr = new PageRank(args[0], PageRankMethod.MONTE_CARLO_1, 10);
             //pr.display(50);
-            //System.out.println(sum_squared_error(pr.sorted_pageranks, new PageRank(args[0], PageRankMethod.MONTE_CARLO_1, 2000).sorted_pageranks, 50, true));
-            display_benchmark(args[0], 10, 30);
+            //System.out.println(sum_squared_error(pr.sorted_pageranks, new PageRank(args[0], PageRankMethod.MONTE_CARLO_1, 2000).pageranks, 50, true));
+            display_benchmark(args[0], 24000, 240);
         }
     }
 }

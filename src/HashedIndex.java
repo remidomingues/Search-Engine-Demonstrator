@@ -27,6 +27,7 @@ public class HashedIndex extends src.Index {
     /** Tree containing the 10% most popular postingslist sorted by popularity */
     private TreeSet<src.PostingsList> popularitySet = new TreeSet<src.PostingsList>();
     private Iterator<src.PostingsList> popularityIterator;
+    private PageRank pr;
     private int popularityIteratorIdx = -1;
     private int docElapsed = 0;
     private int doc_counter = 0;
@@ -35,6 +36,7 @@ public class HashedIndex extends src.Index {
     private static final String DOCUMENT_ID_FILE_NAME = "doc_id_map";
     private static final String INDEX_FILE_NAME = "global_index_map";
     private static final String DOCUMENT_LENGTH_FILE_NAME = "doc_length_map";
+    private static final String PAGERANKS_FILE_NAME = "doc_length_map";
     private int word_threshold;
 
     private static final boolean CACHE = false;
