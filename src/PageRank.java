@@ -5,6 +5,8 @@
  *   First version:  Johan Boye, 2012
  */
 
+package src;
+
 import java.util.*;
 import java.io.*;
 
@@ -32,6 +34,8 @@ public class PageRank implements Serializable {
             return Double.compare(score, ((RankedDoc)o).score);
         }
     }
+
+    private static Random rand = new Random(System.currentTimeMillis());
 
     /**  
      *   Maximal number of documents. We're assuming here that we
@@ -100,9 +104,15 @@ public class PageRank implements Serializable {
      */
     final static int MAX_NUMBER_OF_ITERATIONS = 1000;
 
+    final static String LINKS_FILE = "./resources/linksDavis.txt";
+
     
     /* --------------------------------------------- */
 
+    public PageRank() {
+        int noOfDocs = readDocs( LINKS_FILE );
+        computePagerank( noOfDocs, PageRankMethod.POWER_ITERATION, MAX_NUMBER_OF_ITERATIONS, null, null );
+    }
 
     public PageRank( String filename, PageRankMethod method, int max_iter ) {
     	int noOfDocs = readDocs( filename );
@@ -269,14 +279,14 @@ public class PageRank implements Serializable {
                 nsteps = numberOfDocs;
             // Random number of steps for every other MC
             } else {
-                nsteps = (int) (Math.random() * numberOfDocs);
+                nsteps = rand.nextInt(numberOfDocs);
                 sum_steps += nsteps;
             }
 
             if(method != PageRankMethod.MONTE_CARLO_1 && method != PageRankMethod.MONTE_CARLO_5) {
                 page = k % numberOfDocs;
             } else {
-                page = (int) (Math.random() * numberOfDocs);
+                page = rand.nextInt(numberOfDocs);
             }
 
             // One run
@@ -295,11 +305,11 @@ public class PageRank implements Serializable {
                         break;
                     }
 
-                    page = (int) (Math.random() * numberOfDocs);
+                    page = rand.nextInt(numberOfDocs);
 
                 // Move randomly to the next page
                 } else {
-                    next_idx = (int) (Math.random() * outlinks.size());
+                    next_idx = rand.nextInt(outlinks.size());
                     i = 0;
                     // Fastest random access in a set (O(outlinks/2))
                     for(Integer tmp_page : outlinks.keySet()) {
@@ -313,7 +323,7 @@ public class PageRank implements Serializable {
             }
 
             // Update the total number of steps for MC4 and MC5 if it has been reached before ending in a dangling node
-            if(step == nsteps && (method != PageRankMethod.MONTE_CARLO_1 && method != PageRankMethod.MONTE_CARLO_2)) {
+            if(step == nsteps && (method == PageRankMethod.MONTE_CARLO_4 || method != PageRankMethod.MONTE_CARLO_5)) {
                 sum_steps += step;
             }
 
@@ -379,8 +389,11 @@ public class PageRank implements Serializable {
         }
         Arrays.sort(sorted_pageranks, Collections.reverseOrder());
 
-        System.out.println("Done");
         return benchmarks;
+    }
+
+    public double get(String docName) {
+        return pageranks[docNumber.get(docName)];
     }
 
     public void display(int n) {
@@ -390,13 +403,37 @@ public class PageRank implements Serializable {
         }
     }
 
+    private static double sum_squared_error(RankedDoc[] ranking1, double[] ranking2, int n, boolean descending) {
+        double error = 0, tmp;
+        int start, end, step;
+
+        if(descending) {
+            start = 0;
+            end = n;
+            step = 1;
+        } else {
+            start = ranking1.length - 1;
+            end = ranking1.length - n - 1;
+            step = -1;
+        }
+
+        for(int i = start; i != end; i += step) {
+            tmp = ranking1[i].score - ranking2[ranking1[i].docID];
+            error += tmp * tmp;
+        }
+
+        return error;
+    }
+
     public static double[][][] benchmark(PageRank pr, int[] steps) {
         int ndocs = pr.docName.length;
         double[][][] ssd = new double[PageRankMethod.values().length-1][][];
+        //double[][][] ssd = new double[1][][];
         RankedDoc[] ranking_ref = pr.sorted_pageranks.clone();
 
         for(int i = 0; i < ssd.length; ++i) {
-            ssd[i] = pr.computePagerank(ndocs, PageRankMethod.values()[i + 1], steps[steps.length-1]+1, steps, ranking_ref);
+            ssd[i] = pr.computePagerank(ndocs, PageRankMethod.values()[i+1], steps[steps.length-1]+1, steps, ranking_ref);
+            //ssd[i] = pr.computePagerank(ndocs, PageRankMethod.MONTE_CARLO_3, steps[steps.length-1]+1, steps, ranking_ref);
         }
 
         return ssd;
@@ -445,30 +482,7 @@ public class PageRank implements Serializable {
         System.out.println(s.toString());
     }
 
-    private static double sum_squared_error(RankedDoc[] ranking1, double[] ranking2, int n, boolean descending) {
-        double error = 0, tmp;
-        int start, end, step;
-
-        if(descending) {
-            start = 0;
-            end = n;
-            step = 1;
-        } else {
-            start = ranking1.length - 1;
-            end = ranking1.length - n - 1;
-            step = -1;
-        }
-
-        for(int i = start; i != end; i += step) {
-            tmp = ranking1[i].score - ranking2[ranking1[i].docID];
-            error += tmp * tmp;
-        }
-
-        return error;
-    }
-
     public static void export(PageRank pr, String filepath) {
-        System.out.println("Exporting pageranks...");
         ObjectOutputStream oos = null;
         try {
             oos = new ObjectOutputStream(new FileOutputStream(filepath));
@@ -477,6 +491,7 @@ public class PageRank implements Serializable {
         } catch (IOException e) {
             e.printStackTrace();
         }
+        System.out.println("Pageranks exported");
     }
 
     public static PageRank import_(String filepath) {
@@ -488,6 +503,7 @@ public class PageRank implements Serializable {
             input.close();
         } catch (Exception e) {
         }
+        System.out.println("Pageranks imported");
         return pr;
     }
 
@@ -499,10 +515,10 @@ public class PageRank implements Serializable {
             System.err.println( "Please give the name of the link file" );
         }
         else {
-            //PageRank pr = new PageRank(args[0], PageRankMethod.MONTE_CARLO_1, 10);
+            //PageRank pr = new PageRank(args[0], PageRankMethod.POWER_ITERATION, 1000);
             //pr.display(50);
             //System.out.println(sum_squared_error(pr.sorted_pageranks, new PageRank(args[0], PageRankMethod.MONTE_CARLO_1, 2000).pageranks, 50, true));
-            display_benchmark(args[0], 24000, 240);
+            display_benchmark(args[0], 48442, 484);
         }
     }
 }

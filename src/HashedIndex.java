@@ -27,7 +27,7 @@ public class HashedIndex extends src.Index {
     /** Tree containing the 10% most popular postingslist sorted by popularity */
     private TreeSet<src.PostingsList> popularitySet = new TreeSet<src.PostingsList>();
     private Iterator<src.PostingsList> popularityIterator;
-    private PageRank pr;
+    private src.PageRank pageranks;
     private int popularityIteratorIdx = -1;
     private int docElapsed = 0;
     private int doc_counter = 0;
@@ -36,7 +36,7 @@ public class HashedIndex extends src.Index {
     private static final String DOCUMENT_ID_FILE_NAME = "doc_id_map";
     private static final String INDEX_FILE_NAME = "global_index_map";
     private static final String DOCUMENT_LENGTH_FILE_NAME = "doc_length_map";
-    private static final String PAGERANKS_FILE_NAME = "doc_length_map";
+    private static final String PAGERANKS_FILE_NAME = "map_page_ranks";
     private int word_threshold;
 
     private static final boolean CACHE = false;
@@ -44,8 +44,11 @@ public class HashedIndex extends src.Index {
     private static final boolean GLOBAL_CACHE = false;
     private static final String CACHE_PATH = "./cache/";
 
+    private static final int TF_IDF_WEIGHT = 1;
+    private static final int PAGERANK_WEIGHT = 30;
+
     /** Each X documents, words below popularity threshold (Y %) are removed from memory */
-    private  static final int DOC_ELAPSED_THRESHOLD = 1000; //1000 docs
+    private static final int DOC_ELAPSED_THRESHOLD = 1000; //1000 docs
     /** Percentage of words kept in memory */
     private static final int WORD_MEMORY_THRESHOLD = 0; //1%
     /** Minimum number of words always in memory (used while indexing until the percentage above gets higher) */
@@ -53,7 +56,7 @@ public class HashedIndex extends src.Index {
     /** The unpopular tokens (after the word threshold) are removed every N queries */
     private static final int REQUESTS_BEFORE_CLEANING = 3;
 
-    /**pmeasure the speed
+    /**
      *  Inserts this token in the index.
      */
     public void insert( String token, int docID, int offset ) {
@@ -250,7 +253,7 @@ public class HashedIndex extends src.Index {
                 ps = getIntersectionPostings(query.terms, queryType);
             }
             else if(queryType == src.Index.RANKED_QUERY) {
-                ps = getRankedPostings(query.terms);
+                ps = getRankedPostings(query.terms, rankingType);
             }
         }
         else {
@@ -314,61 +317,93 @@ public class HashedIndex extends src.Index {
         System.out.println("Done");
     }
 
-    private src.PostingsList getRankedPostings(List<String> tokens) {
+    private src.PostingsList getRankedPostings(List<String> tokens, int rankingType) {
         int tokenIdx = 0;
-        double tfidfScore;
-        src.PostingsList ps = new src.PostingsList();
-
+        double tfidfScore, cos_sim;
+        src.Vector queryVector = null;
+        HashMap<Integer, src.Vector> docVectors = null;
+        src.PostingsList ps;
+        src.PostingsEntry pe;
+        TreeSet<src.PostingsEntry> pagerankedDocs = null;
+        src.PostingsEntry[] docArray;
 
         Set<String> uniqueTokens = new TreeSet<String>();
         uniqueTokens.addAll(tokens);
         tokens.clear();
         tokens.addAll(uniqueTokens);
 
-        src.Vector queryVector = src.Vector.ones(tokens.size());
-        queryVector.normalize();
-        HashMap<Integer, src.Vector> docVectors = new HashMap<Integer, src.Vector>();
+        if(rankingType != src.Index.PAGERANK) {
+            // Query vector
+            queryVector = src.Vector.ones(tokens.size());
+            queryVector.normalize();
+            docVectors = new HashMap<Integer, src.Vector>();
+        } else {
+            // Prepare the set structure to guarantee that every document ID in the set is unique
+            pagerankedDocs = new TreeSet<src.PostingsEntry>(new Comparator<src.PostingsEntry>(){
+                public int compare(src.PostingsEntry a1, src.PostingsEntry a2) {
+                    return a2.docID - a1.docID; // assuming you want biggest to smallest
+                }
+            });
+        }
 
         // Compute the TF-IDF vectors for each document
         for(String token : tokens) {
             src.PostingsList tokenPostings = getPostings(token);
             for(src.PostingsEntry entry : tokenPostings.postingsEntries) {
-                src.Vector v = docVectors.get(entry.docID);
-                if(v == null) {
-                    v = new src.Vector(tokens.size());
-                    docVectors.put(entry.docID, v);
-                }
+                if(rankingType != src.Index.PAGERANK) {
+                    src.Vector v = docVectors.get(entry.docID);
+                    if (v == null) {
+                        v = new src.Vector(tokens.size());
+                        docVectors.put(entry.docID, v);
+                    }
 
-                // Update the TF-IDF score of one term for one document
-                tfidfScore = entry.score * Math.log10(index.size() / (double) tokenPostings.postingsEntries.size());
-                // / super.docLengths.get("" + entry.docID)
-                v.set(tokenIdx, tfidfScore);
+                    // Update the TF-IDF score of one term for one document
+                    tfidfScore = entry.score * Math.log10(index.size() / (double) tokenPostings.postingsEntries.size());
+                    // / super.docLengths.get("" + entry.docID)
+                    v.set(tokenIdx, tfidfScore);
+                } else {
+                    pe = new src.PostingsEntry(entry.docID);
+                    // Get the document pagerank
+                    pe.score = pageranks.get("" + entry.docID);
+                    // Add the current document if it does not exist to the list of documents
+                    pagerankedDocs.add(pe);
+                }
             }
             ++tokenIdx;
         }
 
-        // Compute the cosine similarity score of each document
-        src.PostingsEntry[] docArray = new src.PostingsEntry[docVectors.size()];
-        int i = 0;
-        Iterator<Map.Entry<Integer, src.Vector>> iter = docVectors.entrySet().iterator();
+        if(rankingType != src.Index.PAGERANK) {
+            // Compute the cosine similarity score of each document
+            docArray = new src.PostingsEntry[docVectors.size()];
+            int i = 0;
+            Iterator<Map.Entry<Integer, src.Vector>> iter = docVectors.entrySet().iterator();
 
-        while(iter.hasNext()) {
-            Map.Entry pair = iter.next();
-            src.PostingsEntry pe = new src.PostingsEntry((Integer)pair.getKey());
-            //((src.Vector)pair.getValue()).normalize();
+            while (iter.hasNext()) {
+                Map.Entry pair = iter.next();
+                pe = new src.PostingsEntry((Integer) pair.getKey());
+                //((src.Vector)pair.getValue()).normalize();
 
-            ((src.Vector)pair.getValue()).divide(docNorm.get((Integer)pair.getKey()));
+                ((src.Vector) pair.getValue()).divide(docNorm.get((Integer) pair.getKey()));
 
-            pe.score = queryVector.cosineSimilarity((src.Vector)pair.getValue());
-            docArray[i] = pe;
-            ++i;
+                cos_sim = queryVector.cosineSimilarity((src.Vector) pair.getValue());
+
+                if (rankingType == src.Index.TF_IDF) {
+                    pe.score = cos_sim;
+                } else if (rankingType == src.Index.COMBINATION) {
+                    pe.score = cos_sim * TF_IDF_WEIGHT + pageranks.get("" + pe.docID) * PAGERANK_WEIGHT;
+                }
+                docArray[i] = pe;
+                ++i;
+            }
+        } else {
+            docArray = pagerankedDocs.toArray(new src.PostingsEntry[pagerankedDocs.size()]);
         }
 
         // Sort the results
         Arrays.sort(docArray);
         ps = new src.PostingsList();
-        for(src.PostingsEntry pe : docArray) {
-            ps.postingsEntries.add(pe);
+        for(src.PostingsEntry tmp : docArray) {
+            ps.postingsEntries.add(tmp);
         }
 
         return ps;
@@ -517,6 +552,12 @@ public class HashedIndex extends src.Index {
     }
 
     public boolean importIndex() {
+        this.pageranks = src.PageRank.import_(CACHE_PATH + PAGERANKS_FILE_NAME);
+        if(this.pageranks == null) {
+            this.pageranks = new src.PageRank();
+            src.PageRank.export(this.pageranks, CACHE_PATH + PAGERANKS_FILE_NAME);
+        }
+
         if(!CACHE) {
             return false;
         }
