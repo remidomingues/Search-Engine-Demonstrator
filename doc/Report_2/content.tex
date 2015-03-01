@@ -279,28 +279,51 @@ In average, we can observe that the lower the ranking, the less are the links po
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.8\linewidth]{img/high.png}
-\caption{Sum Squared Error of the 50 highest ranked documents}
+\caption{Sum Squared Difference for the score of the 50 highest ranked documents}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\linewidth]{img/high_idx.png}
+\caption{Average index difference of the 50 highest ranked documents}
 \end{figure}
 
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.8\linewidth]{img/low.png}
-\caption{Caption}
+\caption{Sum Squared Difference for the score of the 50 highest ranked documents}
 \end{figure}
 
+\textbf{Legend:}
+\begin{itemize}
+\item MC1 $\Rightarrow$ MC end-point with random start
+\item MC2 $\Rightarrow$ MC end-point with cyclic start
+\item MC3 $\Rightarrow$ MC complete path
+\item MC4 $\Rightarrow$ MC complete path stopping at dangling nodes
+\item MC5 $\Rightarrow$ MC complete path with random start
+\end{itemize}
 
-\textit{Do your findings about the difference between the five method variants and the dependence of N support the claims made in the paper by Avrachenkov et al.?}\\
+\textit{Do your findings about the difference between the five method variants and the dependence of N support the claims made in the paper by Avrachenkov et al.?}
 
-The paper stated that one iteration of MC5 was enough to have a good estimate of the most important pages. This is not confirmed by our curves, showing a really slow convergence for MC1, 2 and 5.\\
-
-Indeed, our best algorithm is here MC4 (complete path starting m times at each node) while MC5 is far slower to converge.\\
-
-Therefore, we can observe that, and in agreement with the paper, the two end-point methods have the worst performances. We can also see that cyclic methods have better performances than random start ones.\\
+The paper stated that one iteration of MC5 was enough to have a good estimate of the most important pages. This is confirmed by our plots. Our best algorithm is here MC3 while MC4 is far slower to converge.
+According to the paper, the two end-point methods have the worst performances. This is true if we except MC4.
 
 Eventually, we see that high ranked documents converge far faster that low ranked documents.\\
 
-\textit{What do you see? Why do you get this result? Explain and relate to the properties of the (probabilistic) Monte-Carlo methods in contrast to the (deterministic) power iteration method.}\\
-We observe very unexpected results for MC3 (MC complete path with cycling start), which look like hyperbols. Those may be caused by cycles in our graph. However, similar results should also be observed for MC4 since the only difference between MC3 and 4 is that 4  stops when reaching a dangling node.
+
+\textbf{Convergence estimations:}
+\begin{itemize}
+\item $ MC1 \Rightarrow N = 7500 $
+\item $ MC2 \Rightarrow N = 11100 $
+\item $ MC3 \Rightarrow N = 2000 | 8500 $
+\item $ MC4 \Rightarrow N = 20000 $
+\item $ MC5 \Rightarrow N = 3300 $
+\end{itemize}
+
+
+\textit{What do you see? Why do you get this result? Explain and relate to the properties of the (probabilistic) Monte-Carlo methods in contrast to the (deterministic) power iteration method.}
+
+We observe that the error of cyclic methods (MC2, 3 and 4) increases when starting for certain documents (between 4000 and 5000). This may be caused by cycles in our graph. Since MC4 stops at dangling nodes, its walks are probably terminated earlier than MC2 and 3, which prevents the method from starting from a random document when arriving in a sink.
 
 \subsection{Combine tf-idf and PageRank}
 
