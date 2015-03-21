@@ -143,7 +143,6 @@ public class HashedIndex extends src.Index {
         LinkedList<src.PostingsList> tokensPostings = new LinkedList<src.PostingsList>();
         int maxDocID, nlists = 0, tmp;
         int[] wordFrequencies = new int[tokens.size()];
-        //TODO REMOVE src.PostingsEntry tmpEntry;
 
         // Postings retrieval
         for(String t : tokens) {
@@ -170,7 +169,6 @@ public class HashedIndex extends src.Index {
 
         // While none of the lists have been completely explored
         while(true) {
-            //TODO REMOVE i = 0;
             // We find the list having the bigger docID among the current iterators
             maxDocID = Integer.MIN_VALUE;
             for(ListIterator<src.PostingsEntry> iter : docsIterators) {
@@ -178,7 +176,6 @@ public class HashedIndex extends src.Index {
                     return result;
                 }
 
-                //TODO REMOVE tmpEntry = iter.next();
                 tmp = iter.next().docID;
                 //We reset the number of iterators positioned at maxDocID
                 if(tmp > maxDocID) {
@@ -187,9 +184,7 @@ public class HashedIndex extends src.Index {
                 //We increment the number of iterators positioned at maxDocID
                 } else if (tmp == maxDocID) {
                     ++nlists;
-                    //TODO REMOVE wordFrequencies[i] = tmpEntry.offsets.size();
                 }
-                //TODO REMOVE ++i;
             }
 
             // Every iterator point on the same document ID
@@ -197,7 +192,7 @@ public class HashedIndex extends src.Index {
                 // Intersection query
                 if(queryType == src.Index.INTERSECTION_QUERY) {
                     result.addToken(maxDocID, -1, null);
-                    //TODO REMOVE result.postingsEntries.getLast().updateTFIDFScore(tokens, index, wordFrequencies);
+
                 // Phrase query
                 } else if(queryType == src.Index.PHRASE_QUERY) {
                     LinkedList<ListIterator<Integer>> offsetIterators = new LinkedList<ListIterator<Integer>>();
@@ -209,7 +204,7 @@ public class HashedIndex extends src.Index {
                     }
                     // Retrieve for the given document the starting position of the sentences
                     List<Integer> positions = getSentencePositions(offsetIterators);
-                    // If the document contains at least one sentence (//TODO ASSIGNMENT 2 => RANKING)
+                    // If the document contains at least one sentence (
                     if(!positions.isEmpty()) {
                         // It is a result
                         result.addToken(maxDocID, -1, null);
@@ -241,14 +236,7 @@ public class HashedIndex extends src.Index {
 
         src.PostingsList ps = null;
 
-        if(query.size() == 1) {
-            ps = getPostings(query.terms.get(0));
-            if(queryType == src.Index.RANKED_QUERY) {
-                Collections.sort(ps.postingsEntries);
-            }
-        }
-
-        else if(query.size() > 1) {
+        if(query.size() > 0) {
             if(queryType == src.Index.INTERSECTION_QUERY || queryType == src.Index.PHRASE_QUERY) {
                 ps = getIntersectionPostings(query.terms, queryType);
             }
