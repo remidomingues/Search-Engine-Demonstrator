@@ -56,6 +56,19 @@ public class HashedIndex extends src.Index {
     /** The unpopular tokens (after the word threshold) are removed every N queries */
     private static final int REQUESTS_BEFORE_CLEANING = 3;
 
+    /** Relevance feedback */
+    private static final boolean UNINVERTED_INDEX = true;
+
+    /** Uninverted index
+     * - Key: document ID
+     * - Value: Hashmap:
+     *      - Key: word
+     *      - Value: Frequency in the current document
+     */
+    HashMap<Integer, HashMap<String, Integer>> uninverted_index = new HashMap<Integer, HashMap<String, Integer>>();
+    private int tmpUninvertedDocID = -1;
+    private HashMap<String, Integer> tmpUninvertedDoc = null;
+
     /**
      *  Inserts this token in the index.
      */
@@ -72,6 +85,33 @@ public class HashedIndex extends src.Index {
         }
 
         ps.addToken(docID, offset, null);
+
+        insert_uninverted(token, docID);
+    }
+
+    public void insert_uninverted(String token, int docID) {
+        if(UNINVERTED_INDEX) {
+            HashMap<String, Integer> doc;
+
+            if(docID == tmpUninvertedDocID) {
+                doc = tmpUninvertedDoc;
+            } else {
+                doc = uninverted_index.get(docID);
+                if(doc == null) {
+                    doc = new HashMap<String, Integer>();
+                    uninverted_index.put(docID, doc);
+                }
+                tmpUninvertedDoc = doc;
+                tmpUninvertedDocID = docID;
+            }
+
+            Integer count = doc.get(token);
+            if (count == null) {
+                doc.put(token, 1);
+            } else {
+                doc.put(token, count+1);
+            }
+        }
     }
 
 
@@ -241,7 +281,7 @@ public class HashedIndex extends src.Index {
                 ps = getIntersectionPostings(query.terms, queryType);
             }
             else if(queryType == src.Index.RANKED_QUERY) {
-                ps = getRankedPostings(query.terms, rankingType);
+                ps = getRankedPostings(query.terms, rankingType, query);
             }
         }
         else {
@@ -305,7 +345,7 @@ public class HashedIndex extends src.Index {
         System.out.println("Done");
     }
 
-    private src.PostingsList getRankedPostings(List<String> tokens, int rankingType) {
+    private src.PostingsList getRankedPostings(List<String> tokens, int rankingType, src.Query query) {
         int tokenIdx = 0;
         double tfidfScore, cos_sim;
         src.Vector queryVector = null;
@@ -322,8 +362,12 @@ public class HashedIndex extends src.Index {
 
         if(rankingType != src.Index.PAGERANK) {
             // Query vector
-            queryVector = src.Vector.ones(tokens.size());
-            queryVector.normalize();
+            if(query.vector == null) {
+                queryVector = src.Vector.ones(tokens.size());
+                queryVector.normalize();
+            } else {
+                queryVector = query.vector;
+            }
             docVectors = new HashMap<Integer, src.Vector>();
         } else {
             // Prepare the set structure to guarantee that every document ID in the set is unique
