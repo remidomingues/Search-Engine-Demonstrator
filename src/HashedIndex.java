@@ -56,15 +56,10 @@ public class HashedIndex extends src.Index {
     /** The unpopular tokens (after the word threshold) are removed every N queries */
     private static final int REQUESTS_BEFORE_CLEANING = 3;
 
-    /** Ranked query prerequisite - The query will return every document containing at least
-     * N words of the query (union if 0). Disabled if value is <= 1
-     */
-    private static final int RANKED_TERMS = 1;
-
     /** If true, displays the processing time for a query */
     private static final boolean DISPLAY_QUERY_TIME = true;
 
-    /** Relevance feedback */
+    /** ===== RELEVANCE FEEDBACK ===== */
     private static final boolean UNINVERTED_INDEX = true;
     /** Uninverted index
      * - Key: document ID
@@ -75,6 +70,22 @@ public class HashedIndex extends src.Index {
     HashMap<Integer, HashMap<String, Integer>> uninverted_index = new HashMap<Integer, HashMap<String, Integer>>();
     private int tmpUninvertedDocID = -1;
     private HashMap<String, Integer> tmpUninvertedDoc = null;
+
+
+    /** ===== RANKED RETRIEVAL SPEED UP ===== */
+    /** Ranked query prerequisite - The query will return every document containing at least
+     * N words of the query (union if 0). Disabled if value is <= 1
+     */
+    private static final int RANKED_TERMS = 1;
+
+    /**
+     * - Key: word
+     * - Value: Array of pairs <DocID, TF-IDF score>
+     */
+    private HashMap<String, ArrayList<AbstractMap.SimpleEntry<Integer, Double>>> tfidfScores = new
+            HashMap<String, ArrayList<AbstractMap.SimpleEntry<Integer, Double>>>();
+    /** Used to speedup the ranked query. At indexing, the N highest TF-IDF scores are kept in memory and used by ranked retrieval */
+    private static final int RANKED_DOC_PER_WORD = 10;
 
     /**
      *  Inserts this token in the index.
@@ -348,28 +359,44 @@ public class HashedIndex extends src.Index {
     /* ----------------------------------------------- */
     /*                    RANKING                      */
     /* ----------------------------------------------- */
-    /**
-     * - Key: word
-     * - Value: Array of pairs <DocID, TF-IDF score>
-     */
-    private HashMap<String, ArrayList<Map.Entry<Integer, Double>>> tfidfScores;
 
     private void computeDocumentNorms() {
         System.out.println("Computing document norms...");
+        int i;
         Double score;
-        Map.Entry<Integer, Double>[] array;
-        for(Entry<String, src.PostingsList> entry : index.entrySet()) {
-            //array = new Map.Entry<Integer, Double>[entry.getValue().postingsEntries.size()];
+        ArrayList<AbstractMap.SimpleEntry<Integer, Double>> array;
+
+        for(Map.Entry<String, src.PostingsList> entry : index.entrySet()) {
+            array = new ArrayList<AbstractMap.SimpleEntry<Integer, Double>>(entry.getValue().postingsEntries.size());
 
             for(src.PostingsEntry pe : entry.getValue().postingsEntries) {
                 Double tmp = docNorm.get(pe.docID);
                 if(tmp == null) {
                     tmp = 0.0;
                 }
+
                 score = pe.score * Math.log10(index.size() / (double) entry.getValue().postingsEntries.size());
+                array.add(new AbstractMap.SimpleEntry<Integer, Double>(pe.docID, score));
+
                 tmp += score;
                 docNorm.put(pe.docID, tmp);
             }
+
+            array.sort(new Comparator<AbstractMap.SimpleEntry<Integer, Double>>(){
+                public int compare(AbstractMap.SimpleEntry<Integer, Double> e1, AbstractMap.SimpleEntry<Integer, Double> e2) {
+                    return Double.compare(e2.getValue(), e1.getValue()); // assuming you want biggest to smallest
+                }
+            });
+
+            int size = Math.min(array.size(), RANKED_DOC_PER_WORD);
+            ArrayList<AbstractMap.SimpleEntry<Integer, Double>> tokenScores = new ArrayList<AbstractMap.SimpleEntry<Integer, Double>>(size);
+            i = 0;
+            for(AbstractMap.SimpleEntry<Integer, Double> e : array) {
+                tokenScores.add(e);
+                ++i;
+                if(i == size) { break;}
+            }
+            tfidfScores.put(entry.getKey(), tokenScores);
         }
         System.out.println("Done");
     }
@@ -421,11 +448,11 @@ public class HashedIndex extends src.Index {
             docValidity = new HashMap<Integer, MutableInt>();
 
             for(String token : tokens) {
-                src.PostingsList tokenPostings = getPostings(token);
-                for (src.PostingsEntry entry : tokenPostings.postingsEntries) {
-                    count = docValidity.get(entry.docID);
+                ArrayList<AbstractMap.SimpleEntry<Integer, Double>> scores = tfidfScores.get(token);
+                for(AbstractMap.SimpleEntry<Integer, Double> entry : scores) {
+                    count = docValidity.get(entry.getKey());
                     if (count == null) {
-                        docValidity.put(entry.docID, new MutableInt());
+                        docValidity.put(entry.getKey(), new MutableInt());
                     }
                     else {
                         count.increment();
@@ -436,25 +463,26 @@ public class HashedIndex extends src.Index {
 
         // Compute the TF-IDF vectors for each document
         for(String token : tokens) {
-            src.PostingsList tokenPostings = getPostings(token);
-            for(src.PostingsEntry entry : tokenPostings.postingsEntries) {
+            //src.PostingsList tokenPostings = getPostings(token);
+            //for(src.PostingsEntry entry : tokenPostings.postingsEntries) {
+            ArrayList<AbstractMap.SimpleEntry<Integer, Double>> scores = tfidfScores.get(token);
+            for(AbstractMap.SimpleEntry<Integer, Double> entry : scores) {
                 // Ignore the document if it does not contain enough words from the query
-                if (docValidity == null || docValidity.get(entry.docID).value >= threshold) {
+                if (docValidity == null || docValidity.get(entry.getKey()).value >= threshold) {
                     if (rankingType != src.Index.PAGERANK) {
-                        src.Vector v = docVectors.get(entry.docID);
+                        src.Vector v = docVectors.get(entry.getKey());
                         if (v == null) {
                             v = new src.Vector(tokens.size());
-                            docVectors.put(entry.docID, v);
+                            docVectors.put(entry.getKey(), v);
                         }
 
                         // Update the TF-IDF score of one term for one document
-                        tfidfScore = entry.score * Math.log10(index.size() / (double) tokenPostings.postingsEntries.size());
-                        // / super.docLengths.get("" + entry.docID)
+                        tfidfScore = entry.getValue();
                         v.set(tokenIdx, tfidfScore);
                     } else {
-                        pe = new src.PostingsEntry(entry.docID);
+                        pe = new src.PostingsEntry(entry.getKey());
                         // Get the document pagerank
-                        pe.score = pageranks.get("" + entry.docID);
+                        pe.score = pageranks.get("" + entry.getKey());
                         // Add the current document if it does not exist to the list of documents
                         pagerankedDocs.add(pe);
                     }
