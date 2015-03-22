@@ -56,9 +56,16 @@ public class HashedIndex extends src.Index {
     /** The unpopular tokens (after the word threshold) are removed every N queries */
     private static final int REQUESTS_BEFORE_CLEANING = 3;
 
+    /** Ranked query prerequisite - The query will return every document containing at least
+     * N words of the query (union if 0). Disabled if value is <= 1
+     */
+    private static final int RANKED_TERMS = 2;
+
+    /** If true, displays the processing time for a query */
+    private static final boolean DISPLAY_QUERY_TIME = true;
+
     /** Relevance feedback */
     private static final boolean UNINVERTED_INDEX = true;
-
     /** Uninverted index
      * - Key: document ID
      * - Value: Hashmap:
@@ -266,11 +273,20 @@ public class HashedIndex extends src.Index {
         }
     }
 
+    private void displayQueryTime(long startTime) {
+        if(HashedIndex.DISPLAY_QUERY_TIME) {
+            System.out.println(String.format("Query processed in %d nanoseconds", System.nanoTime() - startTime));
+        }
+    }
+
     /**
      *  Searches the index for postings matching the query.
      */
     public src.PostingsList search( src.Query query, int queryType, int rankingType, int structureType ) {
+        long startTime = System.nanoTime();
+
         if(!loadTokens(query.terms)) {
+            displayQueryTime(startTime);
             return null;
         }
 
@@ -285,6 +301,7 @@ public class HashedIndex extends src.Index {
             }
         }
         else {
+            displayQueryTime(startTime);
             return null;
         }
 
@@ -313,6 +330,7 @@ public class HashedIndex extends src.Index {
             System.out.println(String.format("%d tokens removed from memory.", i, popularitySet.size()-i));
         }
 
+        displayQueryTime(startTime);
         return ps;
     }
 
@@ -354,6 +372,7 @@ public class HashedIndex extends src.Index {
         src.PostingsEntry pe;
         TreeSet<src.PostingsEntry> pagerankedDocs = null;
         src.PostingsEntry[] docArray;
+        HashMap<Integer, Boolean> docValidity = null;
 
         Set<String> uniqueTokens = new TreeSet<String>();
         uniqueTokens.addAll(tokens);
@@ -378,27 +397,62 @@ public class HashedIndex extends src.Index {
             });
         }
 
+        //Determine for each document whether it contains enough words from the query or not
+        if(HashedIndex.RANKED_TERMS > 1) {
+            int cpt;
+            int threshold = Math.min(tokens.size(), HashedIndex.RANKED_TERMS);
+            HashMap<String, Integer> docIdx;
+            docValidity = new HashMap<Integer, Boolean>();
+
+            for(String token : tokens) {
+                src.PostingsList tokenPostings = getPostings(token);
+                for (src.PostingsEntry entry : tokenPostings.postingsEntries) {
+                    if(!docValidity.containsKey(entry.docID)) {
+                        cpt = 0;
+                        docIdx = this.uninverted_index.get(entry.docID);
+
+                        for (String t : tokens) {
+                            if (docIdx.containsKey(t)) {
+                                ++cpt;
+                                if (cpt == threshold) {
+                                    docValidity.put(entry.docID, true);
+                                    break;
+                                }
+                            }
+                        }
+
+                        if (cpt < threshold) {
+                            docValidity.put(entry.docID, false);
+                        }
+                    }
+                }
+            }
+        }
+
         // Compute the TF-IDF vectors for each document
         for(String token : tokens) {
             src.PostingsList tokenPostings = getPostings(token);
             for(src.PostingsEntry entry : tokenPostings.postingsEntries) {
-                if(rankingType != src.Index.PAGERANK) {
-                    src.Vector v = docVectors.get(entry.docID);
-                    if (v == null) {
-                        v = new src.Vector(tokens.size());
-                        docVectors.put(entry.docID, v);
-                    }
+                // Ignore the document if it does not contain enough words from the query
+                if (docValidity == null || docValidity.get(entry.docID)) {
+                    if (rankingType != src.Index.PAGERANK) {
+                        src.Vector v = docVectors.get(entry.docID);
+                        if (v == null) {
+                            v = new src.Vector(tokens.size());
+                            docVectors.put(entry.docID, v);
+                        }
 
-                    // Update the TF-IDF score of one term for one document
-                    tfidfScore = entry.score * Math.log10(index.size() / (double) tokenPostings.postingsEntries.size());
-                    // / super.docLengths.get("" + entry.docID)
-                    v.set(tokenIdx, tfidfScore);
-                } else {
-                    pe = new src.PostingsEntry(entry.docID);
-                    // Get the document pagerank
-                    pe.score = pageranks.get("" + entry.docID);
-                    // Add the current document if it does not exist to the list of documents
-                    pagerankedDocs.add(pe);
+                        // Update the TF-IDF score of one term for one document
+                        tfidfScore = entry.score * Math.log10(index.size() / (double) tokenPostings.postingsEntries.size());
+                        // / super.docLengths.get("" + entry.docID)
+                        v.set(tokenIdx, tfidfScore);
+                    } else {
+                        pe = new src.PostingsEntry(entry.docID);
+                        // Get the document pagerank
+                        pe.score = pageranks.get("" + entry.docID);
+                        // Add the current document if it does not exist to the list of documents
+                        pagerankedDocs.add(pe);
+                    }
                 }
             }
             ++tokenIdx;
