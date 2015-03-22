@@ -59,7 +59,7 @@ public class HashedIndex extends src.Index {
     /** Ranked query prerequisite - The query will return every document containing at least
      * N words of the query (union if 0). Disabled if value is <= 1
      */
-    private static final int RANKED_TERMS = 2;
+    private static final int RANKED_TERMS = 1;
 
     /** If true, displays the processing time for a query */
     private static final boolean DISPLAY_QUERY_TIME = true;
@@ -348,22 +348,39 @@ public class HashedIndex extends src.Index {
     /* ----------------------------------------------- */
     /*                    RANKING                      */
     /* ----------------------------------------------- */
+    /**
+     * - Key: word
+     * - Value: Array of pairs <DocID, TF-IDF score>
+     */
+    private HashMap<String, ArrayList<Map.Entry<Integer, Double>>> tfidfScores;
+
     private void computeDocumentNorms() {
         System.out.println("Computing document norms...");
-        for(src.PostingsList ps2 : index.values()) {
-            for(src.PostingsEntry pe : ps2.postingsEntries) {
-                Double score = docNorm.get(pe.docID);
-                if(score == null) {
-                    score = 0.0;
+        Double score;
+        Map.Entry<Integer, Double>[] array;
+        for(Entry<String, src.PostingsList> entry : index.entrySet()) {
+            //array = new Map.Entry<Integer, Double>[entry.getValue().postingsEntries.size()];
+
+            for(src.PostingsEntry pe : entry.getValue().postingsEntries) {
+                Double tmp = docNorm.get(pe.docID);
+                if(tmp == null) {
+                    tmp = 0.0;
                 }
-                score += pe.score * Math.log10(index.size() / (double) ps2.postingsEntries.size());
-                docNorm.put(pe.docID, score);
+                score = pe.score * Math.log10(index.size() / (double) entry.getValue().postingsEntries.size());
+                tmp += score;
+                docNorm.put(pe.docID, tmp);
             }
         }
         System.out.println("Done");
     }
 
     private src.PostingsList getRankedPostings(List<String> tokens, int rankingType, src.Query query) {
+        class MutableInt {
+            int value = 1; // note that we start at 1 since we're counting
+            public void increment () { ++value;      }
+            public int  get ()       { return value; }
+        }
+
         int tokenIdx = 0;
         double tfidfScore, cos_sim;
         src.Vector queryVector = null;
@@ -372,7 +389,7 @@ public class HashedIndex extends src.Index {
         src.PostingsEntry pe;
         TreeSet<src.PostingsEntry> pagerankedDocs = null;
         src.PostingsEntry[] docArray;
-        HashMap<Integer, Boolean> docValidity = null;
+        HashMap<Integer, MutableInt> docValidity = null;
 
         Set<String> uniqueTokens = new TreeSet<String>();
         uniqueTokens.addAll(tokens);
@@ -398,32 +415,20 @@ public class HashedIndex extends src.Index {
         }
 
         //Determine for each document whether it contains enough words from the query or not
+        int threshold = Math.min(tokens.size(), HashedIndex.RANKED_TERMS);
         if(HashedIndex.RANKED_TERMS > 1) {
-            int cpt;
-            int threshold = Math.min(tokens.size(), HashedIndex.RANKED_TERMS);
-            HashMap<String, Integer> docIdx;
-            docValidity = new HashMap<Integer, Boolean>();
+            MutableInt count;
+            docValidity = new HashMap<Integer, MutableInt>();
 
             for(String token : tokens) {
                 src.PostingsList tokenPostings = getPostings(token);
                 for (src.PostingsEntry entry : tokenPostings.postingsEntries) {
-                    if(!docValidity.containsKey(entry.docID)) {
-                        cpt = 0;
-                        docIdx = this.uninverted_index.get(entry.docID);
-
-                        for (String t : tokens) {
-                            if (docIdx.containsKey(t)) {
-                                ++cpt;
-                                if (cpt == threshold) {
-                                    docValidity.put(entry.docID, true);
-                                    break;
-                                }
-                            }
-                        }
-
-                        if (cpt < threshold) {
-                            docValidity.put(entry.docID, false);
-                        }
+                    count = docValidity.get(entry.docID);
+                    if (count == null) {
+                        docValidity.put(entry.docID, new MutableInt());
+                    }
+                    else {
+                        count.increment();
                     }
                 }
             }
@@ -434,7 +439,7 @@ public class HashedIndex extends src.Index {
             src.PostingsList tokenPostings = getPostings(token);
             for(src.PostingsEntry entry : tokenPostings.postingsEntries) {
                 // Ignore the document if it does not contain enough words from the query
-                if (docValidity == null || docValidity.get(entry.docID)) {
+                if (docValidity == null || docValidity.get(entry.docID).value >= threshold) {
                     if (rankingType != src.Index.PAGERANK) {
                         src.Vector v = docVectors.get(entry.docID);
                         if (v == null) {
