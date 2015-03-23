@@ -21,9 +21,6 @@ public class HashedIndex extends src.Index {
     /** The index as a hashtable. */
     private HashMap<String, src.PostingsList> index = new HashMap<String, src.PostingsList>();
 
-    /** Document norms */
-    private HashMap<Integer, Double> docNorm = new HashMap<Integer, Double>();
-
     /** Tree containing the 10% most popular postingslist sorted by popularity */
     private TreeSet<src.PostingsList> popularitySet = new TreeSet<src.PostingsList>();
     private Iterator<src.PostingsList> popularityIterator;
@@ -131,7 +128,6 @@ public class HashedIndex extends src.Index {
             }
         }
     }
-
 
     /**
      *  Returns all the words in the index.
@@ -463,8 +459,6 @@ public class HashedIndex extends src.Index {
 
         // Compute the TF-IDF vectors for each document
         for(String token : tokens) {
-            //src.PostingsList tokenPostings = getPostings(token);
-            //for(src.PostingsEntry entry : tokenPostings.postingsEntries) {
             ArrayList<AbstractMap.SimpleEntry<Integer, Double>> scores = tfidfScores.get(token);
             for(AbstractMap.SimpleEntry<Integer, Double> entry : scores) {
                 // Ignore the document if it does not contain enough words from the query

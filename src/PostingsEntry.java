@@ -30,6 +30,10 @@ public class PostingsEntry implements Comparable<PostingsEntry>, Serializable {
     public void addOffset(int offset) {
         ++score;
 
+        if(offset == -1) {
+            return;
+        }
+
         //If the current offset is higher than the last one inserted
         if(offsets.isEmpty() || offsets.getLast() < offset) {
             offsets.add(offset);

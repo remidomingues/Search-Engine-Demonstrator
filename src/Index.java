@@ -35,6 +35,9 @@ public abstract class Index {
     public HashMap<String, String> docIDs = new HashMap<String,String>();
     public HashMap<String,Integer> docLengths = new HashMap<String,Integer>();
 
+    /** Document norms */
+    protected HashMap<Integer, Double> docNorm = new HashMap<Integer, Double>();
+
     abstract public void insert( String token, int docID, int offset );
     abstract public Iterator<String> getDictionary();
     abstract public src.PostingsList getPostings( String token );
@@ -43,5 +46,12 @@ public abstract class Index {
     abstract public void indexingOver();
     abstract public void nextDoc();
     abstract public boolean importIndex();
+
+    public static Index getIndex() {
+        if(HASHED_INDEX == 1) {
+            return new src.HashedIndex();
+        }
+        return new src.BigramIndex();
+    }
 }
 

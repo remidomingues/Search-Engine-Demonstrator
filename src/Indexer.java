@@ -28,6 +28,7 @@ public class Indexer {
     /** The next docID to be generated. */
     private int lastDocID = 0;
 
+
     /* ----------------------------------------------- */
 
 
@@ -49,7 +50,7 @@ public class Indexer {
      *  Initializes the index as a HashedIndex.
      */
     public Indexer() {
-	   index = new src.HashedIndex();
+        index = src.Index.getIndex();
     }
 
 
