@@ -1,9 +1,9 @@
 import matplotlib.pyplot as plt
 
 # university rowing team
-words1 = [1, 2, 3]
-time1 = [3039700, 1968621, 1115864]
-results1 = [2417, 215, 5]
+words1 = [1, 2, 3, 4]
+time1 = [3039700, 1968621, 1115864, 1115864]
+results1 = [2417, 215, 5, 5]
 
 # old historic monument in Davis
 words2 = [1, 2, 3, 4]
@@ -15,8 +15,7 @@ plt.xlabel('Query words required in each document (or more)')
 plt.ylabel('Query time (nanoseconds)')
 plt.plot(words1, time1, label="university rowing team")
 plt.plot(words2, time2, label="old historic monument in Davis")
-plt.legend(bbox_to_anchor=(0., 1.02, 1., .102), loc=3,
-           ncol=2, mode="expand", borderaxespad=0.)
+plt.legend()
 plt.title("Query time for N words required per document")
 plt.show()
 
@@ -25,7 +24,6 @@ plt.xlabel('Query words required in each document (or more)')
 plt.ylabel('Retrieved documents')
 plt.plot(words1, results1, label="university rowing team")
 plt.plot(words2, results2, label="old historic monument in Davis")
-plt.legend(bbox_to_anchor=(0., 1.02, 1., .102), loc=3,
-           ncol=2, mode="expand", borderaxespad=0.)
+plt.legend()
 plt.title("Number of retrieved document per word requirement")
 plt.show()

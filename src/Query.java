@@ -17,7 +17,7 @@ public class Query {
 
     //Rocchio's algorithm parameters
     private static final double ALPHA = 1.0;
-    private static final double BETA = 0.15;
+    private static final double BETA = 0.1;
     // We use gamma = 0 since no documents are marked as non relevant (positive feedback only)
 
     /**
@@ -72,6 +72,10 @@ public class Query {
         une fois tout parcouru, pour chaque terme de la query,
                 on ajoute le terme / nb terms * alpha
 */
+        if(!(indexer.index instanceof src.HashedIndex)) {
+            return;
+        }
+
         int relevant = 0;
         for(boolean b : docIsRelevant) {
             if(b) {
