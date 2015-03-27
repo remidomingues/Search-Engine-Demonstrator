@@ -2,17 +2,16 @@
 
 Implementation of a search engine, indexing PDF and text files to process queries. The index can be stored on disk to speed up the initialization.
 
-Queries
+Query
 ---------------
 - Unigram (OR)
 - Bigram (OR)
-- Multiword (AND operator)
+- Multiword (AND)
 - Phrase
 
 Ranking
 ---------------
 - TF-IDF (Relevance feedback)
-- Weighted TF-IDF and PageRank
 - PageRank
     - Power iterations (default, highest accuracy)
     - MC end-point with random start
@@ -20,3 +19,4 @@ Ranking
     - MC complete path
     - MC complete path stopping at dangling nodes
     - MC complete path with random start (recommended)
+- Weighted TF-IDF and PageRank
