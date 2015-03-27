@@ -36,6 +36,10 @@ public class Vector {
         return Math.sqrt(n);
     }
 
+    public double get(int idx) {
+        return values[idx];
+    }
+
     public void set(int idx, double value) {
         values[idx] = value;
     }
@@ -59,5 +63,9 @@ public class Vector {
             values[i] = 1;
         }
         return new Vector(values);
+    }
+
+    public int size() {
+        return values.length;
     }
 }

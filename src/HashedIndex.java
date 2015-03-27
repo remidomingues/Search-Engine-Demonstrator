@@ -19,7 +19,7 @@ import java.util.*;
 public class HashedIndex extends src.Index {
 
     /** The index as a hashtable. */
-    private HashMap<String, src.PostingsList> index = new HashMap<String, src.PostingsList>();
+    public HashMap<String, src.PostingsList> index = new HashMap<String, src.PostingsList>();
 
     /** Tree containing the 10% most popular postingslist sorted by popularity */
     private TreeSet<src.PostingsList> popularitySet = new TreeSet<src.PostingsList>();
@@ -81,8 +81,9 @@ public class HashedIndex extends src.Index {
      */
     private HashMap<String, ArrayList<AbstractMap.SimpleEntry<Integer, Double>>> tfidfScores = new
             HashMap<String, ArrayList<AbstractMap.SimpleEntry<Integer, Double>>>();
-    /** Used to speedup the ranked query. At indexing, the N highest TF-IDF scores are kept in memory and used by ranked retrieval */
-    private static final int RANKED_DOC_PER_WORD = 10;
+    /** Used to speedup the ranked query. At indexing, the N highest TF-IDF scores are kept in memory and used by ranked retrieval
+     * Integer.MAX_VALUE to disable */
+    private static final int RANKED_DOC_PER_WORD = 20;
 
     /**
      *  Inserts this token in the index.
@@ -371,7 +372,7 @@ public class HashedIndex extends src.Index {
                     tmp = 0.0;
                 }
 
-                score = pe.score * Math.log10(index.size() / (double) entry.getValue().postingsEntries.size());
+                score = pe.score * Math.log(uninverted_index.size() / (double) entry.getValue().postingsEntries.size());
                 array.add(new AbstractMap.SimpleEntry<Integer, Double>(pe.docID, score));
 
                 tmp += score;
@@ -413,12 +414,12 @@ public class HashedIndex extends src.Index {
         TreeSet<src.PostingsEntry> pagerankedDocs = null;
         src.PostingsEntry[] docArray;
         HashMap<Integer, MutableInt> docValidity = null;
-
+/*
         Set<String> uniqueTokens = new TreeSet<String>();
         uniqueTokens.addAll(tokens);
         tokens.clear();
         tokens.addAll(uniqueTokens);
-
+*/
         if(rankingType != src.Index.PAGERANK) {
             // Query vector
             if(query.vector == null) {
@@ -494,7 +495,6 @@ public class HashedIndex extends src.Index {
             while (iter.hasNext()) {
                 Map.Entry pair = iter.next();
                 pe = new src.PostingsEntry((Integer) pair.getKey());
-                //((src.Vector)pair.getValue()).normalize();
 
                 ((src.Vector) pair.getValue()).divide(docNorm.get((Integer) pair.getKey()));
 
@@ -520,6 +520,16 @@ public class HashedIndex extends src.Index {
         }
 
         return ps;
+    }
+
+    public double getTfIdfScore(String token, Integer docID) {
+        ArrayList<AbstractMap.SimpleEntry<Integer, Double>> scores = tfidfScores.get(token);
+        for(AbstractMap.SimpleEntry<Integer, Double> entry : scores) {
+            if(entry.getKey().equals(docID)) {
+                return entry.getValue();
+            }
+        }
+        return 0;
     }
 
 

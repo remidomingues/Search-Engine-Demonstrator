@@ -16,8 +16,8 @@ public class Query {
     public src.Vector vector = null;
 
     //Rocchio's algorithm parameters
-    private static final double ALPHA = 1.0;
-    private static final double BETA = 0.1;
+    private static final double ALPHA = 1;
+    private static final double BETA = 0.75;
     // We use gamma = 0 since no documents are marked as non relevant (positive feedback only)
 
     /**
@@ -62,16 +62,6 @@ public class Query {
     public void relevanceFeedback( src.PostingsList results, boolean[] docIsRelevant, src.Indexer indexer ) {
 	    // results contain the ranked list from the current search
 	    // docIsRelevant contains the users feedback on which of the 10 first hits are relevant
-/*
-        Meilleure idée:
-        on itère sur les documents relevant et leurs mots
-        on a une map, on met les token et leur poids quand ils arrivent
-        divisé par la longueur du document et le nombre de doc relevant
-        et multiplié par beta
-
-        une fois tout parcouru, pour chaque terme de la query,
-                on ajoute le terme / nb terms * alpha
-*/
         if(!(indexer.index instanceof src.HashedIndex)) {
             return;
         }
@@ -84,18 +74,28 @@ public class Query {
         }
 
         int i = 0;
+        int ndocs = indexer.index.docLengths.size();
+        double score, docNorm, docLength;
         HashMap<String, Double> query = new HashMap<String, Double>();
+        // Iterate through the retrieved documents
         for(src.PostingsEntry pe : results.postingsEntries) {
             if(i >= docIsRelevant.length) {
                 break;
             }
+            // Filter the irrelevant documents
             if(docIsRelevant[i]) {
-                double docLength = (double) indexer.index.docLengths.get("" + pe.docID);
+                //docLength = (double) indexer.index.docLengths.get("" + pe.docID);
+                //docNorm = indexer.index.docNorm.get(pe.docID);
+                // Get the words contained by the current document and the number of times they appear
                 HashMap<String, Integer> words = ((src.HashedIndex)indexer.index).uninverted_index.get(pe.docID);
 
+                // For each word
                 for(Map.Entry<String, Integer> word : words.entrySet()) {
                     Double weight = query.get(word.getKey());
-                    Double update = (BETA * word.getValue()) / (docLength * relevant);
+                    // TF-IDF computation weighted by BETA and the number of relevant documents
+                    score = ((src.HashedIndex)indexer.index).getTfIdfScore(word.getKey(), pe.docID);
+                    //score = (word.getValue() / (docLength * docNorm)) * Math.log(ndocs / (double) ((src.HashedIndex)indexer.index).index.get(word.getKey()).postingsEntries.size());
+                    Double update = (BETA * score) / relevant;
                     if(weight == null) {
                         query.put(word.getKey(), update);
                     } else {
@@ -105,10 +105,9 @@ public class Query {
             }
             ++i;
         }
-
         for(String term : this.terms) {
             Double weight = query.get(term);
-            Double update = ALPHA / this.terms.size();
+            Double update = ALPHA; // / this.terms.size();
             if(weight == null) {
                 query.put(term, update);
             } else {
@@ -124,5 +123,6 @@ public class Query {
             ++i;
         }
         this.vector = new src.Vector(array);
+        this.vector.normalize();
     }
 }
