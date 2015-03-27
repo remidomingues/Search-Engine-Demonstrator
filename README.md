@@ -4,13 +4,14 @@ Implementation of a search engine, indexing PDF and text files to process querie
 
 Queries
 ---------------
-- Single word
+- Unigram (OR)
+- Bigram (OR)
 - Multiword (AND operator)
 - Phrase
 
 Ranking
 ---------------
-- TF-IDF
+- TF-IDF (Relevance feedback)
 - Weighted TF-IDF and PageRank
 - PageRank
     - Power iterations (default, highest accuracy)
