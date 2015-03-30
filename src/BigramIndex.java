@@ -152,7 +152,7 @@ public class BigramIndex  extends src.Index {
         for(HashMap<String, src.PostingsList> map : index.values()) {
             for (src.PostingsList ps : map.values()) {
                 for (src.PostingsEntry pe : ps.postingsEntries) {
-                    pe.score /= super.docLengths.get("" + pe.docID);
+                    pe.score /= docLengths.get("" + pe.docID);
                 }
             }
         }

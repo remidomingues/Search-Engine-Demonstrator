@@ -36,9 +36,6 @@ public class SearchGUI extends JFrame {
     /**  The query type (either intersection, phrase, or ranked). */
     int queryType = Index.INTERSECTION_QUERY;
 
-    /**  The index type (either entirely in memory or partly on disk). */
-    int indexType = Index.HASHED_INDEX;
-
     /**  The ranking type (either tf-idf, pagerank, or combination). */
     int rankingType = Index.TF_IDF;
 
@@ -169,7 +166,11 @@ public class SearchGUI extends JFrame {
 		    // we don't want to search at the same time we're indexing new files
 		    // (this might corrupt the index).
 		    synchronized ( indexLock ) {
-			results = indexer.index.search( query, queryType, rankingType, structureType );
+                if(structureType == src.Index.BIGRAM) {
+                    results = indexer.bigram_index.search(query, queryType, rankingType, structureType);
+                } else {
+                    results = indexer.index.search(query, queryType, rankingType, structureType);
+                }
 		    }
 		    StringBuffer buf = new StringBuffer();
 		    if ( results != null ) {
@@ -218,7 +219,11 @@ public class SearchGUI extends JFrame {
 			// synchronized since we don't want to search at the same time we're indexing new files
 			// (this might corrupt the index).
 			synchronized ( indexLock ) {
-			    results = indexer.index.search( query, queryType, rankingType, structureType );
+                if(structureType == src.Index.BIGRAM) {
+                    results = indexer.bigram_index.search(query, queryType, rankingType, structureType);
+                } else {
+                    results = indexer.index.search(query, queryType, rankingType, structureType);
+                }
 			}
 			buf.append( "\nSearch after relevance feedback:\n" );
 			buf.append( "\nFound " + results.size() + " matching document(s)\n\n" );
@@ -345,7 +350,9 @@ public class SearchGUI extends JFrame {
                 indexer.processFiles( dokDir );
             }
             resultWindow.setText( "\n  Saving popular entries, please wait..." );
+            indexer.sync_indexes();
             indexer.index.indexingOver();
+            indexer.bigram_index.indexingOver();
         }
 	    resultWindow.setText( "\n  Done!" );
 	}

@@ -13,10 +13,6 @@ import java.util.HashMap;
 import java.util.Iterator;
 
 public abstract class Index {
-
-    /* Index types */
-    public static final int HASHED_INDEX = 1;
-
     /* Query types */
     public static final int INTERSECTION_QUERY = 0;
     public static final int PHRASE_QUERY = 1;
@@ -46,12 +42,5 @@ public abstract class Index {
     abstract public void indexingOver();
     abstract public void nextDoc();
     abstract public boolean importIndex();
-
-    public static Index getIndex() {
-        if(HASHED_INDEX == 1) {
-            return new src.HashedIndex();
-        }
-        return new src.BigramIndex();
-    }
 }
 

@@ -25,6 +25,9 @@ public class Indexer {
     /** The index to be built up by this indexer. */
     public src.Index index;
 
+    /** The index to be built up by this indexer. */
+    public src.Index bigram_index;
+
     /** The next docID to be generated. */
     private int lastDocID = 0;
 
@@ -50,7 +53,8 @@ public class Indexer {
      *  Initializes the index as a HashedIndex.
      */
     public Indexer() {
-        index = src.Index.getIndex();
+        index = new src.HashedIndex();
+        bigram_index = new src.BigramIndex();
     }
 
 
@@ -115,6 +119,11 @@ public class Indexer {
     	}
     }
 
+    public void sync_indexes() {
+        bigram_index.docIDs = index.docIDs;
+        bigram_index.docLengths = index.docLengths;
+    }
+
 
     /* ----------------------------------------------- */
     /**
@@ -137,6 +146,7 @@ public class Indexer {
      */
     public void insertIntoIndex( int docID, String token, int offset ) {
         index.insert( token, docID, offset );
+        bigram_index.insert( token, docID, offset );
     }
 }
 

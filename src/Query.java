@@ -16,8 +16,8 @@ public class Query {
     public src.Vector vector = null;
 
     //Rocchio's algorithm parameters
-    private static final double ALPHA = 1;
-    private static final double BETA = 0.75;
+    private static final double ALPHA = 0.5;
+    private static final double BETA = 0.5;
     // We use gamma = 0 since no documents are marked as non relevant (positive feedback only)
 
     /**
